@@ -1,0 +1,6568 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="ja">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>jawiki</dbname>
+    <base>https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8</base>
+    <generator>MediaWiki 1.40.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">メディア</namespace>
+      <namespace key="-1" case="first-letter">特別</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">ノート</namespace>
+      <namespace key="2" case="first-letter">利用者</namespace>
+      <namespace key="3" case="first-letter">利用者‐会話</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia‐ノート</namespace>
+      <namespace key="6" case="first-letter">ファイル</namespace>
+      <namespace key="7" case="first-letter">ファイル‐ノート</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki‐ノート</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template‐ノート</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help‐ノート</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category‐ノート</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal‐ノート</namespace>
+      <namespace key="102" case="first-letter">プロジェクト</namespace>
+      <namespace key="103" case="first-letter">プロジェクト‐ノート</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">モジュール</namespace>
+      <namespace key="829" case="first-letter">モジュール‐ノート</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>バスケットボール欧州選手権</title>
+    <ns>0</ns>
+    <id>767969</id>
+    <revision>
+      <id>91553793</id>
+      <parentid>91553769</parentid>
+      <timestamp>2022-09-20T09:15:45Z</timestamp>
+      <contributor>
+        <ip>2400:2200:5FB:8CBD:0:0:52FA:552C</ip>
+      </contributor>
+      <comment>/* メダル獲得数 */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27263" xml:space="preserve">{{スポーツリーグ
+| title          = EuroBasket
+| formerly       = 
+| current_season = EuroBasket 2022
+| logo           = 
+| pixels         = 230px
+| sport          = バスケットボール 
+| founded        = {{Start date and age|df=yes|1935}}
+| inaugural      = [[EuroBasket 1935|1935]]
+| teams          = 24
+| countries      = [[FIBA Europe]] member associations
+| continent      = [[FIBA Europe]] ([[Europe]])
+| champion       = {{bk|Spain}}&lt;br&gt;(4th title)
+| most_champs    = {{bk|Soviet Union}}&lt;br&gt;(14 titles)
+| website        = [https://www.eurobasket.com/ EuroBasket.com]&lt;br&gt;[http://www.fiba.basketball/europe FIBA Europe]
+| related_comps  = [[FIBA European Championship for Small Countries]] &lt;br&gt; [[EuroBasket Women]]
+}}
+'''FIBAヨーロッパ選手権'''（FIBA Europe Championship）は、[[FIBAヨーロッパ]]が主催する[[バスケットボール]]の[[ナショナルチーム]]による国際大会である。通称「'''ユーロバスケット'''（EuroBasket）」。
+
+== 男子大会 ==
+=== 概要 ===
+[[1935年]]に第1回大会が開催された伝統ある大会で、[[サッカー]]の[[UEFA欧州選手権]]のバスケットボール版に当たる（[[オリンピックバスケットボール競技|オリンピック]]は翌年の[[ベルリンオリンピック]]から正式種目。[[FIBAバスケットボール・ワールドカップ|ワールドカップ]]は[[1950年]]から）。
+
+男子は、2015年まで五輪またはW杯の欧州予選も兼ねていたが、2017年大会からW杯の中間年の開催に移行し、W杯や五輪予選は別途実施されることになった。女子は変更なし。
+
+=== 大会形式 ===
+開催国と前回大会上位国は予選免除となり、残りの出場国を予選により決定する。
+
+==== 予選 ====
+予選はディビジョンA・B・Cの3部制で行われ、Aを勝ち抜いた国が本選出場を果たす。下位2チームは次回Bに降格。Bの上位は次回のAに昇格。
+
+予選形式は大会により異なるが、2009年大会は8チームが予選免除となり、まず17チームが4グループに分かれてラウンドロビン方式の1次予選を戦い、各グループ上位1チームとそれらを除いた全グループでの上位3チームの計7チームが本選出場となる。
+
+残りのチームのうち各グループ最下位の4チームは残留プレーオフに回り、それ以外の6チームは最後の本選出場権1枠を懸けて最終予選を戦う。
+
+==== 本選 ====
+まず4グループに分かれてのラウンドロビン形式の1次ラウンドを戦い、各グループ上位3チームが2次ラウンドに進出。2グループに分かれて再びラウンドロビンを戦い、各組上位4チームがノックアウト方式の決勝トーナメントに進出する。（2007年）
+
+=== 大会記録 ===
+{| class=wikitable style="text-align:center; font-size:90%; width:100%"
+|+Summaries
+!rowspan=2 width=5%|開催年
+!rowspan=2 width=13%|開催地 (決勝)
+!colspan=3|決勝
+!colspan=3|3位決定戦
+!rowspan=2 width=3%|参加チーム
+|-
+!width=15%|優勝
+!width=6.5%|Score
+!width=15%|2位
+!width=15%|3位
+!width=6.5%|Score
+!width=15%|4位
+|-
+|[[1935年バスケットボール欧州選手権|1935]]
+|align="left"|{{flag|Switzerland}} ([[ジュネーヴ]])
+|'''{{Bk-big|Latvia}}'''
+|'''24–18'''
+|{{Bk-big|Spain|1931}}
+|{{Bk-big|Czechoslovakia}}
+|'''25–23'''
+|{{Bk-big|Switzerland}}
+|10
+|- style="background:#D0E6FF;"
+|[[1937年バスケットボール欧州選手権|1937]]
+|align="left"|{{flag|Latvia}} ([[リガ]])
+|'''{{Bk-big|Lithuania|1918}}'''
+|'''24–23'''
+|{{Bk-big|Italy|1861}}
+|{{Bk-big|France}}
+|'''27–24'''
+|{{Bk-big|Poland}}
+|8
+|-
+|[[1939年バスケットボール男子欧州選手権|1939]]
+|align="left"|{{flag|Lithuania|1918}} ([[カウナス]])
+|'''{{Bk-big|Lithuania|1918}}'''
+|&lt;ref name=None&gt;No play-offs&lt;/ref&gt;
+|{{Bk-big|Latvia}}
+|{{Bk-big|Poland}}
+|&lt;ref name=None/&gt;
+|{{Bk-big|France}}
+|8
+|- style="background:#D0E6FF;"
+|[[1946年バスケットボール男子欧州選手権|1946]]
+|align="left"|{{flag|Switzerland}} ([[ジュネーヴ]])
+|'''{{Bk-big|Czechoslovakia}}'''
+|'''34–32'''
+|{{Bk-big|Italy|1861}}
+|{{Bk-big|Hungary|1946}}
+|'''38–32'''
+|{{Bk-big|France}}
+|10
+|-
+|[[1947年バスケットボール男子欧州選手権|1947]]
+|align="left"|{{flag|Czechoslovakia}} ([[プラハ]])
+|'''{{Bk-big|Soviet Union|1923}}'''
+|'''56–37'''
+|{{Bk-big|Czechoslovakia}}
+|{{Bk-big|Egypt|1922}}
+|'''50–48'''
+|{{Bk-big|Belgium}}
+|14
+|- style="background:#D0E6FF;"
+|[[1949年バスケットボール男子欧州選手権|1949]]
+|align="left"|{{flag|Egypt|1922}} ([[カイロ]])
+|'''{{Bk-big|Egypt|1922}}'''
+|'''57–36'''
+|{{Bk-big|France}}
+|{{Bk-big|Greece|old}}
+|&lt;ref name=None/&gt;
+|{{Bk-big|Turkey}}
+|7
+|-
+|[[1951年バスケットボール男子欧州選手権|1951]]
+|align="left"|{{flag|France}} ([[パリ]])
+|'''{{Bk-big|Soviet Union|1923}}'''
+|'''45–44'''
+|{{Bk-big|Czechoslovakia}}
+|{{Bk-big|France}}
+|'''55–52'''
+|{{Bk-big|Bulgaria|1946}}
+|18
+|- style="background:#D0E6FF;"
+|[[1953年バスケットボール男子欧州選手権|1953]]
+|align="left"|{{flag|Soviet Union|1923}} ([[モスクワ]])
+|'''{{Bk-big|Soviet Union|1923}}'''
+|&lt;ref name=None/&gt;
+|{{Bk-big|Hungary|1949}}
+|{{Bk-big|France}}
+|&lt;ref name=None/&gt;
+|{{Bk-big|Czechoslovakia}}
+|17
+|-
+|[[1955年バスケットボール男子欧州選手権|1955]]
+|align="left"|{{flag|Hungary|1949}} ([[ブダペスト]])
+|'''{{Bk-big|Hungary|1949}}'''
+|&lt;ref name=None/&gt;
+|{{Bk-big|Czechoslovakia}}
+|{{Bk-big|Soviet Union|1955}}
+|&lt;ref name=None/&gt;
+|{{Bk-big|Bulgaria|1946}}
+|18
+|- style="background:#D0E6FF;"
+|[[1957年バスケットボール男子欧州選手権|1957]]
+|align="left"|{{flag|Bulgaria|1946}} ([[ソフィア (ブルガリア)|ソフィア]])
+|'''{{Bk-big|Soviet Union|1955}}'''
+|&lt;ref name=None/&gt;
+|{{Bk-big|Bulgaria|1946}}
+|{{Bk-big|Czechoslovakia}}
+|&lt;ref name=None/&gt;
+|{{Bk-big|Hungary|1946}}
+|16
+|-
+|[[1959年バスケットボール男子欧州選手権|1959]]
+|align="left"|{{flag|Turkey}} ([[イスタンブール]])
+|'''{{Bk-big|Soviet Union|1955}}'''
+|'''83–72'''
+|{{Bk-big|Czechoslovakia}}
+|{{Bk-big|France}}
+|'''62–60'''
+|{{Bk-big|Hungary}}
+|17
+|- style="background:#D0E6FF;"
+|[[1961年バスケットボール男子欧州選手権|1961]]
+|align="left"|{{flag|Yugoslavia}} ([[ベオグラード]])
+|'''{{Bk-big|Soviet Union|1955}}'''
+|'''60–53'''
+|{{Bk-big|Yugoslavia}}
+|{{Bk-big|Bulgaria|1946}}
+|'''55–46'''
+|{{Bk-big|France}}
+|19
+|-
+|[[1963年バスケットボール男子欧州選手権|1963]]
+|align="left"|{{flag|Poland}} ([[ヴロツワフ]])
+|'''{{Bk-big|Soviet Union|1955}}'''
+|'''61–45'''
+|{{Bk-big|Poland}}
+|{{Bk-big|Yugoslavia}}
+|'''89–61'''
+|{{Bk-big|Hungary}}
+|16
+|- style="background:#D0E6FF;"
+|[[1965年バスケットボール男子欧州選手権|1965]]
+|align="left"|{{flag|Soviet Union|1955}} ([[モスクワ]])
+|'''{{Bk-big|Soviet Union|1955}}'''
+|'''58–49'''
+|{{Bk-big|Yugoslavia}}
+|{{Bk-big|Poland}}
+|'''86–70'''
+|{{Bk-big|Italy}}
+|16
+|-
+|[[1967年バスケットボール男子欧州選手権|1967]]
+|align="left"|{{flag|Finland}} ([[ヘルシンキ]])
+|'''{{Bk-big|Soviet Union|1955}}'''
+|'''89–77'''
+|{{Bk-big|Czechoslovakia}}
+|{{Bk-big|Poland}}
+|'''80–76'''
+|{{Bk-big|Bulgaria|1967}}
+|16
+|- style="background:#D0E6FF;"
+|[[1969年バスケットボール男子欧州選手権|1969]]
+|align="left"|{{flag|Italy}} ([[ナポリ]])
+|'''{{Bk-big|Soviet Union|1955}}'''
+|'''81–72'''
+|{{Bk-big|Yugoslavia}}
+|{{Bk-big|Czechoslovakia}}
+|'''77–75'''
+|{{Bk-big|Poland}}
+|12
+|-
+|[[1971年バスケットボール男子欧州選手権|1971]]
+|align="left"|{{flag|West Germany}} ([[エッセン]])
+|'''{{Bk-big|Soviet Union|1955}}'''
+|'''69–64'''
+|{{Bk-big|Yugoslavia}}
+|{{Bk-big|Italy}}
+|'''85–67'''
+|{{Bk-big|Poland}}
+|12
+|- style="background:#D0E6FF;"
+|[[1973年バスケットボール男子欧州選手権|1973]]
+|align="left"|{{flag|Spain|1945}} ([[バルセロナ]])
+|'''{{Bk-big|Yugoslavia}}'''''
+|'''78–67'''
+|{{Bk-big|Spain|1945}}
+|{{Bk-big|Soviet Union|1955}}
+|'''90–58'''
+|{{Bk-big|Czechoslovakia}}
+|12
+|-
+|[[1975年バスケットボール男子欧州選手権|1975]]
+|align="left"|{{flag|Yugoslavia}} ([[ベオグラード]])
+|'''{{Bk-big|Yugoslavia}}'''
+|&lt;ref name=None/&gt;
+|{{Bk-big|Soviet Union|1955}}
+|{{Bk-big|Italy}}
+|&lt;ref name=None/&gt;
+|{{Bk-big|Spain}}
+|12
+|- style="background:#D0E6FF;"
+|[[1977年バスケットボール男子欧州選手権|1977]]
+|align="left"|{{flag|Belgium}}([[リエージュ]])
+|'''{{Bk-big|Yugoslavia}}'''
+|'''74–61'''
+|{{Bk-big|Soviet Union|1955}}
+|{{Bk-big|Czechoslovakia}}
+|'''91–81'''
+|{{Bk-big|Italy}}
+|12
+|-
+|[[1979年バスケットボール男子欧州選手権|1979]]
+|align="left"|{{flag|Italy}} ([[トリノ]])
+|'''{{Bk-big|Soviet Union|1955}}'''
+|'''98–76'''
+|{{Bk-big|Israel}}
+|{{Bk-big|Yugoslavia}}
+|'''99–92'''
+|{{Bk-big|Czechoslovakia}}
+|12
+|- style="background:#D0E6FF;"
+|[[1981年バスケットボール男子欧州選手権|1981]]
+|align="left"|{{flag|Czechoslovakia}} ([[プラハ]])
+|'''{{Bk-big|Soviet Union}}'''
+|'''84–76'''
+|{{Bk-big|Yugoslavia}}
+|{{Bk-big|Czechoslovakia}}
+|'''101–90'''
+|{{Bk-big|Spain}}
+|12
+|-
+|[[1983年バスケットボール男子欧州選手権|1983]]
+|align="left"|{{flag|France}} ([[ナント]])
+|'''{{Bk-big|Italy}}'''
+|'''105–96'''
+|{{Bk-big|Spain}}
+|{{Bk-big|Soviet Union}}
+|'''105–70'''
+|{{Bk-big|Netherlands}}
+|12
+|- style="background:#D0E6FF;"
+|[[1985年バスケットボール男子欧州選手権|1985]]
+|align="left"|{{flag|West Germany}} ([[シュトゥットガルト]])
+|'''{{Bk-big|Soviet Union}}'''
+|'''120–89'''
+|{{Bk-big|Czechoslovakia}}
+|{{Bk-big|Italy}}
+|'''102–90'''
+|{{Bk-big|Spain}}
+|12
+|-
+|[[1987年バスケットボール男子欧州選手権|1987]]
+|align="left"|{{flag|Greece}} ([[アテネ]])
+|'''{{Bk-big|Greece}}'''
+|'''103–101''' &lt;br /&gt; 延長
+|{{Bk-big|Soviet Union}}
+|{{Bk-big|Yugoslavia}}
+|'''98–87'''
+|{{Bk-big|Spain}}
+|12
+|- style="background:#D0E6FF;"
+|[[1989年バスケットボール男子欧州選手権|1989]]
+|align="left"|{{flag|Yugoslavia}} ([[ザグレブ]])
+|'''{{Bk-big|Yugoslavia}}'''
+|'''98–77'''
+|{{Bk-big|Greece}}
+|{{Bk-big|Soviet Union}}
+|'''104–76'''
+|{{Bk-big|Italy}}
+|8
+|-
+|[[1991年バスケットボール男子欧州選手権|1991]]
+|align="left"|{{flag|Italy}} ([[ローマ]])
+|'''{{Bk-big|Yugoslavia}}'''
+|'''88–73'''
+|{{Bk-big|Italy}}
+|{{Bk-big|Spain}}
+|'''101–83'''
+|{{Bk-big|France}}
+|8
+|- style="background:#D0E6FF;"
+|[[1993年バスケットボール男子欧州選手権|1993]]
+|align="left"|{{flag|Germany}} ([[ミュンヘン]])
+|'''{{Bk-big|Germany}}'''
+|'''71–70'''
+|{{Bk-big|Russia|1991}}
+|{{Bk-big|Croatia}}
+|'''99–59'''
+|{{Bk-big|Greece}}
+|16
+|-
+|[[1995年バスケットボール男子欧州選手権|1995]]
+|align="left"|{{flag|Greece}} ([[アテネ]])
+|'''{{Bk-big|FR Yugoslavia}}'''
+|'''96–90'''
+|{{Bk-big|Lithuania}}
+|{{Bk-big|Croatia}}
+|'''73–68'''
+|{{Bk-big|Greece}}
+|14
+|- style="background:#D0E6FF;"
+|[[1997年バスケットボール男子欧州選手権|1997]]
+|align="left"|{{flag|Spain}} ([[バルセロナ]])
+|'''{{Bk-big|FR Yugoslavia}}'''
+|'''61–49'''
+|{{Bk-big|Italy}}
+|{{Bk-big|Russia}}
+|'''97–77'''
+|{{Bk-big|Greece}}
+|16
+|-
+|[[1999年バスケットボール男子欧州選手権|1999]]
+|align="left"|{{flag|France}} ([[パリ]])
+|'''{{Bk-big|Italy}}'''
+|'''64–56'''
+|{{Bk-big|Spain}}
+|{{Bk-big|FR Yugoslavia}}
+|'''74–62'''
+|{{Bk-big|France}}
+|16
+|- style="background:#D0E6FF;"
+|[[2001年バスケットボール男子欧州選手権|2001]]
+|align="left"|{{flag|Turkey}} ([[イスタンブール]])
+|'''{{Bk-big|FR Yugoslavia}}'''
+|'''78–69'''
+|{{Bk-big|Turkey}}
+|{{Bk-big|Spain}}
+|'''99–90'''
+|{{Bk-big|Germany}}
+|16
+|-
+|[[2003年バスケットボール男子欧州選手権|2003]]
+|align="left"|{{flag|Sweden}} ([[ストックホルム]])
+|'''{{Bk-big|Lithuania}}'''
+|'''93–84'''
+|{{Bk-big|Spain}}
+|{{Bk-big|Italy}}
+|'''69–67'''
+|{{Bk-big|France}}
+|16
+|- style="background:#D0E6FF;"
+|[[2005年バスケットボール男子欧州選手権|2005]]
+|align="left"|{{flag|Serbia and Montenegro}} ([[ベオグラード]])
+|'''{{Bk-big|Greece}}'''
+|'''78–62'''
+|{{Bk-big|Germany}}
+|{{Bk-big|France}}
+|'''98–68'''
+|{{Bk-big|Spain}}
+|16
+|-
+|[[2007年バスケットボール男子欧州選手権|2007]]
+|align="left"|{{flag|Spain}} ([[マドリード]])
+|'''{{Bk-big|Russia}}'''
+|'''60–59'''
+|{{Bk-big|Spain}}
+|{{Bk-big|Lithuania}}
+|'''78–69'''
+|{{Bk-big|Greece}}
+|16
+|- style="background:#D0E6FF;"
+|[[2009年バスケットボール男子欧州選手権|2009]]
+|align="left"|{{flag|Poland}} ([[カトヴィツェ]])
+|'''{{Bk-big|Spain}}'''
+|'''85–63'''
+|{{Bk-big|Serbia}}
+|{{Bk-big|Greece}}
+|'''57–56'''
+|{{Bk-big|Slovenia}}
+|16
+|-
+|[[2011年バスケットボール男子欧州選手権|2011]]
+|align="left"|{{flag|Lithuania}} ([[カウナス]])
+|'''{{Bk-big|Spain}}'''
+|'''98–85'''
+|{{Bk-big|France}}
+|{{Bk-big|Russia}}
+|'''72–68'''
+|{{Bk-big|Macedonia}}
+|24
+|- style="background:#D0E6FF;"
+|[[2013年バスケットボール男子欧州選手権|2013]]
+|align="left"|{{flag|Slovenia}} ([[リュブリャナ]])
+|'''{{Bk-big|France}}'''
+|'''80–66'''
+|{{Bk-big|Lithuania}}
+|{{Bk-big|Spain}}
+|'''92–66'''
+|{{Bk-big|Croatia}}
+|24
+|-
+|2015
+|align="left"|{{flag|France}} ([[リール (フランス)|リール]]&lt;!--Also holds an elimination round in Montpellier--&gt;)
+|'''{{bk-big|Spain}}'''
+|'''80–63'''
+|{{bk-big|Lithuania}}
+|{{bk-big|France}}
+|'''81–68'''
+|{{bk-big|Serbia}}
+|24
+|- style="background:#D0E6FF;"
+|2017
+|align="left"|{{flag|Turkey}}&lt;br&gt;([[イスタンブール]])
+|'''{{bk-big|Slovenia}}'''
+|'''93–85'''
+|{{bk-big|Serbia}}
+|{{bk-big|Spain}}
+|'''93–85'''
+|{{bk-big|Russia}}
+|24
+|-
+|[[EuroBasket 2022|2022]]
+|align="left"|{{flag|Germany}}&lt;br&gt;{{flag|Czech Republic}}&lt;br&gt;{{flag|Georgia}}&lt;br&gt;{{flag|Italy}}
+|'''{{bk-big|Spain}}'''
+|'''88–76'''
+|{{bk-big|France}}
+|{{bk-big|Germany}}
+|'''82–69'''
+|{{bk-big|Poland}}
+|24
+|-
+|[[EuroBasket 2025|2025]]
+|align="left"|TBD&lt;br&gt;TBD&lt;br&gt;TBD&lt;br&gt;TBD
+|
+|
+|
+|
+|
+|
+|24
+|}
+
+{{バスケットボール欧州選手権MVP}}
+
+=== メダル獲得数 ===
+[[ファイル:EuroBasket countries.png|thumb|各国の最高順位を示した地図]]
+各国のメダル獲得数は以下の通り&lt;ref&gt;{{cite web | url= http://www.fiba.com/pages/eng/fc/FIBA/fibaHist/p/openNodeIDs/987/selNodeID/987/fibaHist.html | title = FIBA History | publisher = [[FIBA]] | accessdate = 2009年9月19日}}&lt;/ref&gt;。
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = bk
+ | event          = 
+ | team           = 
+ | gold_URS = 14 | silver_URS = 3 | bronze_URS = 4 | name_URS = ''{{bk|URS}}''
+ | gold_YUG = 8 | silver_YUG = 5 | bronze_YUG = 4 
+ | gold_ESP = 4 | silver_ESP = 6 | bronze_ESP = 4
+ | gold_LTU = 3 | silver_LTU = 3 | bronze_LTU = 1
+ | gold_ITA = 2 | silver_ITA = 4 | bronze_ITA = 4
+ | gold_GRE = 2 | silver_GRE = 1 | bronze_GRE = 2
+ | gold_TCH = 1 | silver_TCH = 6 | bronze_TCH = 5 | name_TCH = ''{{bk|TCH}}''
+ | gold_FRA = 1 | silver_FRA = 3 | bronze_FRA = 6
+ | gold_RUS = 1 | silver_RUS = 1 | bronze_RUS = 2
+ | gold_GER = 1 | silver_GER = 1 | bronze_GER = 1
+ | gold_HUN = 1 | silver_HUN = 1 | bronze_HUN = 1
+ | gold_LAT = 1 | silver_LAT = 1 | bronze_LAT = 0
+ | gold_EGY = 1 | silver_EGY = 0 | bronze_EGY = 1 | name_EGY = ''{{bk|EGY}}''
+ | gold_SLO = 1 | silver_SLO = 0 | bronze_SLO = 0
+ | gold_SRB = 0 | silver_SRB = 2 | bronze_SRB = 0
+ | gold_POL = 0 | silver_POL = 1 | bronze_POL = 3
+ | gold_BUL = 0 | silver_BUL = 1 | bronze_BUL = 1
+ | gold_ISR = 0 | silver_ISR = 1 | bronze_ISR = 0
+ | gold_TUR = 0 | silver_TUR = 1 | bronze_TUR = 0
+ | gold_CRO = 0 | silver_CRO = 0 | bronze_CRO = 2
+}}
+;Notes
+*According to FIBA, Yugoslavia competed until 2001.&lt;ref name="archive.fiba.com"&gt;[https://archive.fiba.com/pages/eng/fa/p/lid_38138_cp/1/rpp/100/tid/390/_//teams.html Yugoslavia participation – FIBA archive]&lt;/ref&gt;
+
+== 女子大会 ==
+=== 概要 ===
+[[1938年]]に第1回大会開催。
+
+[[オリンピックバスケットボール競技|オリンピック]]または[[FIBA女子バスケットボール・ワールドカップ|ワールドカップ]]のヨーロッパ予選も兼ねる。
+
+=== 大会記録 ===
+{| class=wikitable style="text-align:center; font-size:90%; width:100%"
+|-
+!rowspan=2 width=5%|'''開催年'''
+!rowspan=2 width=14%|'''開催地'''
+!width=1% rowspan=41|
+!colspan=3|'''決勝戦'''
+!width=1% rowspan=41|
+!colspan=3|3位決定戦
+|-
+!width=14%|'''優勝国'''
+!width=6%|'''スコア'''
+!width=14%|'''準優勝'''
+!width=14%|'''3位'''
+!width=6%|'''スコア'''
+!width=14%|'''4位'''
+|-
+|1938
+|{{Flag|Italy|1861}} ([[ローマ]])
+|'''{{Bkw-big|Italy|1861}}'''
+|
+|{{Bkw-big|Lithuania|1918}}
+|{{Bkw-big|Poland}}
+|
+|{{Bkw-big|France}}
+|- style="background:#D0E6FF;"
+|1950
+|{{Flag|Hungary|1949}} ([[ブダペスト]])
+|'''{{Bkw-big|USSR|1923}}'''
+|
+|{{Bkw-big|Hungary|1949}}
+|{{Bkw-big|Czechoslovakia}}
+|
+|{{Bkw-big|France}}
+|-
+|1952
+|{{SSR|1923}} ([[モスクワ]])
+|'''{{Bkw-big|USSR|1923}}'''
+|
+|{{Bkw-big|Czechoslovakia}}
+|{{Bkw-big|Hungary|1949}}
+|
+|{{Bkw-big|Bulgaria|1946}}
+|- style="background:#D0E6FF;"
+|1954
+|{{YUG45}} ([[ベオグラード]])
+|'''{{Bkw-big|USSR|1923}}'''
+|
+|{{Bkw-big|Czechoslovakia}}
+|{{Bkw-big|Bulgaria|1946}}
+|
+|{{Bkw-big|Hungary|1949}}
+|-
+|1956
+|{{CSK}} ([[プラハ]])
+|'''{{Bkw-big|USSR|1955}}'''
+|'''49–41'''
+|{{Bkw-big|Hungary|1949}}
+|{{Bkw-big|Czechoslovakia}}
+|'''91–60'''
+|{{Bkw-big|Bulgaria|1946}}
+|- style="background:#D0E6FF;"
+|1958
+|{{POL}} ([[ウッチ]])
+|'''{{Bkw-big|Bulgaria|1946}}'''
+|
+|{{Bkw-big|USSR|1955}}
+|{{Bkw-big|Czechoslovakia}}
+|
+|{{Bkw-big|SFR Yugoslavia}}
+|-
+|1960
+|{{Flag|Bulgaria|1946}} ([[ソフィア (ブルガリア)|ソフィア]])
+|'''{{Bkw-big|USSR|1955}}'''
+|
+|{{Bkw-big|Bulgaria|1946}}
+|{{Bkw-big|Czechoslovakia}}
+|
+|{{Bkw-big|Poland}}
+|- style="background:#D0E6FF;"
+|1962
+|{{FRA}} ([[ミュルーズ]])
+|'''{{Bkw-big|USSR|1955}}'''
+|'''63–46'''
+|{{Bkw-big|Czechoslovakia}}
+|{{Bkw-big|Bulgaria|1946}}
+|'''48–36'''
+|{{Bkw-big|Romania|1952}}
+|-
+|1964
+|{{Flag|Hungary|1957}}
+|'''{{Bkw-big|USSR|1955}}'''
+|'''55–53'''
+|{{Bkw-big|Bulgaria|1946}}
+|{{Bkw-big|Czechoslovakia}}
+|'''68–47'''
+|{{Bkw-big|Romania|1952}}
+|- style="background:#D0E6FF;"
+|1966
+|{{Flag|Romania|1965}}
+|'''{{Bkw-big|USSR|1955}}'''
+|'''74–66'''
+|{{Bkw-big|Czechoslovakia}}
+|{{Bkw-big|East Germany}}
+|'''65–60'''
+|{{Bkw-big|Romania|1965}}
+|-
+|1968
+|{{ITA}}
+|'''{{Bkw-big|USSR|1955}}'''
+|
+|{{Bkw-big|SFR Yugoslavia}}
+|{{Bkw-big|Poland}}
+|
+|{{Bkw-big|East Germany}}
+|- style="background:#D0E6FF;"
+|1970
+|{{NLD}}
+|'''{{Bkw-big|USSR|1955}}'''
+|'''94–33'''
+|{{Bkw-big|France}}
+|{{Bkw-big|SFR Yugoslavia}}
+|'''77–66'''
+|{{Bkw-big|Bulgaria|1967}}
+|-
+|1972
+|{{Flag|Bulgaria|1971}}
+|'''{{Bkw-big|USSR|1955}}'''
+|
+|{{Bkw-big|Bulgaria|1971}}
+|{{Bkw-big|Czechoslovakia}}
+|
+|{{Bkw-big|France}}
+|- style="background:#D0E6FF;"
+|1974
+|{{ITA}}
+|'''{{Bkw-big|USSR|1955}}'''
+|
+|{{Bkw-big|Czechoslovakia}}
+|{{Bkw-big|Italy}}
+|
+|{{Bkw-big|Hungary|1957}}
+|-
+|1976
+|{{FRA}}
+|'''{{Bkw-big|USSR|1955}}'''
+|
+|{{Bkw-big|Czechoslovakia}}
+|{{Bkw-big|Bulgaria|1971}}
+|
+|{{Bkw-big|France}}
+|- style="background:#D0E6FF;"
+|1978
+|{{POL}}
+|'''{{Bkw-big|USSR|1955}}'''
+|
+|{{Bkw-big|SFR Yugoslavia}}
+|{{Bkw-big|Czechoslovakia}}
+|
+|{{Bkw-big|France}}
+|-
+|1980
+|{{YUG45}}
+|'''{{Bkw-big|USSR}}'''
+|'''95–49'''
+|{{Bkw-big|Poland}}
+|{{Bkw-big|SFR Yugoslavia}}
+|'''61–57'''
+|{{Bkw-big|Czechoslovakia}}
+|- style="background:#D0E6FF;"
+|1981
+|{{ITA}}
+|'''{{Bkw-big|USSR}}'''
+|'''85–42'''
+|{{Bkw-big|Poland}}
+|{{Bkw-big|Czechoslovakia}}
+|'''76–74'''
+|{{Bkw-big|SFR Yugoslavia}}
+|-
+|1983
+|{{Flag|Hungary|1957}}
+|'''{{Bkw-big|USSR}}'''
+|'''91–70'''
+|{{Bkw-big|Bulgaria|1971}}
+|{{Bkw-big|Hungary|1957}}
+|'''82–79'''
+|{{Bkw-big|SFR Yugoslavia}}
+|- style="background:#D0E6FF;"
+|1985
+|{{ITA}}
+|'''{{Bkw-big|USSR}}'''
+|'''103–69'''
+|{{Bkw-big|Bulgaria|1971}}
+|{{Bkw-big|Hungary|1957}}
+|'''103–76'''
+|{{Bkw-big|Czechoslovakia}}
+|-
+|1987
+|{{ESP}}
+|'''{{Bkw-big|USSR}}'''
+|'''83–73'''
+|{{Bkw-big|SFR Yugoslavia}}
+|{{Bkw-big|Hungary|1957}}
+|'''75–67'''
+|{{Bkw-big|Czechoslovakia}}
+|- style="background:#D0E6FF;"
+|1989
+|{{BGR}} ([[ヴァルナ (ブルガリア)|ヴァルナ]])
+|'''{{Bkw-big|USSR}}'''
+|'''64–61'''
+|{{Bkw-big|Czechoslovakia}}
+|{{Bkw-big|Bulgaria|1971}}
+|'''79–69'''
+|{{Bkw-big|SFR Yugoslavia}}
+|-
+|1991
+|{{ISR}} ([[テルアビブ]])
+|'''{{Bkw-big|USSR}}'''
+|'''97–84'''
+|{{Bkw-big|SFR Yugoslavia}}
+|{{Bkw-big|Hungary}}
+|'''65–61'''
+|{{Bkw-big|Bulgaria}}
+|- style="background:#D0E6FF;"
+|1993
+|{{ITA}} ([[ペルージャ]])
+|'''{{Bkw-big|Spain}}'''
+|'''63–53'''
+|{{Bkw-big|France}}
+|{{Bkw-big|Slovakia}}
+|'''68–67'''
+|{{Bkw-big|Italy}}
+|-
+|1995
+|{{CZE}} ([[ブルノ]])
+|'''{{Bkw-big|Ukraine}}'''
+|'''77–66'''
+|{{Bkw-big|Italy}}
+|{{Bkw-big|Russia}}
+|'''69–50'''
+|{{Bkw-big|Slovakia}}
+|- style="background:#D0E6FF;"
+|1997
+|{{HUN}}
+|'''{{Bkw-big|Lithuania}}'''
+|'''72–62'''
+|{{Bkw-big|Slovakia}}
+|{{Bkw-big|Germany}}
+|'''86–61'''
+|{{Bkw-big|Hungary}}
+|-
+|1999
+|{{POL}}
+|'''{{Bkw-big|Poland}}'''
+|'''59–56'''
+|{{Bkw-big|France}}
+|{{Bkw-big|Russia}}
+|'''78–49'''
+|{{Bkw-big|Slovakia}}
+|- style="background:#D0E6FF;"
+|2001
+|{{FRA}}
+|'''{{Bkw-big|France}}'''
+|'''73–68'''
+|{{Bkw-big|Russia}}
+|{{Bkw-big|Spain}}
+|'''89–74'''
+|{{Bkw-big|Lithuania}}
+|-
+|2003 &lt;br /&gt;''[[2003年バスケットボール女子欧州選手権|Details]]''
+|{{GRC}} ([[パトラ]])
+|'''{{Bkw-big|Russia}}'''
+|'''59–56'''
+|{{Bkw-big|Czech Republic}}
+|{{Bkw-big|Spain}}
+|'''87–81'''
+|{{Bkw-big|Poland}}
+|- style="background:#D0E6FF;"
+|2005 &lt;br /&gt;''[[2005年バスケットボール女子欧州選手権|Details]]''
+|{{TUR}}
+|'''{{Bkw-big|Czech Republic}}'''
+|'''72–70'''
+|{{Bkw-big|Russia}}
+|{{Bkw-big|Spain}}
+|'''83–65'''
+|{{Bkw-big|Lithuania}}
+|-
+|2007 &lt;br /&gt;''[[2007年バスケットボール女子欧州選手権|Details]]''
+|{{ITA}}
+|'''{{Bkw-big|Russia}}'''
+|'''74–68'''
+|{{Bkw-big|Spain}}
+|{{Bkw-big|BLR}}
+|'''72–63'''
+|{{Bkw-big|LAT}}
+|- style="background:#D0E6FF;"
+|2009 &lt;br /&gt;''[[2009年バスケットボール女子欧州選手権|Details]]''
+|{{LVA}}
+|'''{{Bkw-big|France}}'''
+|'''57–53'''
+|{{Bkw-big|Russia}}
+|{{Bkw-big|Spain}}
+|'''63–56'''
+|{{Bkw-big|Belarus}}
+|-
+|2011 &lt;br /&gt;''[[2011年バスケットボール女子欧州選手権|Details]]''
+|{{POL}}
+|'''{{Bkw-big|Russia}}'''
+|'''59–42'''
+|{{Bkw-big|Turkey}}
+|{{Bkw-big|France}}
+|'''63–56'''
+|{{Bkw-big|Czech Republic}}
+|-style="background:#D0E6FF;"
+|''2013''
+|{{FRA}}
+|'''{{Bkw-big|Spain}}'''
+|'''70–69'''
+|{{Bkw-big|France}}
+|{{Bkw-big|Turkey}}
+|'''92–71'''
+|{{Bkw-big|Serbia}}
+|-
+|''2015''
+|{{HUN}} &lt;br /&gt; {{ROU}}
+|'''{{Bkw-big|Serbia}}'''
+|'''76–68'''
+|{{Bkw-big|France}}
+|{{Bkw-big|Spain}}
+|'''74–58'''
+|{{Bkw-big|Belarus}}
+|-style="background:#D0E6FF;"
+|''2017''
+|{{CZE}}
+|'''{{Bkw-big|Spain}}'''
+|'''71–55'''
+|{{Bkw-big|France}}
+|{{Bkw-big|Belgium}}
+|'''78–45'''
+|{{Bkw-big|Greece}}
+|-
+|-
+|2019 &lt;br /&gt;''[[EuroBasket Women 2019|Details]]''
+|align=left|{{LAT}} &lt;br /&gt; {{SRB}}
+|'''{{Bkw-big|Spain}}'''
+|'''[[EuroBasket Women 2019 Final|86–66]]'''
+|{{Bkw-big|France}}
+|{{Bkw-big|Serbia}}
+|'''81–55'''
+|{{Bkw-big|Great Britain}}
+|-
+|2021 &lt;br /&gt;''[[EuroBasket Women 2021|Details]]''
+|align=left|{{FRA}} &lt;br /&gt; {{ESP}}
+|'''{{Bkw-big|Serbia}}'''
+|'''[[EuroBasket Women 2021 Final|63–54]]'''
+|{{Bkw-big|France}}
+|{{Bkw-big|Belgium}}
+|'''77–69'''
+|{{Bkw-big|Belarus}}
+|-
+|''2023'' &lt;br /&gt;''[[EuroBasket Women 2023|Details]]''
+|align=left|{{SVN}} &lt;br /&gt; {{ISR}}
+|
+|
+|
+|
+|
+|
+|}
+
+=== メダル獲得数 ===
+{| {{RankedMedalTable}}  
+|-
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 1
+| align="left" | {{RUS}} &lt;br/&gt;''{{URS}}''
+| style="background:#F7F6A8;" | 24
+| style="background:#DCE5E5;" | 4
+| style="background:#FFDAB9;" | 2
+| 30
+|-
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 2
+| align="left" | {{FRA}}
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 5
+| style="background:#FFDAB9;" | 1
+| 8
+|-
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 3
+| align="left" | {{ESP}}
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 5
+| 8
+|-
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 4
+| align="left" | {{CZE}}&lt;br/&gt;''{{Bkw|Czechoslovakia}}''
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 8
+| style="background:#FFDAB9;" | 8
+| 17
+|-
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 5
+| align="left" | {{BUL}}
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 5
+| style="background:#FFDAB9;" | 4
+| 10
+|-
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 6
+| align="left" | {{SRB}}&lt;br/&gt;''{{Bkw|Yugoslavia}}''
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 4
+| style="background:#FFDAB9;" | 2
+| 7
+|-
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 7
+| align="left" | {{POL}}
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 2
+| style="background:#FFDAB9;" | 2
+| 5
+|-
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 8
+| align="left" | {{ITA}}
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+| 3
+|-
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 9
+| align="left" |{{LTU}}
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 
+| 2
+
+|-
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 10
+| align="left" | {{UKR}}
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 
+| style="background:#FFDAB9;" | 
+| 1
+|-
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 11
+| align="left" | {{HUN}}
+| style="background:#F7F6A8;" | 
+| style="background:#DCE5E5;" | 2
+| style="background:#FFDAB9;" | 5
+| 7
+|-
+|-
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 12=
+| align="left" | {{SVK}}
+| style="background:#F7F6A8;" | 
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+| 2
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 12=
+| align="left" | {{TUR}}
+| style="background:#F7F6A8;" | 
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+| 2
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 14=
+| align="left" | {{BLR}}
+| style="background:#F7F6A8;" | 
+| style="background:#DCE5E5;" | 
+| style="background:#FFDAB9;" | 1
+| 1
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 14=
+| align="left" | {{Bkw|Germany}}
+| style="background:#F7F6A8;" | 
+| style="background:#DCE5E5;" | 
+| style="background:#FFDAB9;" | 1
+| 1
+|- align="center" valign="top" bgcolor="#FFFFFF"
+| valign="center"| 14=
+| align="left" | ''{{Bkw|East Germany}}''
+| style="background:#F7F6A8;" | 
+| style="background:#DCE5E5;" | 
+| style="background:#FFDAB9;" | 1
+| 1
+|-
+|}
+
+== 脚注 ==
+&lt;references/&gt;
+
+{{国際バスケット}}
+{{ヨーロッパのバスケットボールナショナルチーム}}
+{{バスケットボール欧州選手権}}
+[[Category:バスケットボール欧州選手権|*]]
+{{Basketball-stub}}</text>
+      <sha1>trew4tn26lzvq17pseb4o2koilaylj4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2005年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>885956</id>
+    <revision>
+      <id>89410377</id>
+      <parentid>65489210</parentid>
+      <timestamp>2022-05-07T14:31:00Z</timestamp>
+      <contributor>
+        <username>Saaki4AWB</username>
+        <id>1718990</id>
+      </contributor>
+      <minor/>
+      <comment>修正, replaced: [[ダーク・ノビツキー]] → [[ダーク・ノヴィツキー]] (2)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7448" xml:space="preserve">'''2005年FIBAヨーロッパ男子バスケットボール選手権'''（'''2005 European Basketball Championship'''）は、2005年9月16日から25日まで[[セルビア]]（当時は[[セルビア・モンテネグロ]]）で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット2005'''」。
+
+16カ国が出場し、[[バスケットボールギリシャ代表|ギリシャ]]が9大会ぶり2回目の優勝を飾った。ギリシャ・[[バスケットボールドイツ代表|ドイツ]]・[[バスケットボールフランス代表|フランス]]・[[バスケットボールスペイン代表|スペイン]]・[[バスケットボールリトアニア代表|リトアニア]]・[[バスケットボールスロベニア代表|スロベニア]]は[[2006年バスケットボール世界選手権]]へのヨーロッパ代表としての出場権を獲得した。
+
+== 出場国 ==
+{| class="wikitable" width=100%
+!width=25%|グループA 
+!width=25%|グループB
+!width=25%|グループC
+!width=25%|グループD
+|-
+
+|valign="top"|
+{{GERmb}}&lt;BR /&gt;
+{{ITAmb}}&lt;BR /&gt;
+{{UKRmb}}&lt;BR /&gt;
+{{RUSmb}}
+
+|valign="top"|
+{{BULmb}}&lt;BR /&gt;
+{{CROmb}}&lt;BR /&gt;
+{{LTUmb}}&lt;BR /&gt;
+{{TURmb}}
+
+|valign="top"|
+{{SLOmb}}&lt;BR /&gt;
+{{BIHmb}}&lt;BR /&gt;
+{{FRAmb}}&lt;BR /&gt;
+{{GREmb}}
+
+| valign="top"|
+{{LATmb}}&lt;BR /&gt;
+{{ISRmb}}&lt;BR /&gt;
+{{SCGmb}}&lt;BR /&gt;
+{{ESPmb}}
+|}
+
+== 1次ラウンド ==
+=== グループA ===
+{| class="wikitable"
+|- align=center bgcolor=#efefef
+!width=220|チーム
+!width=20|勝点
+!width=20|勝
+!width=20|敗
+!width=20|得
+!width=20|失
+!width=20|得失
+
+|- align=center bgcolor=ccffcc
+|align=left|1. {{RUSmb}}
+|'''5'''||2||1||223||186||+37
+|- align=center bgcolor=ffffd0
+|align=left|2. {{GERmb}}
+|'''5'''||2||1||217||192||+25
+|- align=center bgcolor=ffffd0
+|align=left|3. {{ITAmb}}
+|'''5'''||2||1||244||231||+13
+|- align=center
+|align=left|4. {{UKRmb}}
+|'''3'''||0||3||194||269||-75
+|}
+
+=== グループB ===
+{| class="wikitable"
+|- align=center bgcolor=#efefef
+!width=220|チーム
+!width=20|勝点
+!width=20|勝
+!width=20|敗
+!width=20|得
+!width=20|失
+!width=20|得失
+
+|- align=center bgcolor=ccffcc
+|align=left|1. {{LTUmb}}
+|'''6'''||3||0||264||221||+43
+|- align=center bgcolor=ffffd0
+|align=left|2. {{CROmb}}
+|'''5'''||2||1||235||234||+1
+|- align=center bgcolor=ffffd0
+|align=left|3. {{TURmb}}
+|'''4'''||1||2||236||256||-20
+|- align=center
+|align=left|4. {{BULmb}}
+|'''3'''||0||3||250||274||-24
+|}
+
+=== グループC ===
+{| class="wikitable"
+|- align=center bgcolor=#efefef
+!width=220|チーム
+!width=20|勝点
+!width=20|勝
+!width=20|敗
+!width=20|得
+!width=20|失
+!width=20|得失
+
+|- align=center bgcolor=ccffcc
+|align=left|1. {{SLOmb}}
+|'''6'''||3||0||210||179||+31
+|- align=center bgcolor=ffffd0
+|align=left|2. {{GREmb}}
+|'''5'''||2||1||187||168||+19
+|- align=center bgcolor=ffffd0
+|align=left|3. {{FRAmb}}
+|'''4'''||1||2||187||194||-7
+|- align=center
+|align=left|4. {{BIHmb}}
+|'''3'''||0||3||177||220||-43
+|}
+
+=== グループ D ===
+{| class="wikitable"
+|- align=center bgcolor=#efefef
+!width=220|チーム
+!width=20|勝点
+!width=20|勝
+!width=20|敗
+!width=20|得
+!width=20|失
+!width=20|得失
+
+|- align=center bgcolor=ccffcc
+|align=left|1. {{ESPmb}}
+|'''5'''||2||1||280||264||+16
+|- align=center bgcolor=ffffd0
+|align=left|2. {{SCGmb}}
+|'''5'''||2||1||245||233||+12
+|- align=center bgcolor=ffffd0
+|align=left|3. {{ISRmb}}
+|'''5'''||2||1||236||235||+1
+|- align=center
+|align=left|4. {{LATmb}}
+|'''3'''||0||3||241||270||-29
+|}
+
+== プレーオフラウンド ==
+{| width=100% cellspacing=1
+!width=20%|
+!width=20%|
+!width=20%|
+!width=20%|
+!width=20%|
+
+|-
+|[[9月20日]]
+
+|- style=font-size:90%
+|align=right|'''{{GERmb}}'''
+|align=center|'''66 - 57'''
+|{{TURmb}}
+
+|- style=font-size:90%
+|align=right|'''{{CROmb}}'''
+|align=center|'''74 - 66''' 
+|{{ITAmb}}
+
+|- style=font-size:90%
+|align=right|'''{{GREmb}}'''
+|align=center|'''67 - 61''' 
+|{{ISRmb}}
+
+|- style=font-size:90%
+|align=right|{{SCGmb}}
+|align=center|'''71 - 74''' 
+|'''{{FRAmb}}'''
+|}
+
+== ノックアウトラウンド ==
+=== 決勝トーナメント ===
+{{Round8-with third
+&lt;!--QF--&gt;
+|9月22日 |{{RUSmb}}|61|'''{{GREmb}}'''|'''66'''
+|9月22日 |{{LTUmb}}|47|'''{{FRAmb}}'''|'''63'''
+|9月22日 |{{SLOmb}}|62|'''{{GERmb}}'''|'''76'''
+|9月22日 |'''{{ESPmb}}'''|'''101'''|{{CROmb}}|85
+&lt;!--SF--&gt;
+|9月23日 |'''{{GREmb}}'''|'''67''' |{{FRAmb}}|66
+|9月23日 |'''{{GERmb}}'''|'''74''' |{{ESPmb}}|73
+&lt;!--F--&gt;
+|9月25日 |'''{{GREmb}}'''|'''78'''|{{GERmb}}|62  
+|9月25日 |'''{{FRAmb}}'''|'''98''' |{{ESPmb}}|68
+}}
+
+=== 5～8位決定戦 ===
+{{Round4-with third|RD2=5位決定戦|RD3=7位決定戦
+&lt;!--SF--&gt;
+|9月24日 |{{RUSmb}}|78 |'''{{LTUmb}}'''|'''89'''
+|9月24日 |'''{{SLOmb}}'''|'''89''' |{{CROmb}}|80
+&lt;!--F--&gt;
+|9月25日 |'''{{LTUmb}}'''|'''79''' |{{SLOmb}}|70
+|9月25日 |{{RUSmb}}|74 |'''{{CROmb}}'''|'''92'''
+}}
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{GREmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{GERmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{FRAmb}}
+|-
+|style="text-align: center;"|4||{{ESPmb}}
+|-
+|style="text-align: center;"|5||{{LTUmb}}
+|-
+|style="text-align: center;"|6||{{SLOmb}}
+|-
+|style="text-align: center;"|7||{{CROmb}}
+|-
+|style="text-align: center;"|8||{{RUSmb}}
+|- 
+|style="text-align: center;"|9-12||{{ISRmb}}
+|- 
+|style="text-align: center;"| ||{{ITAmb}}
+|- 
+|style="text-align: center;"| ||{{SCGmb}}
+|- 
+|style="text-align: center;"| ||{{TURmb}}
+|- 
+|style="text-align: center;"|13-16||{{BIHmb}}
+|- 
+|style="text-align: center;"| ||{{BULmb}}
+|- 
+|style="text-align: center;"| ||{{LATmb}}
+|- 
+|style="text-align: center;"| ||{{UKRmb}}
+|}
+
+== ベストファイブ ==
+* [[セオドロス・パパルーカス]] ({{GRCmb}})
+* [[フアン・カルロス・ナバーロ]] ({{ESPmb}})
+* [[ディミトリオス・ディアマンティディス]] ({{GRCmb}}) 
+* [[ダーク・ノヴィツキー]] ({{GERmb}}) '''MVP'''
+* [[ボリス・ディアウ]] ({{FRAmb}})
+
+== 得点上位者 ==
+{| class=wikitable
+!順位!!選手!!所属国!!平均得点
+|-
+|1||[[ダーク・ノヴィツキー]]||{{GERmb}}||26.1
+|-
+|2||[[フアン・カルロス・ナバーロ]]||{{ESPmb}}||25.2
+|-
+|3||[[アンドレイ・キリレンコ]]||{{RUSmb}}||17.5
+|-
+|4||[[イゴール・ラコセビッチ]]||{{SCGmb}}||16.3
+|-
+|5||[[ゴーダン・ギリチェック]]||{{CROmb}}||15.7
+|-
+|6||[[ホルヘ・ガルバホサ]]||{{ESPmb}}||14.5
+|-
+|7||[[ラムーナス・シシュカウスカス]]||{{LTUmb}}||14.0
+|-
+|8||[[ボリス・ディアウ]]||{{FRAmb}}||13.7
+|-
+|9||[[ヤカ・ラコビッチ]]||{{SLOmb}}||12.8
+|-
+|10||[[ジョン・ロバート・ホールデン]]||{{RUSmb}}||12.5
+|}
+
+== 関連項目 ==
+*[[2005年バスケットボール女子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん2005}}
+[[Category:バスケットボール欧州選手権|2005たんし]]
+[[Category:2005年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:セルビアのバスケットボール|たんしおうしゆうせんしゆけん2005]]
+[[Category:セルビア・モンテネグロ開催の国際スポーツ競技大会]]
+[[Category:2005年のセルビア・モンテネグロ]]
+[[Category:2005年9月]]</text>
+      <sha1>5bmzmo0ndzzodqsy132y4mryl4m4glo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2007年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1217952</id>
+    <revision>
+      <id>89410427</id>
+      <parentid>84774372</parentid>
+      <timestamp>2022-05-07T14:34:18Z</timestamp>
+      <contributor>
+        <username>Saaki4AWB</username>
+        <id>1718990</id>
+      </contributor>
+      <minor/>
+      <comment>修正, replaced: [[ダーク・ノビツキー]] → [[ダーク・ノヴィツキー]] (2)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9895" xml:space="preserve">[[File:Palacio de Deportes (Madrid) 04.jpg|thumb|2007年バスケットボール男子欧州選手権]]
+'''2007年FIBAヨーロッパ男子バスケットボール選手権'''（2007ねんFIBAヨーロッパだんしバスケットボールせんしゅけん、'''2007 European Basketball Championship'''）は、2007年9月3日から16日まで[[スペイン]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット2007'''」。
+
+16カ国が出場し、[[バスケットボールロシア代表|ロシア]]が11大会ぶり15回目の優勝（ソ連時代含む。ロシアとしては初優勝）を飾った。ロシアと[[バスケットボールリトアニア代表|リトアニア]]は[[2008年北京オリンピックのバスケットボール競技|北京オリンピック]]へのヨーロッパ代表としての出場権を獲得した（準優勝の[[バスケットボールスペイン代表|スペイン]]は[[2006年バスケットボール世界選手権|2006年世界選手権]]優勝のため予選免除）。[[バスケットボールギリシャ代表|ギリシャ]]、[[バスケットボールドイツ代表|ドイツ]]、 [[バスケットボールクロアチア代表|クロアチア]]、 [[バスケットボールスロベニア代表|スロベニア]]は[[2008年北京オリンピックのバスケットボール競技・世界最終予選|世界最終予選]]に進んだ。
+
+== 出場国 ==
+{| class="wikitable" width=100%
+!width=25%|グループA 
+!width=25%|グループB
+!width=25%|グループC
+!width=25%|グループD
+|-
+
+|valign="top"|
+{{GREmb}}&lt;BR /&gt;
+{{RUSmb}}&lt;BR /&gt;
+{{SRBmb}}&lt;BR /&gt;
+{{ISRmb}}
+
+|valign="top"|
+{{ESPmb}}&lt;BR /&gt;
+{{CROmb}}&lt;BR /&gt;
+{{LATmb}}&lt;BR /&gt;
+{{PORmb}}
+
+|valign="top"|
+{{GERmb}}&lt;BR /&gt;
+{{LTUmb}}&lt;BR /&gt;
+{{TURmb}}&lt;BR /&gt;
+{{CZEmb}}
+
+| valign="top"|
+{{FRAmb}}&lt;BR /&gt;
+{{SLOmb}}&lt;BR /&gt;
+{{ITAmb}}&lt;BR /&gt;
+{{POLmb}}
+|}
+
+== 1次ラウンド ==
+{| class="infobox bordered"
+|-
+|width=10px bgcolor="#ccffcc"| ||2次ラウンド進出
+|}
+
+=== グループA ===
+{|class=wikitable 
+|- align=center
+!width=150px| チーム !!width=30px| 勝点 !!width=20px| 勝 !!width=20px| 敗 !! 勝率 !!width=40px| 得点 !!width=40px| 失点 !!width=40px| 得失
+|- align=center bgcolor="#ccffcc"
+|align=left|{{RUSmb}}|| 6 || 3 || 0 || 1.000 || 224 || 174 || +50
+|- align=center bgcolor="#ccffcc"
+|align=left|{{GREmb}}|| 5 || 2 || 1 || 0.667 || 197 || 194 || +3
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ISRmb}}|| 4 || 1 || 2 || 0.333 || 209 || 249 || −40
+|- align=center
+|align=left|{{SRBmb}}|| 3 || 0 || 3 || 0.000 || 215 || 228 || −13
+|}
+
+=== グループB ===
+{|class=wikitable 
+|- align=center
+!width=150px| チーム !!width=30px| 勝点 !!width=20px| 勝 !!width=20px| 敗 !! 勝率 !!width=40px| 得点 !!width=40px| 失点 !!width=40px| 得失 !!width=120| &lt;small&gt;タイブレーク&lt;/small&gt;
+|- align=center bgcolor="#ccffcc"
+|align=left|{{CROmb}}|| 5 || 2 || 1 || 0.667 || 252 || 237 || +15 ||1-0
+|- align=center  bgcolor="#ccffcc"
+|align=left|{{ESPmb}}|| 5 || 2 || 1 || 0.667 || 259 || 218 || +41 ||0-1
+|- align=center  bgcolor="#ccffcc"
+|align=left|{{PORmb}}|| 4 || 1 || 2 || 0.333 || 201 || 239 || −38 ||1-0
+|- align=center
+|align=left|{{LATmb}}|| 4 || 1 || 2 || 0.333 || 229 || 247 || −18 ||0-1
+|}
+
+=== グループC ===
+{|class=wikitable 
+|- align=center
+!width=150px| チーム !!width=30px| 勝点 !!width=20px| 勝 !!width=20px| 敗 !! 勝率 !!width=40px| 得点 !!width=40px| 失点 !!width=40px| 得失
+|- align=center bgcolor="#ccffcc"
+|align=left|{{LTUmb}}|| 6 || 3 || 0 || 1.000 || 265 || 224 || +41
+|- align=center bgcolor="#ccffcc"
+|align=left|{{GERmb}}|| 5 || 2 || 1 || 0.667 || 242 || 211 || +31
+|- align=center bgcolor="#ccffcc"
+|align=left|{{TURmb}}|| 4 || 1 || 2 || 0.333 || 198 || 237 || −39
+|- align=center
+|align=left|{{CZEmb}}|| 3 || 0 || 3 || 0.000 || 225 || 258 || −33
+|}
+
+=== グループD ===
+{|class=wikitable 
+|- align=center
+!width=150px| チーム !!width=30px| 勝点 !!width=20px| 勝 !!width=20px| 敗 !! 勝率 !!width=40px| 得点 !!width=40px| 失点 !!width=40px| 得失
+|- align=center bgcolor="#ccffcc"
+|align=left|{{SLOmb}}|| 6 || 3 || 0 || 1.000 || 206 || 186 || +20
+|- align=center bgcolor="#ccffcc"
+|align=left|{{FRAmb}}|| 5 || 2 || 1 || 0.667 || 209 || 195 || +14
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ITAmb}}|| 4 || 1 || 2 || 0.333 || 209 || 208 || +1
+|- align=center
+|align=left|{{POLmb}}|| 3 || 0 || 3 || 0.000 || 188 || 223 || −35
+|}
+
+== 2次ラウンド ==
+{| class="infobox bordered"
+|-
+|width=10px bgcolor="#ccffcc"| ||決勝トーナメント進出
+|}
+
+=== グループE ===
+{|class=wikitable 
+|- align=center
+!width=150px| チーム !!width=30px| 勝点 !!width=20px| 勝 !!width=20px| 敗 !! 勝率 !!width=40px| 得点 !!width=40px| 失点 !!width=40px| 得失
+|- align=center bgcolor="#ccffcc"
+|align=left|{{ESPmb}} || 9 || 4 || 1 || 0.800 || 422 || 341 || +81
+|- align=center bgcolor="#ccffcc"
+|align=left|{{RUSmb}} || 9 || 4 || 1 || 0.800 || 381 || 325 || +56
+|- align=center bgcolor="#ccffcc"
+|align=left|{{GREmb}} || 8 || 3 || 2 || 0.600 || 353 || 348 || +5
+|- align=center bgcolor="#ccffcc"
+|align=left|{{CROmb}} || 7 || 2 || 3 || 0.400 || 398 || 396 || +2
+|- align=center
+|align=left|{{PORmb}} || 6 || 1 || 4 || 0.200 || 350 || 420 || −70
+|- align=center
+|align=left|{{ISRmb}} || 6 || 1 || 4 || 0.200 || 360 || 434 || −74
+|}
+
+=== グループF ===
+{|class=wikitable 
+|- align=center
+!width=150px| チーム !!width=30px| 勝点 !!width=20px| 勝 !!width=20px| 敗 !! 勝率 !!width=40px| 得点 !!width=40px| 失点 !!width=40px| 得失
+|- align=center bgcolor="#ccffcc"
+|align=left|{{LTUmb}} || 10 || 5 || 0 || 1.000 || 417 || 357 || +60 
+|- align=center bgcolor="#ccffcc"
+|align=left|{{SLOmb}} || 9 || 4 || 1 || 0.800 || 340 || 312 || +28
+|- align=center bgcolor="#ccffcc"
+|align=left|{{FRAmb}} || 8 || 3 || 2 || 0.600 || 371 || 347 || +24
+|- align=center bgcolor="#ccffcc"
+|align=left|{{GERmb}} || 7 || 2 || 3 || 0.400 || 339 || 346 || −7
+|- align=center
+|align=left|{{ITAmb}} || 6 || 1 || 4 || 0.200 || 346 || 359 || −13
+|- align=center
+|align=left|{{TURmb}} || 5 || 0 || 5 || 0.000 || 308 || 400 || −92
+|}
+
+== ノックアウトラウンド ==
+=== 決勝トーナメント ===
+{{Round8-with third
+&lt;!--QF--&gt;
+|9月13日 |'''{{ESPmb}}'''|'''83'''|{{GERmb}}|55
+|9月14日 |{{SLOmb}}|62|'''{{GREmb}}'''|'''63'''
+|9月13日 |'''{{RUSmb}}'''|'''75'''|{{FRAmb}}|71
+|9月14日 |'''{{LTUmb}}'''|'''74'''|{{CROmb}}|72
+&lt;!--SF--&gt;
+|9月15日 |'''{{ESPmb}}'''|'''82''' |{{GREmb}}|77
+|9月15日 |'''{{RUSmb}}'''|'''86''' |{{LTUmb}}|74
+&lt;!--F--&gt;
+|9月16日 |{{ESPmb}}|59|'''{{RUSmb}}'''|'''60'''  
+|9月16日 |{{GREmb}}|69 |'''{{LTUmb}}'''|'''78'''
+}}
+
+=== 5～8位決定戦 ===
+{{Round4-with third|RD2=5位決定戦|Consol=7位決定戦
+&lt;!--SF--&gt;
+|9月15日 |'''{{GERmb}}'''|'''69''' |{{SLOmb}}|65
+|9月15日 |{{FRAmb}}|69 |'''{{CROmb}}'''|'''86'''
+&lt;!--F--&gt;
+|9月16日 |'''{{GERmb}}'''|'''80''' |{{CROmb}}|71
+|9月16日 |'''{{SLOmb}}'''|'''88''' |{{FRAmb}}|74
+}}
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{RUSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{ESPmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{LTUmb}}
+|-
+|style="text-align: center;"|4||{{GREmb}}
+|-
+|style="text-align: center;"|5||{{GERmb}}
+|-
+|style="text-align: center;"|6||{{CROmb}}
+|-
+|style="text-align: center;"|7||{{SLOmb}}
+|-
+|style="text-align: center;"|8||{{FRAmb}}
+|- 
+|style="text-align: center;" rowspan=4 |9-12||{{ITAmb}}
+|- 
+|style="text-align: center;"|{{PORmb}}
+|- 
+|style="text-align: center;"|{{ISRmb}}
+|- 
+|style="text-align: center;"|{{TURmb}}
+|- 
+|style="text-align: center;" rowspan=4 |13-16||{{LATmb}}
+|- 
+|style="text-align: center;"|{{SRBmb}}
+|- 
+|style="text-align: center;"|{{CZEmb}}
+|- 
+|style="text-align: center;"|{{POLmb}}
+|}
+
+== ベストファイブ ==
+*[[ホセ・カルデロン]]（{{ESPmb}}）
+*[[ラムーナス・シシュカウスカス]]（{{LTUmb}}）
+*[[アンドレイ・キリレンコ]]（{{RUSmb}}）  '''MVP'''
+*[[ダーク・ノヴィツキー]]（{{GERmb}}）
+*[[パウ・ガソル]]（{{ESPmb}}）
+
+== 得点上位者 ==
+{| class=wikitable
+!順位!!選手!!所属国!!平均得点
+|-
+|1||[[ダーク・ノヴィツキー]]||{{GERmb}}||24
+|-
+|2||[[トニー・パーカー]]||{{FRAmb}}||20.1
+|-
+|3||[[ヘド・ターコルー]]||{{TURmb}}||19.1
+|-
+|4||[[パウ・ガソル]]||{{ESPmb}}||18.7
+|-
+|5||[[アンドレイ・キリレンコ]]||{{RUSmb}}||18
+|-
+|6||[[マルコ・ベリネッリ]]||{{ITAmb}}||15.5
+|-
+|7||[[ヨタム・ハルペリン]]||{{ISRmb}}||14
+|-
+|8||[[ラムーナス・シシュカウスカス]]||{{LTUmb}}||13.7
+|-
+|9||[[マティアス・スモディス]]||{{SLOmb}}||13.4
+|-
+|10||[[マルコ・ポポピッチ]]||{{CROmb}}||13.1
+|-
+|11||[[ヤカ・ラコビッチ]]||{{SLOmb}}||12.8
+|-
+|12||[[アンドレア・バルニャーニ]]||{{ITAmb}}||12.6
+|}
+
+== 関連項目 ==
+*[[2007年バスケットボール男子欧州選手権予選]]
+*[[2007年バスケットボール女子欧州選手権]]
+
+== 外部リンク ==
+*[http://www.eurobasket2007.org/ 大会公式HP]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん2007}}
+[[Category:バスケットボール欧州選手権|2007たんし]]
+[[Category:2007年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:2007年のスペイン]]
+[[Category:スペインのバスケットボール|たんしおうしゆうせんしゆけん2007]]
+[[Category:スペイン開催の国際スポーツ競技大会]]
+[[Category:2008年北京オリンピックのバスケットボール競技|たんしおうしゆうよせん]]
+[[Category:2007年9月]]</text>
+      <sha1>hrlstos0g1er1vb3m88y5pumyu1t869</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2007年バスケットボール女子欧州選手権</title>
+    <ns>0</ns>
+    <id>1312504</id>
+    <revision>
+      <id>70113981</id>
+      <parentid>57354922</parentid>
+      <timestamp>2018-09-30T14:00:45Z</timestamp>
+      <contributor>
+        <username>曾禰越後守</username>
+        <id>183605</id>
+      </contributor>
+      <comment>lk調整</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2616" xml:space="preserve">{{出典の明記|date=2015年10月30日 (金) 04:03 (UTC)}}
+'''2007年FIBAヨーロッパ女子バスケットボール選手権'''（'''2007 European Basketball Championship for Women'''）は、[[イタリア]]で開催された[[バスケットボール欧州選手権]]女子大会。
+
+全16ヶ国が出場し、[[バスケットボール女子ロシア代表|ロシア]]が2大会ぶり23回目の優勝（ソ連時代含む。ロシアとしては2度目）を飾った。ロシアは[[2008年北京オリンピックのバスケットボール競技|北京オリンピック]]へのヨーロッパ代表としての出場権を獲得した。[[バスケットボール女子スペイン代表|スペイン]]、[[バスケットボール女子ベラルーシ代表|ベラルーシ]]、 [[バスケットボール女子ラトビア代表|ラトビア]]、 [[バスケットボール女子チェコ代表|チェコ]]は[[2008年北京オリンピックのバスケットボール競技・世界最終予選|世界最終予選]]に進む。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{RUSwb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{ESPwb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{BLRwb}}
+|-
+|style="text-align: center;"|4||{{LATwb}}
+|-
+|style="text-align: center;"|5||{{CZEwb}}
+|-
+|style="text-align: center;"|6||{{LTUwb}}
+|-
+|style="text-align: center;"|7||{{BELwb}}
+|-
+|style="text-align: center;"|8||{{FRAwb}}
+|- 
+|style="text-align: center;"|9-12||{{TURwb}}
+|- 
+|style="text-align: center;"| ||{{GERwb}}
+|- 
+|style="text-align: center;"| ||{{ITAwb}}
+|- 
+|style="text-align: center;"| ||{{SRBwb}}
+|- 
+|style="text-align: center;"|13-16||{{ISRwb}}
+|- 
+|style="text-align: center;"| ||{{ROMwb}}
+|- 
+|style="text-align: center;"| ||{{GREwb}}
+|- 
+|style="text-align: center;"| ||{{CROwb}}
+|}
+
+== 関連項目 ==
+*[[2007年バスケットボール男子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるしよしおうしゆうせんしゆけん2007}}
+[[Category:バスケットボール欧州選手権|2007しよし]]
+[[Category:イタリア開催の国際スポーツ競技大会]]
+[[Category:2007年のバスケットボール|しよしおうしゆうせんしゆけん]]
+[[Category:2007年のイタリア]]
+[[Category:イタリアのバスケットボール|しよしおうしゆうせんしゆけん2007]]
+[[Category:2007年9月]]
+[[Category:2007年10月]]</text>
+      <sha1>oi8r1x678fz6cq2soos08fztfjwdt1q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2003年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1515180</id>
+    <revision>
+      <id>74449918</id>
+      <parentid>70048866</parentid>
+      <timestamp>2019-10-01T02:55:41Z</timestamp>
+      <contributor>
+        <username>Yusuke1109 bot</username>
+        <id>1248432</id>
+      </contributor>
+      <minor/>
+      <comment>{{節stub}}を{{節スタブ}}に変更 using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6822" xml:space="preserve">'''2003年FIBAヨーロッパ男子バスケットボール選手権'''（'''2003 European Basketball Championship'''）は、2003年9月5日から13日まで[[スウェーデン]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット2003'''」。
+
+16カ国が本大会に出場し、リトアニアが64年ぶり3度目、ソ連から独立後初の優勝を飾り、2位スペイン、3位イタリアとともに[[2004年アテネオリンピックのバスケットボール競技|アテネオリンピック]]出場権を獲得（ギリシャは開催国、セルビア・モンテネグロは2002年世界選手権優勝国につきいずれも予選免除）。開催国スウェーデンは最下位に終わった。
+
+== 出場国 ==
+{| class="wikitable" width=100%
+!width=25%|グループA 
+!width=25%|グループB
+!width=25%|グループC
+!width=25%|グループD
+|- 
+
+|valign="top"|
+{{SLOmb}}&lt;BR /&gt;
+{{FRAmb}}&lt;BR /&gt;
+{{ITAmb}}&lt;BR /&gt;
+{{BIHmb}}
+
+|valign="top"|
+{{GERmb}}&lt;BR /&gt;
+{{ISRmb}}&lt;BR /&gt;
+{{LTUmb}}&lt;BR /&gt;
+{{LATmb}}
+
+|valign="top"|
+{{SCGmb}}&lt;BR /&gt;
+{{RUSmb}}&lt;BR /&gt;
+{{ESPmb}}&lt;BR /&gt;
+{{SWEmb}}
+
+| valign="top"|
+{{UKRmb}}&lt;BR /&gt;
+{{TURmb}}&lt;BR /&gt;
+{{GREmb}}&lt;BR /&gt;
+{{CROmb}}
+
+|}
+
+== グループゲームラウンド ==
+=== グループA ===
+{| class="wikitable"
+|- align=center bgcolor=#efefef
+!width=250|チーム
+!width=20|勝点
+!width=20|勝
+!width=20|敗
+!width=20|得
+!width=20|失
+!width=20|得失
+
+|- align=center bgcolor=ccffcc
+|align=left|1. {{FRAmb}}
+|'''6'''||3||0||271||210||+61
+|- align=center bgcolor=ffffd0
+|align=left|2. {{SLOmb}}
+|'''5'''||2||1||232||217||+15
+|- align=center bgcolor=ffffd0
+|align=left|3. {{ITAmb}}
+|'''4'''||1||2||199||234||-35
+|- align=center
+|align=left|4. {{BIHmb}}
+|'''3'''||0||3||210||251||-41
+|}
+
+=== グループB ===
+{| class="wikitable"
+|- align=center bgcolor=#efefef
+!width=250|チーム
+!width=20|勝点
+!width=20|勝
+!width=20|敗
+!width=20|得
+!width=20|失
+!width=20|得失
+
+|- align=center bgcolor=ccffcc
+|align=left|1. {{LTUmb}}
+|'''6'''||3||0||279||224||+55
+|- align=center bgcolor=ffffd0
+|align=left|2. {{GERmb}}
+|'''5'''||2||1||251||260||-9
+|- align=center bgcolor=ffffd0
+|align=left|3. {{ISRmb}}
+|'''4'''||1||2||234||255||-21
+|- align=center
+|align=left|4. {{LATmb}}
+|'''3'''||0||3||252||277||-25
+|}
+
+=== グループC ===
+{| class="wikitable"
+|- align=center bgcolor=#efefef
+!width=250|チーム
+!width=20|勝点
+!width=20|勝
+!width=20|敗
+!width=20|得
+!width=20|失
+!width=20|得失
+
+|- align=center bgcolor=ccffcc
+|align=left|1. {{ESPmb}}
+|'''6'''||3||0||263||196||+67
+|- align=center bgcolor=ffffd0
+|align=left|2. {{RUSmb}}
+|'''5'''||2||1||264||240||+24
+|- align=center bgcolor=ffffd0
+|align=left|3. {{SCGmb}}
+|'''4'''||1||2||225||238||-13
+|- align=center 
+|align=left|4. {{SWEmb}}
+|'''3'''||0||3||191||269||-78
+|}
+
+=== グループD ===
+{| class="wikitable"
+|- align=center bgcolor=#efefef
+!width=250|チーム
+!width=20|勝点
+!width=20|勝
+!width=20|敗
+!width=20|得
+!width=20|失
+!width=20|得失
+
+|- align=center bgcolor=ccffcc
+|align=left|1. {{GREmb}}
+|'''6'''||3||0||231||219||+12
+|- align=center bgcolor=ffffd0
+|align=left|2. {{TURmb}}
+|'''5'''||2||1||222||216||+6
+|- align=center bgcolor=ffffd0
+|align=left|3. {{CROmb}}
+|'''4'''||1||2||241||223||+18
+|- align=center
+|align=left|4. {{UKRmb}}
+|'''3'''||0||3||213||249||-36
+|}
+
+== プレーオフラウンド ==
+
+{| width=100% cellspacing=1
+!width=40%|
+!width=20%|
+!width=40%|
+
+|-
+|[[9月8日]]
+
+|- style=font-size:90%
+|align=right|'''{{RUSmb}}'''
+|align=center|'''81 - 77'''
+|{{CROmb}}
+
+|- style=font-size:90%
+|align=right|{{TURmb}}
+|align=center|'''76 - 80''' 
+|'''{{SCGmb}}'''
+
+|- style=font-size:90%
+|align=right|{{SLOmb}}
+|align=center|'''76 - 78''' 
+|'''{{ISRmb}}'''
+
+|- style=font-size:90%
+|align=right|{{GERmb}}
+|align=center|'''84 - 86''' 
+|'''{{ITAmb}}'''
+|}
+
+== ノックアウトラウンド ==
+
+{{Round8-with third
+&lt;!--Date-Time|Team 1|Score 1|Team 2|Score 2 --&gt;
+
+&lt;!--quarter finals  --&gt;
+|[[9月10日]] - 18:00|'''{{FRAmb}}'''|'''76'''|{{RUSmb}}|69
+|[[9月10日]] - 21:00|'''{{LTUmb}}'''|'''98'''|{{SCGmb}}|82
+|[[9月11日]] - 18:00|'''{{ESPmb}}'''|'''78'''|{{ISRmb}}|64
+|[[9月11日]] - 21:00|{{GREmb}}|59|'''{{ITAmb}}'''|'''62'''
+&lt;!--semi finals  --&gt;
+|[[9月13日]] - 14:00|{{FRAmb}}|70|'''{{LTUmb}}'''|'''74'''
+|[[9月13日]] - 17:00|'''{{ESPmb}}'''|'''81'''|{{ITAmb}}|79
+&lt;!--final  --&gt;
+|[[9月14日]] - 20:00|'''{{LTUmb}}'''|'''93'''|{{ESPmb}}|84
+&lt;!--third place  --&gt;
+|[[9月14日]] - 17:00|{{FRAmb}}|67|'''{{ITAmb}}'''|'''69'''
+}}
+
+=== 5~8位決定戦 ===
+{{Round4-with third|RD1=5~8位決定予備戦|RD2=5位決定戦|Consol=7位決定戦
+&lt;!--Date-Time|Team 1|Score 1|Team 2|Score 2 --&gt;
+&lt;!--Classification round  --&gt;
+|[[9月12日]] - 18:00|{{RUSmb}}|77|'''{{SCGmb}}'''|'''86'''
+|[[9月12日]] - 21:00|{{ISRmb}}|56|'''{{GREmb}}'''|'''63'''
+&lt;!--Fifth place  --&gt;
+|[[9月14日]] - 13:30|{{SCGmb}}|64|'''{{GREmb}}'''|'''72'''
+&lt;!--Seventh place --&gt;
+|[[9月14日]] - 11:00|{{RUSmb}}|82|'''{{ISRmb}}'''|'''89'''
+}}
+
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{LTUmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{ESPmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{ITAmb}}
+|-
+|style="text-align: center;"|4||{{FRAmb}}
+|-
+|style="text-align: center;"|5||{{GREmb}}
+|-
+|style="text-align: center;"|6||{{SCGmb}}
+|-
+|style="text-align: center;"|7||{{ISRmb}}
+|-
+|style="text-align: center;"|8||{{RUSmb}}
+|- 
+|style="text-align: center;"|9||{{GERmb}}
+|- 
+|style="text-align: center;"|10||{{SLOmb}}
+|- 
+|style="text-align: center;"|11||{{CROmb}}
+|- 
+|style="text-align: center;"|12||{{TURmb}}
+|- 
+|style="text-align: center;"|13||{{LATmb}}
+|- 
+|style="text-align: center;"|14||{{UKRmb}}
+|- 
+|style="text-align: center;"|15||{{BIHmb}}
+|- 
+|style="text-align: center;"|16||{{SWEmb}}
+|}
+
+== ベストファイブ ==
+{{節スタブ}}
+
+== 得点上位者 ==
+
+{{節スタブ}}
+
+== 関連項目 ==
+*[[2003年バスケットボール女子欧州選手権]]
+
+== 外部リンク ==
+*[http://www.fibaeurope.com/cid_f43ulKJBGLcVnbH-aqLVu2._.compID_qMRZdYCZI6EoANOrUf9le2.season_2003.roundID_2221.html 大会公式サイト]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん2003}}
+[[Category:バスケットボール欧州選手権|2003たんし]]
+[[Category:スウェーデン開催の国際スポーツ競技大会]]
+[[Category:2003年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:スウェーデンのバスケットボール|たんしおうしゆうせんしゆけん2003]]
+[[Category:2003年のスウェーデン]]
+[[Category:2003年9月]]</text>
+      <sha1>63qig2w6j4gd4z5s824ivkx96j48iwk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2001年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1556736</id>
+    <revision>
+      <id>89949728</id>
+      <parentid>74453871</parentid>
+      <timestamp>2022-06-10T08:50:58Z</timestamp>
+      <contributor>
+        <ip>60.75.252.49</ip>
+      </contributor>
+      <comment>/* ノックアウトラウンド */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3811" xml:space="preserve">'''2001年バスケットボール男子欧州選手権'''（'''2001 European Basketball Championship'''）は、[[トルコ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット2001'''」。
+
+16カ国が本大会に出場し、ユーゴスラビアが2大会ぶり8度目の優勝を飾り、トルコ・スペイン・ドイツ・ロシアとともに[[2002年バスケットボール世界選手権]]出場権を獲得した。
+
+== 出場国 ==
+{{節スタブ}}
+
+== グループゲームラウンド ==
+{{節スタブ}}
+
+== プレーオフラウンド ==
+{{節スタブ}}
+
+== ノックアウトラウンド ==
+{{節スタブ}}
+{{Round8-with third|team-width=200
+&lt;!-- Date-Place/Team 1/Score 1/Team 2/Score 2 --&gt;
+&lt;!-- quarter finals  --&gt;
+|5 September – 19:00|'''{{Bk|TUR}}'''|'''87'''|{{Bk|CRO}}|85
+|5 September – 21:15|{{Bk|FRA}}|77|'''{{Bk|GER}}'''|'''81'''
+|6 September – 19:00|'''{{Bk|FR Yugoslavia}}'''|'''114'''|{{Bk|LAT}}|78
+|6 September – 21:15|{{Bk|RUS}}|55|'''{{Bk|ESP}}'''|'''62'''
+&lt;!-- semi finals --&gt;
+|8 September – 19:00|'''{{Bk|TUR}}'''|'''79'''|{{Bk|GER}}|78
+|8 September – 21:15|'''{{Bk|FR Yugoslavia}}'''|'''78'''|{{Bk|ESP}}|65
+&lt;!-- final --&gt;
+|9 September – 21:15|{{Bk|TUR}}|69|'''{{Bk|FR Yugoslavia}}'''|'''78'''
+&lt;!-- 3rd place --&gt;
+|9 September – 19:00|{{Bk|GER}}|90|'''{{Bk|ESP}}'''|'''99'''
+}}
+===決勝===
+{{basketballbox|bg=#ffffd0
+ | date = 9 September
+ | time = 21:15
+ | report = [http://www.fiba.com/pages/eng/fa/game/p/gid/A/grid/4/rid/225/sid/2235/_/2001_European_Championship_for_Men/statistic.html Boxscore]
+ | teamA = {{Bk|TUR}}
+ | scoreA = 69
+ | scoreB = '''78'''
+ | Q1 = '''22'''–15 || Q2 = 18–'''23''' || Q3 = 17–'''20''' || Q4 = 12–'''20'''
+ | OT = 
+ | teamB = '''{{Bk|FR Yugoslavia}}'''
+ | points1 = [[İbrahim Kutluay|Kutluay]] 16
+ | rebounds1 = [[Hüseyin Beşok|Beşok]] 9
+ | assist1 = [[Hedo Türkoğlu|Türkoğlu]] 3
+ | points2 = [[Vlado Šćepanović|Šćepanović]] 19
+ | rebounds2 = [[Dejan Bodiroga|Bodiroga]], [[Dejan Tomašević|Tomašević]] 7
+ | assist2 = Tomašević 3
+ | place = [[Abdi İpekçi Arena]], [[イスタンブール]]
+ | attendance = 12,000 || referee = Eduardo Sancha (ESP), Carl Jungebrand (FIN)
+}}
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{YUGmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{TURmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{ESPmb}}
+|-
+|style="text-align: center;"|4||{{GERmb}}
+|-
+|style="text-align: center;"|5||{{RUSmb}}
+|-
+|style="text-align: center;"|6||{{FRAmb}}
+|-
+|style="text-align: center;"|7||{{CROmb}}
+|-
+|style="text-align: center;"|8||{{LATmb}}
+|- 
+|style="text-align: center;"|9||{{ISRmb}}
+|- 
+|style="text-align: center;"|10||{{GREmb}}
+|- 
+|style="text-align: center;"|11||{{ITAmb}}
+|- 
+|style="text-align: center;"|12||{{LTUmb}}
+|- 
+|style="text-align: center;"|13||{{SLOmb}}
+|- 
+|style="text-align: center;"|14||{{UKRmb}}
+|- 
+|style="text-align: center;"|15||{{BIHmb}}
+|- 
+|style="text-align: center;"|16||{{ESTmb}}
+|}
+
+== 関連項目 ==
+*[[2001年バスケットボール女子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん2001}}
+[[Category:バスケットボール欧州選手権|2001たんし]]
+[[Category:2001年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:トルコ開催の国際スポーツ競技大会]]
+[[Category:トルコのバスケットボール|たんしおうしゆうせんしゆけん2001]]
+[[Category:2001年のトルコ]]
+[[Category:2001年8月]]
+[[Category:2001年9月]]</text>
+      <sha1>muswgzqt6yk5xi8r86o2sstjg6pgd6h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1999年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1557133</id>
+    <revision>
+      <id>74453949</id>
+      <parentid>69976463</parentid>
+      <timestamp>2019-10-01T08:42:22Z</timestamp>
+      <contributor>
+        <username>Yusuke1109 bot</username>
+        <id>1248432</id>
+      </contributor>
+      <minor/>
+      <comment>{{節stub}}を{{節スタブ}}に変更 using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4344" xml:space="preserve">{{出典の明記|date=2017年4月26日 (水) 05:48 (UTC)}}
+'''1999年バスケットボール男子欧州選手権'''（'''1999 European Basketball Championship'''）は、[[フランス]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1999'''」。
+
+16カ国が本大会に出場。イタリアが8大会ぶり2度目の優勝を飾り、スペイン・フランス・リトアニア・ロシアとともに[[2000年シドニーオリンピックのバスケットボール競技|シドニー五輪]]出場権を獲得した（ユーゴスラビアは[[1998年バスケットボール世界選手権|1998年世界選手権]]優勝のため免除）。
+
+== 出場国 ==
+{| class="wikitable"
+!width=25%|グループA
+!width=25%|グループB
+!width=25%|グループC
+!width=25%|グループD
+|-
+
+|valign="top"|
+{{Bk|FR Yugoslavia}}&lt;BR /&gt;
+{{Bk|France}}&lt;BR /&gt;
+{{Bk|Israel}}&lt;BR /&gt;
+{{Bk|MKD}}
+
+|valign="top"|
+{{Bk|Russia}}&lt;BR /&gt;
+{{Bk|Spain}}&lt;BR /&gt;
+{{Bk|Slovenia}}&lt;BR /&gt;
+{{Bk|Hungary}}
+
+|valign="top"|
+{{Bk|Turkey}}&lt;BR /&gt;
+{{Bk|Italy}}&lt;BR /&gt;
+{{Bk|Croatia}}&lt;BR /&gt;
+{{Bk|Bosnia and Herzegovina}}
+
+| valign="top"|
+{{Bk|Czech Republic}}&lt;BR /&gt;
+{{Bk|Germany}}&lt;BR /&gt;
+{{Bk|Lithuania|1989}}&lt;BR /&gt;
+{{Bk|Greece}}
+|}
+
+== 1次ラウンド ==
+{{節スタブ}}
+
+== 2次ラウンド ==
+{{節スタブ}}
+
+== ノックアウトラウンド ==
+{{Round8-with third|team-width=200
+&lt;!-- Date-Place/Team 1/Score 1/Team 2/Score 2 --&gt;
+&lt;!-- 準々決勝 --&gt;
+|7月1日14:00|{{Bk|RUS}}|79|'''{{Bk|ITA}}'''|'''102'''
+|7月1日16:15|'''{{Bk|FR Yugoslavia}}'''|'''78'''|{{Bk|GER}}|68
+|7月1日18:30|'''{{Bk|FRA}}'''|'''66'''|{{Bk|TUR}}|63
+|7月1日20:45|'''{{Bk|ESP}}'''|'''74'''|{{Bk|LTU|1989}}|72
+&lt;!-- 準決勝 --&gt;
+|7月2日20:45|'''{{Bk|ITA}}'''|'''71'''|{{Bk|FR Yugoslavia}}|62
+|7月2日18:30|{{Bk|FRA}}|63|'''{{Bk|ESP}}'''|'''70'''
+&lt;!-- 決勝 --&gt;
+|7月3日18:00|'''{{Bk|ITA}}'''|'''64'''|{{Bk|ESP}}|56
+&lt;!-- 3位決定戦 --&gt;
+|7月3日15:45|'''{{Bk|FR Yugoslavia}}'''|'''74'''|{{Bk|FRA}}|62
+}}
+
+
+===決勝===
+{{basketballbox|bg=#ffffd0
+ | date = 7月3日
+ | time = 18:00
+ | report = [http://archive.fiba.com/pages/eng/fa/game/p/gid/A/grid/4/rid/1783/sid/2267/_/1999_European_Championship_for_Men/statistic.html Boxscore]
+ | teamA = {{Bk|ESP}}
+ | scoreA = 56
+ | scoreB = '''64'''
+ | H1 = 24–'''32''' || H2 = 32–32
+ | OT = 
+ | teamB = '''{{Bk|ITA}}'''
+ | points1 = [[イヴァン・コラレス|Corrales]] 15
+ | rebounds1 = [[ロベルト・ドゥエニャス|Dueñas]] 11
+ | assist1 = Corrales 6
+ | points2 = Myers 18
+ | rebounds2 = Fučka 10
+ | assist2 = Basile, Fučka 2
+ | place = [[ベルシー・アリーナ|Palais Omnisports de Paris-Bercy]], [[パリ]]
+ | attendance = 14,000 || referee = Iztok Rems (SLO), Pascal Dorizon (FRA)
+}}
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{ITAmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{ESPmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{YUGmb}}
+|-
+|style="text-align: center;"|4||{{FRAmb}}
+|-
+|style="text-align: center;"|5||{{LTUmb}}
+|-
+|style="text-align: center;"|6||{{RUSmb}}
+|-
+|style="text-align: center;"|7||{{GERmb}}
+|-
+|style="text-align: center;"|8||{{TURmb}}
+|- 
+|style="text-align: center;"|9||{{ISRmb}}
+|- 
+|style="text-align: center;"|10||{{SLOmb}}
+|- 
+|style="text-align: center;"|11||{{CROmb}}
+|- 
+|style="text-align: center;"|12||{{CZEmb}}
+|- 
+|style="text-align: center;"|13||{{MKDmb}}
+|- 
+|style="text-align: center;"|14||{{HUNmb}}
+|- 
+|style="text-align: center;"|15||{{BIHmb}}
+|- 
+|style="text-align: center;"|16||{{GREmb}}
+|}
+
+== 関連項目 ==
+*[[1999年バスケットボール女子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1999}}
+[[Category:バスケットボール欧州選手権|1999たんし]]
+[[Category:フランス開催の国際スポーツ競技大会]]
+[[Category:1999年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:フランスのバスケットボール|たんしおうしゆうせんしゆけん1999]]
+[[Category:1999年のフランス]]
+[[Category:1999年6月]]
+[[Category:1999年7月]]</text>
+      <sha1>0dsub6f7j9r2yxjcst5rxyc9x141ene</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1997年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1557145</id>
+    <revision>
+      <id>74453958</id>
+      <parentid>65338325</parentid>
+      <timestamp>2019-10-01T08:43:25Z</timestamp>
+      <contributor>
+        <username>Yusuke1109 bot</username>
+        <id>1248432</id>
+      </contributor>
+      <minor/>
+      <comment>{{節stub}}を{{節スタブ}}に変更 using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3667" xml:space="preserve">'''1997年バスケットボール男子欧州選手権'''（'''1997 European Basketball Championship'''）は、[[スペイン]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1999'''」。
+
+16カ国が本大会に出場。ユーゴスラビアが2大会連続7度目の優勝を飾り、イタリア・ロシア・ギリシャ・スペイン・リトアニアとともに[[1998年バスケットボール世界選手権|1998年世界選手権]]出場権を獲得した。
+
+== 出場国 ==
+{{節スタブ}}
+
+== 1次ラウンド ==
+{{節スタブ}}
+
+== 2次ラウンド ==
+{{節スタブ}}
+
+== ノックアウトラウンド ==
+=== チャンピオンシップラウンド ===
+{{Round8-with third|team-width=200
+&lt;!-- Date-Place/Team 1/Score 1/Team 2/Score 2 --&gt;
+&lt;!-- quarter finals  --&gt;
+|4 July – 16:00|'''{{Bk|GRE}}'''|'''72'''|{{Bk|POL}}|62
+|4 July – 18:00|{{Bk|LTU|1989}}|60|'''{{Bk|FR Yugoslavia}}'''|'''75'''
+|4 July – 20:30|'''{{Bk|RUS}}'''|'''70'''|{{Bk|ESP}}|67
+|4 July – 22:30|{{Bk|TUR}}|43|'''{{Bk|ITA}}'''|'''66'''
+&lt;!-- semi finals --&gt;
+|5 July – 20:30|{{Bk|GRE}}|80|'''{{Bk|FR Yugoslavia}}'''|'''88'''
+|5 July – 22:30|{{Bk|RUS}}|65|'''{{Bk|ITA}}'''|'''67'''
+&lt;!-- final --&gt;
+|6 July – 21:30|'''{{Bk|FR Yugoslavia}}'''|'''61'''|{{Bk|ITA}}|49
+&lt;!-- 3rd place --&gt;
+|6 July – 19:15|{{Bk|GRE}}|77|'''{{Bk|RUS}}'''|'''97'''
+}}
+====決勝====
+{{basketballbox|bg=#ffffd0
+ | date = 6 July
+ | time = 21:30
+ | report = [http://archive.fiba.com/pages/eng/fa/game/p/gid/A/grid/4/rid/1502/sid/2266/_/1997_European_Championship_for_Men/statistic.html Boxscore]
+ | teamA = '''{{Bk|FR Yugoslavia}}'''
+ | scoreA = '''61'''
+ | scoreB = 49
+ | H1 = '''28'''–23 || H2 = '''33'''–26
+ | OT = 
+ | teamB = {{Bk|ITA}}
+ | points1 = Bodiroga 14
+ | rebounds1 = Danilović 5
+ | assist1 = Đorđević 4
+ | points2 = Myers 17
+ | rebounds2 = Fučka, Marconato 6
+ | assist2 = Coldebella 2
+ | place = [[パラウ・サン・ジョルディ]], [[バルセロナ]]
+ | attendance = 10,500 || referee = Carl Jungebrand (FIN), Víctor Mas (ESP)
+}}
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{YUGmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{ITAmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{RUSmb}}
+|-
+|style="text-align: center;"|4||{{GREmb}}
+|-
+|style="text-align: center;"|5||{{ESPmb}}
+|-
+|style="text-align: center;"|6||{{LTUmb}}
+|-
+|style="text-align: center;"|7||{{POLmb}}
+|-
+|style="text-align: center;"|8||{{TURmb}}
+|- 
+|style="text-align: center;"|9||{{ISRmb}}
+|- 
+|style="text-align: center;"|10||{{FRAmb}}
+|- 
+|style="text-align: center;"|11||{{CROmb}}
+|- 
+|style="text-align: center;"|12||{{GERmb}}
+|- 
+|style="text-align: center;"|13||{{UKRmb}}
+|- 
+|style="text-align: center;"|14||{{SLOmb}}
+|- 
+|style="text-align: center;"|15||{{BIHmb}}
+|- 
+|style="text-align: center;"|16||{{LATmb}}
+|}
+
+== 関連項目 ==
+*[[1997年バスケットボール女子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1997}}
+[[Category:バスケットボール欧州選手権|1997たんし]]
+[[Category:1997年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:スペインのバスケットボール|たんしおうしゆうせんしゆけん1997]]
+[[Category:スペイン開催の国際スポーツ競技大会]]
+[[Category:1997年のスペイン]]
+[[Category:1997年6月]]
+[[Category:1997年7月]]</text>
+      <sha1>5g9oh3zy8wtyvhkkougn9romifg0twh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1995年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1557829</id>
+    <revision>
+      <id>69913831</id>
+      <parentid>65338324</parentid>
+      <timestamp>2018-09-13T08:50:46Z</timestamp>
+      <contributor>
+        <username>曾禰越後守</username>
+        <id>183605</id>
+      </contributor>
+      <comment>lk調整</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2082" xml:space="preserve">'''1995年バスケットボール男子欧州選手権'''（'''1995 European Basketball Championship'''）は、[[ギリシャ]]・[[アテネ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1995'''」。
+
+14カ国が本大会に出場。ユーゴスラビアが2大会ぶり6度目の優勝を飾り、リトアニア・クロアチア・ギリシャとともに[[1996年アトランタオリンピックのバスケットボール競技|アトランタ五輪]]出場権を獲得した。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{YUGmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{LTUmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{CROmb}}
+|-
+|style="text-align: center;"|4||{{GREmb}}
+|-
+|style="text-align: center;"|5||{{ITAmb}}
+|-
+|style="text-align: center;"|6||{{ESPmb}}
+|-
+|style="text-align: center;"|7||{{RUSmb}}
+|-
+|style="text-align: center;"|8||{{FRAmb}}
+|- 
+|style="text-align: center;"|9||{{ISRmb}}
+|- 
+|style="text-align: center;"|10||{{GERmb}}
+|- 
+|style="text-align: center;"|11||{{SWEmb}}
+|- 
+|style="text-align: center;"|12||{{SLOmb}}
+|- 
+|style="text-align: center;"|13||{{TURmb}}
+|- 
+|style="text-align: center;"|14||{{FINmb}}
+|}
+
+== 関連項目 ==
+*[[1995年バスケットボール女子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1995}}
+[[Category:バスケットボール欧州選手権|1995たんし]]
+[[Category:ギリシャ開催の国際スポーツ競技大会]]
+[[Category:アテネのスポーツ競技大会]]
+[[Category:1995年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:ギリシャのバスケットボール|たんしおうしゆうせんしゆけん1995]]
+[[Category:1995年のギリシャ]]
+[[Category:1995年6月]]
+[[Category:1995年7月]]</text>
+      <sha1>0ccir46hjdhlu08mtwgyt2dtv9ft40v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1993年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1557840</id>
+    <revision>
+      <id>65338323</id>
+      <parentid>57413996</parentid>
+      <timestamp>2017-09-01T22:29:27Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2118" xml:space="preserve">{{出典の明記|date=2015年11月4日 (水) 06:18 (UTC)}}
+'''1993年バスケットボール男子欧州選手権'''（'''1993 European Basketball Championship'''）は、[[ドイツ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1993'''」。
+
+16カ国が本大会に出場。開催国ドイツが初優勝を飾り、ロシア・クロアチア・ギリシャ・スペインとともに[[1994年バスケットボール世界選手権|1994年世界選手権]]出場権を獲得した。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{GERmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{RUSmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{CROmb}}
+|-
+|style="text-align: center;"|4||{{GREmb}}
+|-
+|style="text-align: center;"|5||{{ESPmb}}
+|-
+|style="text-align: center;"|6||{{ESTmb}}
+|-
+|style="text-align: center;"|7||{{FRAmb}}
+|-
+|style="text-align: center;"|8||{{BIHmb}}
+|- 
+|style="text-align: center;"|9||{{ITAmb}}
+|- 
+|style="text-align: center;"|10||{{LATmb}}
+|- 
+|style="text-align: center;"|11||{{TURmb}}
+|- 
+|style="text-align: center;"|12||{{BELmb}}
+|- 
+|style="text-align: center;"|13||{{SWEmb}}
+|- 
+|style="text-align: center;"|14||{{BULmb}}
+|- 
+|style="text-align: center;"|15||{{ISRmb}}
+|- 
+|style="text-align: center;"|16||{{SLOmb}}
+|}
+
+== 関連項目 ==
+*[[1993年バスケットボール女子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1993}}
+[[Category:バスケットボール欧州選手権|1993たんし]]
+[[Category:ドイツ開催の国際スポーツ競技大会]]
+[[Category:1993年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:ドイツのバスケットボール|たんしおうしゆうせんしゆけん1993]]
+[[Category:1993年のドイツ]]
+[[Category:1993年6月]]
+[[Category:1993年7月]]</text>
+      <sha1>ssi2o6zhys5ydrmdout1hczcml0w7af</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1991年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1557872</id>
+    <revision>
+      <id>69839316</id>
+      <parentid>65338322</parentid>
+      <timestamp>2018-09-06T12:20:37Z</timestamp>
+      <contributor>
+        <username>曾禰越後守</username>
+        <id>183605</id>
+      </contributor>
+      <comment>lk調整</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1893" xml:space="preserve">'''1991年バスケットボール男子欧州選手権'''（'''1993 European Basketball Championship'''）は、[[イタリア]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1991'''」。
+
+8カ国が本大会に出場。ユーゴスラビアが2大会連続5度目の優勝を飾り、[[1992年バルセロナオリンピックのバスケットボール競技|バルセロナ五輪]]出場権を獲得したが、内戦により国際大会から締め出されたため[[バスケットボールクロアチア代表|クロアチア]]が出場した。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{YUG1945mb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{ITAmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{ESPmb}}
+|-
+|style="text-align: center;"|4||{{FRAmb}}
+|-
+|style="text-align: center;"|5||{{GREmb}}
+|-
+|style="text-align: center;"|6||{{TCHmb}}
+|-
+|style="text-align: center;"|7||{{POLmb}}
+|-
+|style="text-align: center;"|8||{{BULmb}}
+|}
+
+== 関連項目 ==
+*[[1991年バスケットボール女子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1991たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1991}}
+[[Category:バスケットボール欧州選手権|1991たんし]]
+[[Category:イタリア開催の国際スポーツ競技大会]]
+[[Category:1991年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:イタリアのバスケットボール|たんしおうしゆうせんしゆけん1991]]
+[[Category:ローマのスポーツ競技大会]]
+[[Category:1991年のイタリア]]
+[[Category:1991年6月]]</text>
+      <sha1>7w0n5hepkpxsqtr4x3e4wjjdc8ddbhy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1937年バスケットボール欧州選手権</title>
+    <ns>0</ns>
+    <id>1558131</id>
+    <revision>
+      <id>65338271</id>
+      <parentid>65319722</parentid>
+      <timestamp>2017-09-01T22:22:07Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1404" xml:space="preserve">{{出典の明記|date=2017年4月26日 (水) 05:49 (UTC)}}
+'''1937年バスケットボール欧州選手権'''（'''1937 European Basketball Championship'''）は、[[ラトビア]]・[[リガ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1937'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{LTUmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{ITA1861mb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{FRAmb}}
+|-
+|style="text-align: center;"|4||{{POLmb}}
+|-
+|style="text-align: center;"|5||{{ESTmb}}
+|-
+|style="text-align: center;"|6||{{LATmb}}
+|-
+|style="text-align: center;"|7||{{TCHmb}}
+|-
+|style="text-align: center;"|8||{{EGY1922mb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるおうしゆうせんしゆけん1937}}
+[[Category:バスケットボール欧州選手権|1937]]
+[[Category:1937年のスポーツ]]
+[[Category:ラトビアのバスケットボール|おうしゆうせんしゆけん1937]]
+[[Category:ラトビア開催の国際スポーツ競技大会]]
+[[Category:1937年のラトビア]]
+[[Category:リガのスポーツ]]
+[[Category:リガの歴史]]
+[[Category:1937年5月]]</text>
+      <sha1>kdceyg5ivsf5fxug4n1eqh5tqqb2et0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1939年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1558139</id>
+    <revision>
+      <id>86161334</id>
+      <parentid>65338270</parentid>
+      <timestamp>2021-10-22T17:59:21Z</timestamp>
+      <contributor>
+        <username>15g1d2r8</username>
+        <id>761021</id>
+      </contributor>
+      <minor/>
+      <comment>/* 最終結果 */ cat</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1469" xml:space="preserve">{{出典の明記|date=2017年4月26日 (水) 05:49 (UTC)}}
+'''1939年バスケットボール欧州選手権'''（'''1939 European Basketball Championship'''）は、[[リトアニア]]・[[カウナス]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1939'''」。
+
+開催国リトアニアが連覇を果たした。
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{LTUmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{LATmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{POLmb}}
+|-
+|style="text-align: center;"|4||{{FRAmb}}
+|-
+|style="text-align: center;"|5||{{ESTmb}}
+|-
+|style="text-align: center;"|6||{{ITA1861mb}}
+|-
+|style="text-align: center;"|7||{{HUN1918mb}}
+|-
+|style="text-align: center;"|8||{{FINmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1939}}
+[[Category:バスケットボール欧州選手権|1939]]
+[[Category:1939年のスポーツ]]
+[[Category:リトアニアのバスケットボール|たんしおうしゆうせんしゆけん1939]]
+[[Category:リトアニア開催の国際スポーツ競技大会]]
+[[Category:1939年のリトアニア]]
+[[Category:カウナスのスポーツ]]
+[[Category:1939年5月]]</text>
+      <sha1>1eb0v802p0vnnd6rhflsuioma64mh2k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1946年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1558734</id>
+    <revision>
+      <id>65338275</id>
+      <parentid>62951476</parentid>
+      <timestamp>2017-09-01T22:23:12Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1727" xml:space="preserve">'''1946年バスケットボール欧州選手権'''（'''1946 European Basketball Championship'''）は、[[スイス]]・[[ジュネーヴ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1946'''」。
+
+[[1939年バスケットボール男子欧州選手権|1939年大会]]の後、[[第二次世界大戦]]のためしばらく開催されず、7年ぶりの開催となった。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{TCHmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{ITA1861mb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{HUN1918mb}}
+|-
+|style="text-align: center;"|4||{{FRAmb}}
+|-
+|style="text-align: center;"|5||{{SUImb}}
+|-
+|style="text-align: center;"|6||{{NEDmb}}
+|-
+|style="text-align: center;"|7||{{BELmb}}
+|-
+|style="text-align: center;"|8||{{LUXmb}}
+|-
+|style="text-align: center;"|9||{{POLmb}}
+|-
+|style="text-align: center;"|10||{{ENGmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1946}}
+[[Category:バスケットボール欧州選手権|1946]]
+[[Category:スイス開催の国際スポーツ競技大会]]
+[[Category:1946年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:スイスのバスケットボール|たんしおうしゆうせんしゆけん1946]]
+[[Category:1946年のスイス]]
+[[Category:ジュネーヴのスポーツ]]
+[[Category:ジュネーヴの歴史]]
+[[Category:1946年4月]]
+[[Category:1946年5月]]</text>
+      <sha1>remdkyeptercn33gjwdqpt03axmeubx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1947年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1558759</id>
+    <revision>
+      <id>65338278</id>
+      <parentid>62878106</parentid>
+      <timestamp>2017-09-01T22:23:26Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1897" xml:space="preserve">'''1947年バスケットボール欧州選手権'''（'''1947 European Basketball Championship'''）は、[[チェコスロバキア]]・[[プラハ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1947'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{URSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{TCHmb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{EGY1922mb}}
+|-
+|style="text-align: center;"|4||{{BELmb}}
+|-
+|style="text-align: center;"|5||{{FRAmb}}
+|-
+|style="text-align: center;"|6||{{POLmb}}
+|-
+|style="text-align: center;"|7||{{HUN1918mb}}
+|-
+|style="text-align: center;"|8||{{Flagicon|BGR1946}} [[バスケットボールブルガリア代表|ブルガリア]]
+|-
+|style="text-align: center;"|9||{{ITAmb}}
+|-
+|style="text-align: center;"|10||{{ROMmb}}
+|-
+|style="text-align: center;"|11||{{NEDmb}}
+|-
+|style="text-align: center;"|12||{{AUTmb}}
+|-
+|style="text-align: center;"|13||{{YUG1945mb}}
+|-
+|style="text-align: center;"|14||{{Flagicon|ALB1946}} [[バスケットボールアルバニア代表|アルバニア]]
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1947}}
+[[Category:バスケットボール欧州選手権|1947]]
+[[Category:チェコスロバキア開催の国際スポーツ競技大会]]
+[[Category:1947年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:チェコのバスケットボール|たんしおうしゆうせんしゆけん1947]]
+[[Category:1947年のチェコスロバキア]]
+[[Category:プラハのスポーツ競技大会]]
+[[Category:1947年4月]]
+[[Category:1947年5月]]</text>
+      <sha1>frq5ha0rvsgvyrpt8ou4ygxn1frd5lr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1989年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1562297</id>
+    <revision>
+      <id>65338320</id>
+      <parentid>59768433</parentid>
+      <timestamp>2017-09-01T22:28:54Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1889" xml:space="preserve">'''1989年バスケットボール男子欧州選手権'''（'''1989 European Basketball Championship'''）は、[[ユーゴスラビア]]（現[[クロアチア]]）・[[ザグレブ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1989'''」。
+
+8カ国が本大会に出場。開催国であるユーゴスラビアが6大会ぶり4度目の優勝を飾り、ギリシャ・ソ連・イタリア・スペインとともに[[1990年バスケットボール世界選手権|1990年世界選手権]]出場権を獲得した。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{YUG1945mb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{GREmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{URSmb}}
+|-
+|style="text-align: center;"|4||{{ITAmb}}
+|-
+|style="text-align: center;"|5||{{ESPmb}}
+|-
+|style="text-align: center;"|6||{{FRAmb}}
+|-
+|style="text-align: center;"|7||{{BUL1971mb}}
+|-
+|style="text-align: center;"|8||{{NEDmb}}
+|}
+
+== 関連項目 ==
+*[[1989年バスケットボール女子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1989たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1989}}
+[[Category:バスケットボール欧州選手権|1989たんし]]
+[[Category:1989年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:クロアチアのバスケットボール|たんしおうしゆうせんしゆけん1989]]
+[[Category:ユーゴスラビア開催の国際スポーツ競技大会]]
+[[Category:ザグレブのスポーツ競技大会]]
+[[Category:1989年のユーゴスラビア]]
+[[Category:1989年6月]]</text>
+      <sha1>f2hqhm33qw5cfa6pn2fq9ygioha0g0k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1987年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1562342</id>
+    <revision>
+      <id>65338319</id>
+      <parentid>59749249</parentid>
+      <timestamp>2017-09-01T22:28:33Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1820" xml:space="preserve">'''1987年バスケットボール男子欧州選手権'''（'''1987 European Basketball Championship'''）は、[[ギリシャ]]・[[アテネ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1987'''」。
+
+12カ国が本大会に出場。開催国であるギリシャが初優勝を飾った。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{GREmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{URSmb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{YUG1945mb}}
+|-
+|style="text-align: center;"|4||{{ESPmb}}
+|-
+|style="text-align: center;"|5||{{ITAmb}}
+|-
+|style="text-align: center;"|6||{{FRGmb}}
+|-
+|style="text-align: center;"|7||{{POLmb}}
+|-
+|style="text-align: center;"|8||{{TCHmb}}
+|-
+|style="text-align: center;"|9||{{FRAmb}}
+|-
+|style="text-align: center;"|10||{{NEDmb}}
+|-
+|style="text-align: center;"|11||{{ISRmb}}
+|-
+|style="text-align: center;"|12||{{ROM1965mb}}
+|}
+
+== 関連項目 ==
+* [[1987年バスケットボール女子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1987たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1987}}
+[[Category:バスケットボール欧州選手権|1987たんし]]
+[[Category:ギリシャ開催の国際スポーツ競技大会]]
+[[Category:アテネのスポーツ競技大会]]
+[[Category:1987年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:ギリシャのバスケットボール|たんしおうしゆうせんしゆけん1987]]
+[[Category:1987年のギリシャ]]
+[[Category:1987年6月]]</text>
+      <sha1>ctb4m39qjow82553eff2ik3jqrbutyz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1985年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1562549</id>
+    <revision>
+      <id>67313353</id>
+      <parentid>65338317</parentid>
+      <timestamp>2018-02-10T14:43:46Z</timestamp>
+      <contributor>
+        <ip>126.170.20.255</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1848" xml:space="preserve">{{出典の明記|date=2016年2月2日 (火) 05:03 (UTC)}}
+'''1985年バスケットボール男子欧州選手権'''（'''1985 European Basketball Championship'''）は、[[西ドイツ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1985'''」。
+
+12カ国が本大会に出場。ソ連が2大会ぶり14回目の優勝を飾った。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{URSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{TCHmb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{ITAmb}}
+|-
+|style="text-align: center;"|4||{{ESPmb}}
+|-
+|style="text-align: center;"|5||{{FRGmb}}
+|-
+|style="text-align: center;"|6||{{FRAmb}}
+|-
+|style="text-align: center;"|7||{{YUG1945mb}}
+|-
+|style="text-align: center;"|8||{{BUL1971mb}}
+|-
+|style="text-align: center;"|9||{{ISRmb}}
+|-
+|style="text-align: center;"|10||{{ROM1965mb}}
+|-
+|style="text-align: center;"|11||{{POLmb}}
+|-
+|style="text-align: center;"|12||{{NEDmb}}
+|}
+
+== 関連項目 ==
+*[[1985年バスケットボール女子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1985たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1985}}
+[[Category:バスケットボール欧州選手権|1985たんし]]
+[[Category:ドイツ開催の国際スポーツ競技大会]]
+[[Category:西ドイツのスポーツ]]
+[[Category:1985年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:ドイツのバスケットボール|たんしおうしゆうせんしゆけん1985]]
+[[Category:1985年の西ドイツ]]
+[[Category:1985年6月]]</text>
+      <sha1>5bjwrksv6aaaedafrlgjruh4wcw25gf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1983年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1563064</id>
+    <revision>
+      <id>84774745</id>
+      <parentid>65338315</parentid>
+      <timestamp>2021-07-30T10:32:37Z</timestamp>
+      <contributor>
+        <username>Gladys Gibbs</username>
+        <id>1829082</id>
+      </contributor>
+      <comment>#WPWP #WPWPARK</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1878" xml:space="preserve">[[File:Ouverture du Championnat d'Europe de basket 1983.jpg|thumb|1983年バスケットボール男子欧州選手権]]
+'''1983年バスケットボール男子欧州選手権'''（'''1983 European Basketball Championship'''）は、[[フランス]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1983'''」。
+
+12カ国が本大会に出場。イタリアが初優勝を飾った。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{ITAmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{ESPmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{URSmb}}
+|-
+|style="text-align: center;"|4||{{NEDmb}}
+|-
+|style="text-align: center;"|5||{{FRAmb}}
+|-
+|style="text-align: center;"|6||{{ISRmb}}
+|-
+|style="text-align: center;"|7||{{YUG1945mb}}
+|-
+|style="text-align: center;"|8||{{FRGmb}}
+|-
+|style="text-align: center;"|9||{{POLmb}}
+|-
+|style="text-align: center;"|10||{{TCHmb}}
+|-
+|style="text-align: center;"|11||{{GREmb}}
+|-
+|style="text-align: center;"|12||{{SWEmb}}
+|}
+
+== 関連項目 ==
+*[[1985年バスケットボール女子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1983たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1983}}
+[[Category:バスケットボール欧州選手権|1983たんし]]
+[[Category:フランス開催の国際スポーツ競技大会]]
+[[Category:1983年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:フランスのバスケットボール|たんしおうしゆうせんしゆけん1983]]
+[[Category:1983年のフランス]]
+[[Category:1983年5月]]
+[[Category:1983年6月]]</text>
+      <sha1>nkz09hrwpvpkm2qgcta7xz3rblbec4c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1981年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1563080</id>
+    <revision>
+      <id>84774750</id>
+      <parentid>65338312</parentid>
+      <timestamp>2021-07-30T10:33:03Z</timestamp>
+      <contributor>
+        <username>Gladys Gibbs</username>
+        <id>1829082</id>
+      </contributor>
+      <comment>#WPWP #WPWPARK</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1998" xml:space="preserve">[[File:OndrejNepela1.JPG|thumb|1981年バスケットボール男子欧州選手権]]
+'''1981年バスケットボール男子欧州選手権'''（'''1981 European Basketball Championship'''）は、[[チェコスロバキア]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1981'''」。
+
+12カ国が本大会に出場。ソ連が2大会連続13回目の優勝を飾った。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{URSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{YUG1945mb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{TCHmb}}
+|-
+|style="text-align: center;"|4||{{ESP1977mb}}
+|-
+|style="text-align: center;"|5||{{ITAmb}}
+|-
+|style="text-align: center;"|6||{{ISRmb}}
+|-
+|style="text-align: center;"|7||{{POLmb}}
+|-
+|style="text-align: center;"|8||{{FRAmb}}
+|-
+|style="text-align: center;"|9||{{GREmb}}
+|-
+|style="text-align: center;"|10||{{FRGmb}}
+|-
+|style="text-align: center;"|11||{{TURmb}}
+|-
+|style="text-align: center;"|12||{{ENGmb}}
+|}
+
+== 関連項目 ==
+*[[1981年バスケットボール女子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1981たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1981}}
+[[Category:バスケットボール欧州選手権|1981たんし]]
+[[Category:チェコスロバキア開催の国際スポーツ競技大会]]
+[[Category:1981年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:チェコのバスケットボール|たんしおうしゆうせんしゆけん1981]]
+[[Category:スロバキアのバスケットボール|たんしおうしゆうせんしゆけん1981]]
+[[Category:1981年のチェコスロバキア]]
+[[Category:1981年5月]]
+[[Category:1981年6月]]</text>
+      <sha1>40k9p3pvvnz8rpoakfxhwwxz8fx157e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2007年バスケットボール男子欧州選手権予選</title>
+    <ns>0</ns>
+    <id>1563849</id>
+    <revision>
+      <id>55979863</id>
+      <parentid>51320780</parentid>
+      <timestamp>2015-06-26T06:34:21Z</timestamp>
+      <contributor>
+        <ip>210.20.189.225</ip>
+      </contributor>
+      <comment>/* 外部リンク */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6077" xml:space="preserve">'''2007年バスケットボール男子欧州選手権予選'''（'''EuroBasket 2007 qualification'''）は、[[2006年]][[8月31日]]から[[2007年]][[8月31日]]にかけてヨーロッパ各地で開催された[[バスケットボール欧州選手権]]男子大会の予選。16カ国が参加し、7カ国が本選である[[2007年バスケットボール男子欧州選手権]]への出場権を獲得した。
+
+== 1次予選 ==
+=== グループA ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- style="background:#aaffaa"
+|style="text-align:left"| {{POLmb}}
+|'''10'''||4||2||457||447||+10
+|- 
+|style="text-align:left"| {{SWEmb}}
+|'''9'''||3||3||453||438||+15
+|- 
+|style="text-align:left"| {{UKRmb}}
+|'''9'''||3||3||444||431||+13
+|-
+|style="text-align:left"| {{BULmb}}
+|'''8'''||2||4||440||478||-38
+|}
+
+=== グループB ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- style="background:#aaffaa"
+|style="text-align:left"| {{PORmb}}
+|'''10'''||4||2||448||449||-1
+|- 
+|style="text-align:left"| {{MKDmb}}
+|'''9'''||3||3||488||479||+9
+|- 
+|style="text-align:left"| {{BIHmb}}
+|'''9'''||3||3||482||459||+23
+|-
+|style="text-align:left"| {{ISRmb}}
+|'''8'''||2||4||431||462||-31
+|}
+
+=== グループC ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- style="background:#aaffaa"
+|style="text-align:left"| {{RUSmb}}
+|'''11'''||5||1||504||422||+82
+|- style="background:#aaffaa"
+|style="text-align:left"| {{CZEmb}}
+|'''10'''||4||2||458||443||+15
+|- 
+|style="text-align:left"| {{HUNmb}}
+|'''8'''||2||4||422||439||-17
+|-
+|style="text-align:left"| {{BELmb}}
+|'''7'''||1||5||400||480||-80
+|}
+
+=== グループD ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- style="background:#aaffaa"
+|style="text-align:left"| {{CROmb}}
+|'''11'''||5||1||498||397||+101
+|- style="background:#aaffaa"
+|style="text-align:left"| {{LATmb}}
+|'''10'''||4||2||454||423||+21
+|- 
+|style="text-align:left"| {{ESTmb}}
+|'''8'''||2||4||365||432||-67
+|-
+|style="text-align:left"| {{DENmb}}
+|'''7'''||1||5||405||470||-65
+|}
+=== 結果 ===
+1次予選の結果、以下の6ヶ国が本選出場。残る10ヶ国は2次予選に回る。
+*{{POLmb}}
+*{{PORmb}}
+*{{RUSmb}}
+*{{CROmb}}
+*{{CZEmb}}
+*{{LATmb}}
+
+== 2次予選 ==
+=== グループA ===
+{| style=border-collapse:collapse border=1 cellspacing=0 cellpadding=5
+|- align=center bgcolor=#efefef
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- align=center bgcolor=ccffcc
+|align=left|{{BIHmb}}
+|'''6'''||2||2||297||283||+14
+|- align=center
+|align=left|{{BULmb}}
+|'''6'''||2||2||287||292||-5
+|- align=center
+|align=left|{{HUNmb}}
+|'''6'''||2||2||290||299||-9
+|}
+
+=== グループB ===
+{| style=border-collapse:collapse border=1 cellspacing=0 cellpadding=5
+|- align=center bgcolor=#efefef
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- align=center bgcolor=ccffcc
+|align=left|{{MKDmb}}
+|'''7'''||3||1||316||253||+63
+|- align=center
+|align=left|{{ESTmb}}
+|'''7'''||3||1||247||265||-18
+|- align=center
+|align=left|{{SWEmb}}
+|'''4'''||0||4||235||280||-45
+|}
+
+=== グループC ===
+{| style=border-collapse:collapse border=1 cellspacing=0 cellpadding=5
+|- align=center bgcolor=#efefef
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- align=center bgcolor=ccffcc
+|align=left|{{ISRmb}}
+|'''11'''||5||1||485||421||+64
+|- align=center
+|align=left|{{BELmb}}
+|'''11'''||5||1||442||400||+42
+|- align=center
+|align=left|{{UKRmb}}
+|'''7'''||1||5||409||445||-36
+|- align=center
+|align=left|{{DENmb}}
+|'''7'''||1||5||417||487||-70
+|}
+=== 結果 ===
+2次予選の結果、以下の3ヶ国が最終予選進出。
+*{{BIHmb}}
+*{{MKDmb}}
+*{{ISRmb}}
+以下の3ヶ国は残留プレーオフに回る。
+*{{HUNmb}}
+*{{SWEmb}}
+*{{DENmb}}
+== 最終予選 ==
+{| style=border-collapse:collapse border=1 cellspacing=0 cellpadding=5
+|- align=center bgcolor=#efefef
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- align=center bgcolor=ccffcc
+|align=left|{{ISRmb}}
+|'''4'''||2||0||159||147||+12
+|- align=center
+|align=left|{{MKDmb}}
+|'''3'''||1||1||160||155||+5
+|- align=center
+|align=left|{{BIHmb}}
+|'''2'''||0||2||123||140||-17
+|}
+
+=== 結果 ===
+最終予選の結果、{{ISRmb}}が本選出場。
+== 残留プレーオフ ==
+{| style=border-collapse:collapse border=1 cellspacing=0 cellpadding=5
+|- align=center bgcolor=#efefef
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- align=center bgcolor=ccffcc
+|align=left|1. {{HUNmb}}
+|'''4'''||2||0||176||134||+42
+|- align=center bgcolor=ffcccc
+|align=left|2. {{SWEmb}}
+|'''3'''||1||1||130||130||0
+|- align=center bgcolor=ffcccc
+|align=left|3. {{DENmb}}
+|'''2'''||0||2||125||167||-42
+|}
+
+=== 結果 ===
+残留プレーオフの結果、{{HUNmb}}が次回予選に出場。
+
+== 外部リンク ==
+*[http://www.eurobasket2007.org/ 大会公式HP]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん2007よせん}}
+[[Category:バスケットボール欧州選手権|予選2007]]
+[[Category:2006年のバスケットボール|たんしおうしゆうせんしゆけんよせん]]
+[[Category:2007年のバスケットボール|たんしおうしゆうせんしゆけんよせん]]
+[[Category:2006年のヨーロッパ]]
+[[Category:2007年のヨーロッパ]]
+[[Category:2006年8月]]
+[[Category:2006年9月]]
+[[Category:2007年8月]]</text>
+      <sha1>iwws9p7jkr741c7kodch0m9pgf1gvs2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1951年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1564795</id>
+    <revision>
+      <id>65338284</id>
+      <parentid>61509648</parentid>
+      <timestamp>2017-09-01T22:24:08Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1862" xml:space="preserve">'''1951年バスケットボール欧州選手権'''（'''1951 European Basketball Championship'''）は、[[フランス]]・[[パリ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1951'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{URSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{TCHmb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{FRAmb}}
+|-
+|style="text-align: center;"|4||{{BUL1946mb}}
+|-
+|style="text-align: center;"|5||{{ITAmb}}
+|-
+|style="text-align: center;"|6||{{TURmb}}
+|-
+|style="text-align: center;"|7||{{BELmb}}
+|-
+|style="text-align: center;"|8||{{GRE1928mb}}
+|-
+|style="text-align: center;"|9||{{FINmb}}
+|-
+|style="text-align: center;"|10||{{NEDmb}}
+|-
+|style="text-align: center;"|11||{{AUTmb}}
+|-
+|style="text-align: center;"|12||{{FRGmb}}
+|-
+|style="text-align: center;"|13||{{SUImb}}
+|-
+|style="text-align: center;"|14||{{DENmb}}
+|-
+|style="text-align: center;"|15||{{PORmb}}
+|-
+|style="text-align: center;"|16||{{SCOmb}}
+|-
+|style="text-align: center;"|17||{{LUXmb}}
+|-
+|style="text-align: center;"|18||{{ROM1948mb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1951}}
+[[Category:バスケットボール欧州選手権|1951]]
+[[Category:フランス開催の国際スポーツ競技大会]]
+[[Category:1951年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:フランスのバスケットボール|たんしおうしゆうせんしゆけん1951]]
+[[Category:1951年のフランス]]
+[[Category:パリのスポーツ競技大会]]
+[[Category:1951年5月]]</text>
+      <sha1>h4kaydoftk5xzwtlqkmvrjql8tvp917</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2005年バスケットボール男子欧州選手権予選</title>
+    <ns>0</ns>
+    <id>1564956</id>
+    <revision>
+      <id>56720055</id>
+      <parentid>56580228</parentid>
+      <timestamp>2015-09-03T05:21:47Z</timestamp>
+      <contributor>
+        <ip>42.147.52.158</ip>
+      </contributor>
+      <comment>/* 外部リンク */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5524" xml:space="preserve">'''2005年バスケットボール男子欧州選手権予選'''（'''EuroBasket 2005 qualification'''）は、[[2004年]][[9月8日]]から[[2005年]][[9月13日]]にかけてヨーロッパ各地で開催された[[バスケットボール欧州選手権]]男子大会の予選。19カ国が参加し、11カ国が本選である[[2005年バスケットボール男子欧州選手権]]への出場権を獲得した。
+
+== 1次予選 ==
+=== グループA ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=30|試合
+!width=20|勝
+!width=20|負
+!width=30|勝点
+|- style="background:#aaffaa"
+| align=left|{{CROmb}} || 4 || 3 || 1 || 7
+|- style="background:#aaffaa"
+| align=left|{{RUSmb}} || 4 || 3 || 1 || 7
+|- 
+| align=left|{{SWEmb}} || 4 || 0 || 4 || 4
+|}
+
+=== グループB ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=30|試合
+!width=20|勝
+!width=20|負
+!width=30|勝点
+|- style="background:#aaffaa"
+| align=left|{{LATmb}} || 6 || 4 || 2 || 10
+|- style="background:#aaffaa"
+| align=left|{{BULmb}} || 6 || 4 || 2 || 10
+|- 
+| align=left|{{ISRmb}} || 6 || 3 || 3 || 9
+|- 
+| align=left|{{PORmb}} || 6 || 1 || 5 || 7
+|}
+
+=== グループC ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=30|試合
+!width=20|勝
+!width=20|負
+!width=30|勝点
+|- style="background:#aaffaa"
+| align=left|{{GERmb}} || 6 || 6 || 0 || 12
+|- style="background:#aaffaa"
+| align=left|{{UKRmb}} || 6 || 3 || 3 || 9
+|-
+| align=left|{{HUNmb}} || 6 || 2 || 4 || 8
+|-
+| align=left|{{BELmb}} || 6 || 1 || 5 || 7
+|}
+
+=== グループD ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=30|試合
+!width=20|勝
+!width=20|負
+!width=30|勝点
+|- style="background:#aaffaa"
+| align=left|{{FRAmb}} || 6 || 5 || 1 || 11
+|- style="background:#aaffaa"
+| align=left|{{SLOmb}} || 6 || 5 || 1 || 11
+|-
+| align=left|{{CZEmb}} || 6 || 1 || 5 || 7
+|-
+| align=left|{{POLmb}} || 6 || 1 || 5 || 7
+|}
+
+=== グループE ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=30|試合
+!width=20|勝
+!width=20|負
+!width=30|勝点
+|- style="background:#aaffaa"
+| align=left|{{TURmb}} || 6 || 6 || 0 || 12
+|- style="background:#aaffaa"
+| align=left|{{BIHmb}} || 6 || 4 || 2 || 10
+|-
+| align=left|{{NEDmb}} || 6 || 1 || 5 || 7
+|-
+| align=left|{{ESTmb}} || 6 || 1 || 5 || 7
+|}
+=== 結果 ===
+1次予選の結果、以下の10ヶ国が本選出場。残る9ヶ国は2次予選に回る。
+*{{CROmb}}
+*{{RUSmb}}
+*{{LATmb}}
+*{{BULmb}}
+*{{GERmb}}
+*{{UKRmb}}
+*{{FRAmb}}
+*{{SLOmb}}
+*{{TURmb}}
+*{{BIHmb}}
+
+== 2次予選 ==
+=== グループA ===
+{| style=border-collapse:collapse border=1 cellspacing=0 cellpadding=5
+|- align=center bgcolor=#efefef
+!width=200|チーム
+!width=30|試合
+!width=20|勝
+!width=20|負
+!width=30|勝点
+|- bgcolor=ccffcc
+| align=left|{{CZEmb}} || 4 || 4 || 0 || 8
+|-
+| align=left|{{ESTmb}} || 4 || 1 || 3 || 5
+|- 
+| align=left|{{POLmb}} || 4 || 1 || 3 || 5
+|}
+
+=== グループB ===
+{| style=border-collapse:collapse border=1 cellspacing=0 cellpadding=5
+|- align=center bgcolor=#efefef
+!width=200|チーム
+!width=30|試合
+!width=20|勝
+!width=20|負
+!width=30|勝点
+|- bgcolor=ccffcc
+| align=left|{{ISRmb}} || 4 || 4 || 0 || 8
+|-
+| align=left|{{BELmb}} || 4 || 2 || 2 || 6
+|- 
+| align=left|{{NEDmb}} || 4 || 0 || 4 || 4
+|}
+
+=== グループC ===
+{| style=border-collapse:collapse border=1 cellspacing=0 cellpadding=5
+|- align=center bgcolor=#efefef
+!width=200|チーム
+!width=30|試合
+!width=20|勝
+!width=20|負
+!width=30|勝点
+|- bgcolor=ccffcc
+| align=left|{{HUNmb}} || 4 || 3 || 1 || 7
+|-
+| align=left|{{PORmb}} || 4 || 2 || 2 || 6
+|- 
+| align=left|{{SWEmb}} || 4 || 1 || 3 || 5
+|}
+
+=== 結果 ===
+2次予選の結果、以下の3ヶ国が最終予選進出。
+*{{CZEmb}}
+*{{ISRmb}}
+*{{HUNmb}}
+以下の3ヶ国は残留プレーオフに回る。
+*{{POLmb}}
+*{{NEDmb}}
+*{{SWEmb}}
+== 最終予選 ==
+{| style=border-collapse:collapse border=1 cellspacing=0 cellpadding=5
+|- align=center bgcolor=#efefef
+!width=200|チーム
+!width=30|試合
+!width=20|勝
+!width=20|負
+!width=30|勝点
+|- style="background:#aaffaa"
+| align=left|{{ISRmb}} || 2 || 2 || 0 || 4
+|-
+| align=left|{{HUNmb}} || 2 || 1 || 1 || 3
+|- 
+| align=left|{{CZEmb}} || 2 || 0 || 2 || 2
+|}
+
+=== 結果 ===
+最終予選の結果、{{ISRmb}}が本選出場。
+== 残留プレーオフ ==
+{| style=border-collapse:collapse border=1 cellspacing=0 cellpadding=5
+|- align=center bgcolor=#efefef
+!width=200|チーム
+!width=30|試合
+!width=20|勝
+!width=20|負
+!width=30|勝点
+|- 
+| align=left|{{SWEmb}} || 2 || 2 || 0 || 4
+|- bgcolor=ffcccc
+| align=left|{{NEDmb}} || 2 || 1 || 1 || 3
+|- bgcolor=ffcccc
+| align=left|{{POLmb}} || 2 || 0 || 2 || 2
+|}
+
+=== 結果 ===
+残留プレーオフの結果、{{SWEmb}}が次回予選に出場。
+
+== 外部リンク ==
+*[http://www.fibaeurope.com/eurobasket2005/en/Default.asp 大会公式HP]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん2005よせん}}
+[[Category:バスケットボール欧州選手権|予選2005]]
+[[Category:2004年のバスケットボール|たんしおうしゆうせんしゆけんよせん]]
+[[Category:2005年のバスケットボール|たんしおうしゆうせんしゆけんよせん]]
+[[Category:2004年のヨーロッパ]]
+[[Category:2005年のヨーロッパ]]
+[[Category:2004年9月]]
+[[Category:2005年8月]]
+[[Category:2005年9月]]</text>
+      <sha1>11kr8lal3yxmwjfcxfkk8vhd7df94i1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1953年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1565106</id>
+    <revision>
+      <id>65338286</id>
+      <parentid>60892196</parentid>
+      <timestamp>2017-09-01T22:24:20Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1872" xml:space="preserve">'''1953年バスケットボール欧州選手権'''（'''1953 European Basketball Championship'''）は、[[ソビエト連邦]]・[[モスクワ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1953'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{URSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{HUN1949mb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{FRAmb}}
+|-
+|style="text-align: center;"|4||{{TCHmb}}
+|-
+|style="text-align: center;"|5||{{ISRmb}}
+|-
+|style="text-align: center;"|6||{{YUG1945mb}}
+|-
+|style="text-align: center;"|7||{{ITAmb}}
+|-
+|style="text-align: center;"|8||{{RAUmb}}
+|-
+|style="text-align: center;"|9||{{BUL1946mb}}
+|-
+|style="text-align: center;"|10||{{BELmb}}
+|-
+|style="text-align: center;"|11||{{SUImb}}
+|-
+|style="text-align: center;"|12||{{FINmb}}
+|-
+|style="text-align: center;"|13||{{ROM1952mb}}
+|-
+|style="text-align: center;"|14||{{FRGmb}}
+|-
+|style="text-align: center;"|15||{{LIBmb}}
+|-
+|style="text-align: center;"|16||{{DENmb}}
+|-
+|style="text-align: center;"|17||{{SWEmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1953}}
+[[Category:バスケットボール欧州選手権|1953]]
+[[Category:ソビエト連邦開催の国際スポーツ競技大会]]
+[[Category:1953年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:ロシアのバスケットボール|たんしおうしゆうせんしゆけん1953]]
+[[Category:1953年のソビエト連邦]]
+[[Category:モスクワのスポーツ競技大会]]
+[[Category:1953年5月]]
+[[Category:1953年6月]]</text>
+      <sha1>51zol95x3yhqv87fapuqgpb5fa6q9b8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1979年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1565855</id>
+    <revision>
+      <id>65338310</id>
+      <parentid>58996875</parentid>
+      <timestamp>2017-09-01T22:27:24Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1590" xml:space="preserve">'''1979年バスケットボール男子欧州選手権'''（'''1979 European Basketball Championship'''）は、[[イタリア]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1979'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{URSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{ISRmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{YUG1945mb}}
+|-
+|style="text-align: center;"|4||{{TCHmb}}
+|-
+|style="text-align: center;"|5||{{ITAmb}}
+|-
+|style="text-align: center;"|6||{{ESP1977mb}}
+|-
+|style="text-align: center;"|7||{{POLmb}}
+|-
+|style="text-align: center;"|8||{{FRAmb}}
+|-
+|style="text-align: center;"|9||{{GREmb}}
+|-
+|style="text-align: center;"|10||{{NEDmb}}
+|-
+|style="text-align: center;"|11||{{BUL1971mb}}
+|-
+|style="text-align: center;"|12||{{BELmb}}
+|}
+
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1979たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1979}}
+[[Category:バスケットボール欧州選手権|1979たんし]]
+[[Category:イタリア開催の国際スポーツ競技大会]]
+[[Category:1979年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:イタリアのバスケットボール|たんしおうしゆうせんしゆけん1979]]
+[[Category:1979年のイタリア]]
+[[Category:1979年6月]]</text>
+      <sha1>3d2ofgn1ky4zybl3r4z4dfri755nkw3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1977年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1566058</id>
+    <revision>
+      <id>65338308</id>
+      <parentid>59047741</parentid>
+      <timestamp>2017-09-01T22:27:11Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1590" xml:space="preserve">'''1977年バスケットボール男子欧州選手権'''（'''1977 European Basketball Championship'''）は、[[ベルギー]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1977'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{YUG1945mb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{URSmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{TCHmb}}
+|-
+|style="text-align: center;"|4||{{ITAmb}}
+|-
+|style="text-align: center;"|5||{{ISRmb}}
+|-
+|style="text-align: center;"|6||{{BUL1971mb}}
+|-
+|style="text-align: center;"|7||{{NEDmb}}
+|-
+|style="text-align: center;"|8||{{BELmb}}
+|-
+|style="text-align: center;"|9||{{ESP1977mb}}
+|-
+|style="text-align: center;"|10||{{FINmb}}
+|-
+|style="text-align: center;"|11||{{FRAmb}}
+|-
+|style="text-align: center;"|12||{{AUTmb}}
+|}
+
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1977たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1977}}
+[[Category:バスケットボール欧州選手権|1977たんし]]
+[[Category:1977年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:ベルギーのバスケットボール|たんしおうしゆうせんしゆけん1977]]
+[[Category:ベルギー開催の国際スポーツ競技大会]]
+[[Category:1977年のベルギー]]
+[[Category:1977年9月]]</text>
+      <sha1>tji6d51odsqrhhsmuapk9umk0y95322</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2009年バスケットボール男子欧州選手権予選</title>
+    <ns>0</ns>
+    <id>1566110</id>
+    <revision>
+      <id>55747005</id>
+      <parentid>51320809</parentid>
+      <timestamp>2015-06-04T03:49:50Z</timestamp>
+      <contributor>
+        <ip>42.147.49.150</ip>
+      </contributor>
+      <comment>/* 外部リンク */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5894" xml:space="preserve">'''2009年バスケットボール男子欧州選手権予選'''（'''EuroBasket 2009 qualification'''）は、[[2008年]][[8月20日]]から[[2009年]][[8月30日]]にかけてヨーロッパ各地で開催されている[[バスケットボール欧州選手権]]男子大会の予選。17カ国が参加し、8カ国が本選である[[2009年バスケットボール男子欧州選手権]]への出場権を獲得する。
+
+== 1次予選 ==
+2008年8月20日から9月20日までの日程で行われた。
+
+17ヶ国を4グループに分けホーム・アンド・アウェー方式で戦った。
+=== グループA ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{SRBmb}}
+|'''15'''||7||1||663||524||+139
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{BULmb}}
+|'''12'''||4||4||670||639||+31
+|- bgcolor="#ffe4b5"
+|style="text-align:left"| {{ITAmb}}
+|'''12'''||4||4||574||590||-16
+|- bgcolor="#ffe4b5"
+|style="text-align:left"| {{FINmb}}
+|'''11'''||3||5||613||655||-42
+|- bgcolor="#ffcccc"
+|style="text-align:left"| {{HUNmb}}
+|'''10'''||2||6||552||664||-112
+|}
+
+=== グループB ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{MKDmb}}
+|'''10'''||4||2||495||443||+52
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{LATmb}}
+|'''10'''||4||2||492||446||+46
+|- bgcolor="#ffe4b5"
+|style="text-align:left"| {{PORmb}}
+|'''9'''||3||3||395||460||-65
+|- bgcolor="#ffcccc"
+|style="text-align:left"| {{ESTmb}}
+|'''7'''||1||5||434||467||-33
+|}
+
+=== グループC ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{TURmb}}
+|'''12'''||6||0||487||407||+80
+|- bgcolor="#ffe4b5"
+|style="text-align:left"| {{FRAmb}}
+|'''9'''||3||3||460||446||+14
+|- bgcolor="#ffe4b5"
+|style="text-align:left"| {{BELmb}}
+|'''8'''||2||4||403||430||-27
+|- bgcolor="#ffcccc"
+|style="text-align:left"| {{UKRmb}}
+|'''7'''||1||5||417||484||-67
+|}
+
+=== グループD ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{GBRmb}}
+|'''10'''||4||2||504||482||+22
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{ISRmb}}
+|'''9'''||3||3||515||491||+24
+|- bgcolor="#ffe4b5"
+|style="text-align:left"| {{BIHmb}}
+|'''9'''||3||3||465||470||-5
+|- bgcolor="#ffcccc"
+|style="text-align:left"| {{CZEmb}}
+|'''8'''||2||4||432||473||-41
+|}
+=== 結果 ===
+1次予選の結果、以下の7ヶ国が本選出場。
+*{{SRBmb}}
+*{{BULmb}}
+*{{MKDmb}}
+*{{LATmb}}
+*{{TURmb}}
+*{{GBRmb}}
+*{{ISRmb}}
+以下の6ヶ国は最終予選に回る。
+*{{BELmb}}
+*{{BIHmb}}
+*{{FINmb}}
+*{{FRAmb}}
+*{{ITAmb}}
+*{{PORmb}} 
+残る4ヶ国は残留プレーオフに回る。
+
+== 最終予選 ==
+2009年8月5日から30日まで、6ヶ国を2グループに分けてラウンドロビンを戦い、それぞれのグループ1位で最後の1枠を争う。
+
+ラウンドロビン・ファイナルいずれもホーム・アンド・アウェー方式となる。
+=== グループA ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{BELmb}}
+|'''7'''||3||1||303||277||+26 
+|- bgcolor="#ffcccc"
+|style="text-align:left"| {{BIHmb}}
+|'''7'''||3||1||296||296||0
+|- bgcolor="#ffcccc"
+|style="text-align:left"| {{PORmb}}
+|'''4'''||0||4||233||259||-26
+|}
+
+=== グループB ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{FRAmb}}
+|'''7'''||3||1||316||287||+29 
+|- bgcolor="#ffcccc"
+|style="text-align:left"| {{FINmb}}
+|'''6'''||2||2||319||321||-2
+|- bgcolor="#ffcccc"
+|style="text-align:left"| {{ITAmb}}
+|'''5'''||1||3||304||331||-27 
+|}
+=== ファイナル ===
+* 8月27日 - '''{{BELmb}}''' '''70''' - 66 {{FRAmb}}
+* 8月30日 - '''{{FRAmb}}''' '''92''' - 54 {{BELmb}}
+勝敗は1勝1敗となったため、総得点の比較となり、158–124で{{FRAmb}}が本大会出場権を獲得した。
+
+== 残留プレーオフ ==
+2009年8月5日から20日まで行う。
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{HUNmb}}
+|'''10'''||4||2||435||394||+41
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{UKRmb}}
+|'''10'''||4||2||436||437||-1
+|- bgcolor="#ffcccc"
+|style="text-align:left"| {{CZEmb}}
+|'''9'''||3||3||412||404||+8
+|- bgcolor="#ffcccc"
+|style="text-align:left"| {{ESTmb}}
+|'''7'''||1||5||383||431||-48
+|}
+
+== 外部リンク ==
+*[http://www.fibaeurope.com/cid_KNce8jInH7Qj1EsyH5rjn2.pageID_tQxVhH13JwA-jrH88TIoE3.compID_qMRZdYCZI6EoANOrUf9le2.roundID_6326.html FIBAヨーロッパ]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん2009よせん}}
+[[Category:バスケットボール欧州選手権|予選2009]]
+[[Category:2008年のバスケットボール|たんしおうしゆうせんしゆけんよせん]]
+[[Category:2009年のバスケットボール|たんしおうしゆうせんしゆけんよせん]]
+[[Category:2008年のヨーロッパ]]
+[[Category:2009年のヨーロッパ]]
+[[Category:2008年8月]]
+[[Category:2008年9月]]
+[[Category:2009年8月]]</text>
+      <sha1>j4wje3usrevntu03hme0tyh59fyf1uz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2009年バスケットボール女子欧州選手権</title>
+    <ns>0</ns>
+    <id>1566154</id>
+    <revision>
+      <id>70114066</id>
+      <parentid>55633526</parentid>
+      <timestamp>2018-09-30T14:07:58Z</timestamp>
+      <contributor>
+        <username>曾禰越後守</username>
+        <id>183605</id>
+      </contributor>
+      <comment>lk調整</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6124" xml:space="preserve">'''2009年FIBAヨーロッパ女子バスケットボール選手権'''（'''2009 European Basketball Championship for Women'''）は、[[2009年]][[6月7日]]から[[6月20日|20日]]までの日程で[[ラトビア]]で開催された[[バスケットボール欧州選手権]]女子大会。[[2010年女子バスケットボール世界選手権]]予選も兼ねる。
+== 出場国 ==
+16チームが参加。以下の5チームが予選免除で出場権を得ている。
+
+'''開催国'''
+* {{LATwb}}
+'''[[2008年北京オリンピックのバスケットボール競技|北京五輪]]出場国'''
+* {{RUSwb}}
+* {{ESPwb}}
+* {{BLRwb}}
+* {{CZEwb}}
+残る11チームを予選により決定。
+{{main|2009年バスケットボール女子欧州選手権予選}}
+* {{ISRwb}}
+* {{LTUwb}}
+* {{TURwb}}
+* {{POLwb}}
+* {{FRAwb}}
+* {{SVKwb}}
+* {{GREwb}}
+* {{SRBwb}}
+* {{HUNwb}}
+* {{UKRwb}}
+* {{ITAwb}}
+
+== 1次ラウンド ==
+=== グループA ===
+{| class=wikitable style="text-align:center"
+!width=20|順位
+!width=200|チーム
+!width=20|勝点
+!width=20|試合数
+!width=20|勝
+!width=20|負
+!width=20|得点
+!width=20|失点
+!width=20|得失点差
+|- bgcolor=#aaffaa
+|1
+|align=left|'''{{ESPwb}}'''
+|'''6'''||3||3||0||222||172||+50
+|- bgcolor=#aaffaa
+|2
+|align=left|'''{{SVKwb}}'''
+|'''5'''||3||2||1||196||184||+12
+|- bgcolor=#aaffaa
+|3
+|align=left|'''{{CZEwb}}'''
+|'''4'''||3||1||2||196||208||-12 
+|- 
+|4
+|align=left|{{UKRwb}}
+|'''3'''||3||0||3||191||241||-50
+|}
+=== グループB ===
+{| class=wikitable style="text-align:center"
+!width=20|順位
+!width=200|チーム
+!width=20|勝点
+!width=20|試合数
+!width=20|勝
+!width=20|負
+!width=20|得点
+!width=20|失点
+!width=20|得失点差
+|- bgcolor=#aaffaa
+|1
+|align=left|'''{{LATwb}}'''
+|'''6'''||3||3||0||232||179||+53
+|- bgcolor=#aaffaa
+|2
+|align=left|'''{{POLwb}}'''
+|'''5'''||3||2||1||174||199||-25
+|- bgcolor=#aaffaa
+|3
+|align=left|'''{{GREwb}}'''
+|'''4'''||3||1||2||187||175||+12
+|- 
+|4
+|align=left|{{HUNwb}}
+|'''3'''||3||0||3||155||195||-40
+|}
+=== グループC ===
+{| class=wikitable style="text-align:center"
+!width=20|順位
+!width=200|チーム
+!width=20|勝点
+!width=20|試合数
+!width=20|勝
+!width=20|負
+!width=20|得点
+!width=20|失点
+!width=20|得失点差
+|- bgcolor=#aaffaa
+|1
+|align=left|'''{{RUSwb}}'''
+|'''6'''||3||3||0||206||150||+56
+|- bgcolor=#aaffaa
+|2
+|align=left|'''{{TURwb}}'''
+|'''5'''||3||2||1||195||195||0
+|- bgcolor=#aaffaa
+|3
+|align=left|'''{{LTUwb}}'''
+|'''4'''||3||1||2||189||178||+11
+|- 
+|4
+|align=left|{{SRBwb}}
+|'''3'''||3||0||3||141||208||-67
+|}
+=== グループD ===
+{| class=wikitable style="text-align:center"
+!width=20|順位
+!width=200|チーム
+!width=20|勝点
+!width=20|試合数
+!width=20|勝
+!width=20|負
+!width=20|得点
+!width=20|失点
+!width=20|得失点差
+|- bgcolor=#aaffaa
+|1
+|align=left|'''{{FRAwb}}'''
+|'''6'''||3||3||0||212||192||+20
+|- bgcolor=#aaffaa
+|2
+|align=left|'''{{ITAwb}}'''
+|'''5'''||3||2||1||203||198||+5
+|- bgcolor=#aaffaa
+|3
+|align=left|'''{{BLRwb}}'''
+|'''4'''||3||1||2||200||206||-6
+|- 
+|4
+|align=left|{{ISRwb}}
+|'''3'''||3||0||3||201||229||-19
+|}
+
+== 2次ラウンド ==
+=== グループE ===
+{| class=wikitable style="text-align:center"
+!width=20|順位
+!width=200|チーム
+!width=20|勝点
+!width=20|試合数
+!width=20|勝
+!width=20|負
+!width=20|得点
+!width=20|失点
+!width=20|得失点差
+|- bgcolor=#aaffaa
+|1
+|align=left|'''{{ESPwb}}'''
+|'''10'''||5||5||0||328||266||+62
+|- bgcolor=#aaffaa
+|2
+|align=left|'''{{SVKwb}}'''
+|'''8'''||5||3||2||319||313||+6
+|- bgcolor=#aaffaa
+|3
+|align=left|'''{{LATwb}}'''
+|'''8'''||5||3||2||350||312||+38 
+|- bgcolor=#aaffaa
+|4
+|align=left|'''{{GREwb}}'''
+|'''7'''||5||2||3||297||301||-4 
+|- 
+|5
+|align=left|{{CZEwb}}
+|'''6'''||5||1||4||291||326||-35 
+|- 
+|6
+|align=left|{{POLwb}}
+|'''6'''||5||1||4||293||360||-67 
+|}
+
+=== グループF ===
+{| class=wikitable style="text-align:center"
+!width=20|順位
+!width=200|チーム
+!width=20|勝点
+!width=20|試合数
+!width=20|勝
+!width=20|負
+!width=20|得点
+!width=20|失点
+!width=20|得失点差
+|- bgcolor=#aaffaa
+|1
+|align=left|'''{{FRAwb}}'''
+|'''10'''||5||5||0||323||286||+37 
+|- bgcolor=#aaffaa
+|2
+|align=left|'''{{RUSwb}}'''
+|'''9'''||5||4||1||333||295||+38 
+|- bgcolor=#aaffaa
+|3
+|align=left|'''{{BLRwb}}'''
+|'''7'''||5||2||3||317||321||-4 
+|- bgcolor=#aaffaa
+|4
+|align=left|'''{{ITAwb}}'''
+|'''7'''||5||2||3||318||323||-5 
+|- 
+|5
+|align=left|{{TURwb}}
+|'''7'''||5||2||3||307||340||-33 
+|- 
+|6
+|align=left|{{LTUwb}}
+|'''5'''||5||0||5||286||319||-33 
+|}
+
+== 決勝ラウンド ==
+{{Round8-with third
+&lt;!--QF--&gt;
+|6月17日 |'''{{ESPwb}}'''|'''61'''|{{ITAwb}}|42
+|6月18日 |'''{{RUSwb}}''' (OT)|'''69'''|{{LATwb}}|64
+|6月17日 |{{SVKwb}}|68|'''{{BLRwb}}''' (OT)|'''70'''
+|6月18日 |'''{{FRAwb}}'''|'''51'''|{{GREwb}}|49
+&lt;!--SF--&gt;
+|6月19日 |{{ESPwb}}|61|'''{{RUSwb}}'''|'''77'''
+|6月19日 |{{BLRwb}}|56|'''{{FRAwb}}'''|'''64'''
+&lt;!--F--&gt;
+|6月20日 |{{RUSwb}}|53|'''{{FRAwb}}'''|'''57'''
+|6月20日 |'''{{ESPwb}}'''|'''63'''|{{BLRwb}}|56
+}}
+
+{{Round4-with third|RD2=5位決定戦|Consol=7位決定戦
+&lt;!--SF--&gt;
+|6月19日 |'''{{ITAwb}}''' (OT)|'''68'''|{{LATwb}}|66
+|6月19日 |{{SVKwb}}|59|'''{{GREwb}}'''|'''64'''
+&lt;!--F--&gt;
+|6月20日 |{{ITAwb}}|56|'''{{GREwb}}'''|'''60'''
+|6月20日 |'''{{LATwb}}'''|'''67'''|{{SVKwb}}|59
+}}
+
+== 関連項目 ==
+*[[2009年バスケットボール女子欧州選手権予選]]
+*[[2009年バスケットボール男子欧州選手権]]
+
+== 外部リンク ==
+*[http://www.fibaeurope.com/cid_KNce8jInH7Qj1EsyH5rjn2.roundID_6341.compID_pnlxO1HYJhUh,MTfrmUO03.html FIBAヨーロッパ]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるしよしおうしゆうせんしゆけん2009}}
+[[Category:バスケットボール欧州選手権|2009しよし]]
+[[Category:2009年のバスケットボール|しよしおうしゆうせんしゆけん]]
+[[Category:ラトビアのバスケットボール|しよしおうしゆうせんしゆけん2009]]
+[[Category:ラトビア開催の国際スポーツ競技大会]]
+[[Category:2009年のラトビア]]
+[[Category:2009年6月]]</text>
+      <sha1>gogpczr3v5jw0tn9knf4bt9olqojzqx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2009年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1556719</id>
+    <revision>
+      <id>70114053</id>
+      <parentid>65338414</parentid>
+      <timestamp>2018-09-30T14:07:05Z</timestamp>
+      <contributor>
+        <username>曾禰越後守</username>
+        <id>183605</id>
+      </contributor>
+      <comment>lk調整</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8061" xml:space="preserve">'''2009年FIBAヨーロッパ男子バスケットボール選手権'''（'''2009 European Basketball Championship'''）は、[[2009年]][[9月7日]]から[[9月20日|20日]]まで[[ポーランド]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット2009'''」。[[2010年バスケットボール世界選手権]]欧州予選も兼ねる。
+
+== 出場国 ==
+16チームが参加。以下の8チームが予選免除で出場権を得ている。
+
+'''開催国'''
+* {{POLmb}}
+'''[[2008年北京オリンピックのバスケットボール競技|北京五輪]]欧州予選通過国'''
+* {{RUSmb}}
+* {{ESPmb}}
+* {{LTUmb}}
+'''[[2008年北京オリンピックのバスケットボール競技・世界最終予選|北京五輪世界最終予選]]出場国'''
+* {{GREmb}}
+* {{GERmb}}
+* {{CROmb}}
+* {{SLOmb}}
+{{main|2009年バスケットボール男子欧州選手権予選}}
+残る8チームを予選により決定。既に以下のチームが1次予選を通過し本大会出場権を獲得している。
+* {{BULmb}}
+* {{GBRmb}}
+* {{ISRmb}}
+* {{LATmb}}
+* {{MKDmb}}
+* {{SRBmb}}
+* {{TURmb}}
+最終予選の結果、以下のチームが出場権を獲得。
+* {{FRAmb}}
+
+== 1次ラウンド ==
+=== グループA ===
+{|class=wikitable 
+|- align=center
+!width=150|チーム
+!width=20|試合
+!width=20|勝
+!width=20|敗
+!width=30|得点
+!width=30|失点
+!width=30|点差
+!width=20|勝ち点
+|- align=center bgcolor=#ccffcc
+|align=left|{{GREmb}}|| 3 || 3 || 0 || 268 || 202 || +66 || '''6'''
+|- align=center bgcolor=#ccffcc
+|align=left|{{CROmb}}|| 3 || 2 || 1 || 235 || 226 || +9 || '''5'''
+|- align=center bgcolor=#ccffcc
+|align=left|{{MKDmb}}|| 3 || 1 || 2 || 207 || 246 || -39 || '''4'''
+|- align=center
+|align=left|{{ISRmb}}|| 3 || 0 || 3 || 238 || 274 || -36 || '''3'''
+|}
+=== グループB ===
+{|class=wikitable 
+|- align=center
+!width=150|チーム
+!width=20|試合
+!width=20|勝
+!width=20|敗
+!width=30|得点
+!width=30|失点
+!width=30|点差
+!width=20|勝ち点
+|- align=center bgcolor=#ccffcc
+|align=left|{{FRAmb}}|| 3 || 3 || 0 || 199 || 180 || +19 || '''6'''
+|- align=center bgcolor=#ccffcc
+|align=left|{{RUSmb}}|| 3 || 1 || 2 || 218 || 213 || +5 || '''4'''
+|- align=center bgcolor=#ccffcc
+|align=left|{{GERmb}}|| 3 || 1 || 2 || 203 || 211 || -8 || '''4'''
+|- align=center
+|align=left|{{LATmb}}|| 3 || 1 || 2 || 187 || 203 || -16 || '''4'''
+|}
+=== グループC ===
+{|class=wikitable 
+|- align=center
+!width=150|チーム
+!width=20|試合
+!width=20|勝
+!width=20|敗
+!width=30|得点
+!width=30|失点
+!width=30|点差
+!width=20|勝ち点
+|- align=center bgcolor=#ccffcc
+|align=left|{{SVNmb}}|| 3 || 2 || 1 || 236 || 218 || +18 || '''5'''
+|- align=center bgcolor=#ccffcc
+|align=left|{{SRBmb}}|| 3 || 2 || 1 || 212 || 196 || +16 || '''5'''
+|- align=center bgcolor=#ccffcc
+|align=left|{{ESPmb}}|| 3 || 2 || 1 || 231 || 226 || +5 || '''5'''
+|- align=center
+|align=left|{{GBRmb}}|| 3 || 0 || 3 || 194 || 233 || -39 || '''3'''
+|}
+=== グループD ===
+{|class=wikitable 
+|- align=center
+!width=150|チーム
+!width=20|試合
+!width=20|勝
+!width=20|敗
+!width=30|得点
+!width=30|失点
+!width=30|点差
+!width=20|勝ち点
+|- align=center bgcolor=#ccffcc
+|align=left|{{TURmb}}|| 3 || 3 || 0 || 265 || 211 || +54 || '''6'''
+|- align=center bgcolor=#ccffcc
+|align=left|{{POLmb}}|| 3 || 2 || 1 || 245 || 240 || +5 || '''5'''
+|- align=center bgcolor=#ccffcc
+|align=left|{{LTUmb}}|| 3 || 1 || 2 || 235 || 239 || -4 || '''4'''
+|- align=center
+|align=left|{{BULmb}}|| 3 || 0 || 3 || 213 || 268 || -55 || '''3'''
+|}
+
+== 2次ラウンド ==
+=== グループE ===
+{|class=wikitable 
+|- align=center
+!width=150|チーム
+!width=20|試合
+!width=20|勝
+!width=20|敗
+!width=30|得点
+!width=30|失点
+!width=30|点差
+!width=20|勝ち点
+!width=20|タイブレーク
+|- align=center bgcolor=#ccffcc
+|align=left|{{FRAmb}}|| 5 || 5 || 0 || 380 || 334 || +46 || '''10''' ||
+|- align=center bgcolor=#ccffcc
+|align=left|{{RUSmb}}|| 5 || 3 || 2 || 338 || 338 || 0 || '''8''' || 1–0
+|- align=center bgcolor=#ccffcc
+|align=left|{{GREmb}}|| 5 || 3 || 2 || 380 || 337 || +43 || '''8''' || 0–1
+|- align=center bgcolor=#ccffcc
+|align=left|{{CROmb}}|| 5 || 2 || 3 || 357 || 364 || -7 || '''7''' ||
+|- align=center
+|align=left|{{MKDmb}}|| 5 || 1 || 4 || 337 || 396 || -59 || '''6''' || 1–0
+|- align=center
+|align=left|{{GERmb}}|| 5 || 1 || 4 || 360 || 383 || -23 || '''6''' || 0–1
+|}
+=== グループF ===
+{|class=wikitable 
+|- align=center
+!width=150|チーム
+!width=20|試合
+!width=20|勝
+!width=20|敗
+!width=30|得点
+!width=30|失点
+!width=30|点差
+!width=20|勝ち点
+!width=20|タイブレーク
+|- align=center bgcolor=#ccffcc
+|align=left|{{SLOmb}}|| 5 || 4 || 1 || 390 || 344 || +46 || '''9''' || 1–0
+|- align=center bgcolor=#ccffcc
+|align=left|{{TURmb}}|| 5 || 4 || 1 || 370 || 338 || +32 || '''9''' || 0–1
+|- align=center bgcolor=#ccffcc
+|align=left|{{SRBmb}}|| 5 || 3 || 2 || 365 || 357 || +8 || '''8''' || 1–0  
+|- align=center bgcolor=#ccffcc
+|align=left|{{ESPmb}}|| 5 || 3 || 2 || 381 || 351 || +30 || '''8''' || 0–1
+|- align=center
+|align=left|{{POLmb}}|| 5 || 1 || 4 || 355 || 405 || -50 || '''6''' ||
+|- align=center
+|align=left|{{LTUmb}}|| 5 || 0 || 5 || 358 || 424 || -66 || '''5''' ||
+|}
+
+== ノックアウトラウンド ==
+;決勝トーナメント
+{{Round8-with third
+&lt;!--QF--&gt;
+|9月17日 |{{FRAmb}}|66|'''{{ESPmb}}'''|'''86'''
+|9月18日 |{{TURmb}}|74|'''{{GREmb}}'''|76                 
+|9月17日 |{{RUSmb}}|68|'''{{SRBmb}}'''|'''79'''
+|9月18日 |'''{{SLOmb}}'''|67|{{CROmb}}|65
+&lt;!--SF--&gt;
+|9月19日 |'''{{ESPmb}}'''|'''82'''|{{GREmb}}|64
+|9月19日 |'''{{SRBmb}}'''|'''96'''|{{SLOmb}}|92
+&lt;!--F--&gt;
+|9月20日 |'''{{ESPmb}}'''|'''85'''|{{SRBmb}}|63
+|9月20日 |'''{{GREmb}}'''|'''57'''|{{SLOmb}}|56
+}}
+
+;5位決定戦
+{{Round4-with third|RD1=予備戦|RD2=5位決定戦|Consol=7位決定戦
+&lt;!--SF--&gt;
+|9月19日 |'''{{FRAmb}}'''|'''80'''|{{TURmb}}|68
+|9月19日 |{{RUSmb}}|69|'''{{CROmb}}'''|'''76'''
+&lt;!--F--&gt;
+|9月20日 |'''{{FRAmb}}'''|'''69'''|{{CROmb}}|62
+|9月20日 |{{TURmb}}|66|'''{{RUSmb}}'''|'''89'''
+}}
+
+== 最終順位 ==
+
+{| class="infobox bordered"
+|-
+|width=10px bgcolor="#aaffaa"| || [[2010年バスケットボール世界選手権|2010年世界選手権]]出場。
+|-
+|width=10px bgcolor="skyblue"| || 2010年世界選手権開催国。
+|}
+{| class="wikitable" style="text-align: center"
+|-
+! width=50|順位
+! width=175|チーム
+! width=50|勝敗
+|- bgcolor=#aaffaa
+| {{Gold1}}
+| align=left|{{ESPmb}}
+|7–2
+|- bgcolor=#aaffaa
+| {{Silver2}}
+| align=left|{{SRBmb}}
+|6–3
+|- bgcolor=#aaffaa
+| {{Bronze3}}
+| align=left|{{GREmb}}
+|6–3
+|- bgcolor=#aaffaa
+| 4
+| align=left|{{SLOmb}}
+|6–3
+|- bgcolor=#aaffaa
+| 5
+| align=left|{{FRAmb}}
+|8–1
+|- bgcolor=#aaffaa
+| 6
+| align=left|{{CROmb}}
+|4–5
+|-
+| 7
+|align=left|{{RUSmb}}
+|5–4
+|- bgcolor=#skyblue
+| 8
+|align=left|{{TURmb}}
+|5–4
+|-
+|rowspan=2| 9
+|align=left|{{MKDmb}}
+|2–4
+|-
+|align=left|{{POLmb}}
+|2–4
+|-
+|rowspan=2| 11
+|align=left|{{GERmb}}
+|1–5
+|-
+|align=left|{{LTUmb}}
+|1–5
+|-
+|rowspan=4| 13
+|align=left|{{LATmb}}
+|1–2
+|-
+|align=left|{{ISRmb}}
+|0–3
+|-
+|align=left|{{GBRmb}}
+|0–3
+|-
+|align=left|{{BULmb}}
+|0–3
+|}
+
+== 関連項目 ==
+*[[2009年バスケットボール男子欧州選手権予選]]
+*[[2009年バスケットボール女子欧州選手権]]
+
+== 外部リンク ==
+*[http://www.fibaeurope.com/cid_KNce8jInH7Qj1EsyH5rjn2.pageID_tQxVhH13JwA-jrH88TIoE3.compID_qMRZdYCZI6EoANOrUf9le2.html FIBAヨーロッパ]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん2009}}
+[[Category:バスケットボール欧州選手権|2009たんし]]
+[[Category:2009年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:ポーランドのバスケットボール|たんしおうしゆうせんしゆけん2009]]
+[[Category:ポーランド開催の国際スポーツ競技大会]]
+[[Category:2009年のポーランド]]
+[[Category:2009年9月]]</text>
+      <sha1>ez3k4wbft6l2t59lze9op7npa0unhzy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1975年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1566742</id>
+    <revision>
+      <id>65338307</id>
+      <parentid>59805417</parentid>
+      <timestamp>2017-09-01T22:26:58Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1681" xml:space="preserve">'''1975年バスケットボール男子欧州選手権'''（'''1975 European Basketball Championship'''）は、[[ユーゴスラビア]]（現[[セルビア]]）・[[ベオグラード]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1975'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{YUG1945mb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{URSmb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{ITAmb}}
+|-
+|style="text-align: center;"|4||{{ESP1940mb}}
+|-
+|style="text-align: center;"|5||{{BUL1971mb}}
+|-
+|style="text-align: center;"|6||{{TCHmb}}
+|-
+|style="text-align: center;"|7||{{ISRmb}}
+|-
+|style="text-align: center;"|8||{{POLmb}}
+|-
+|style="text-align: center;"|9||{{TURmb}}
+|-
+|style="text-align: center;"|10||{{NEDmb}}
+|-
+|style="text-align: center;"|11||{{ROM1965mb}}
+|-
+|style="text-align: center;"|12||{{GREmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1975}}
+[[Category:バスケットボール欧州選手権|1975たんし]]
+[[Category:1975年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:セルビアのバスケットボール|たんしおうしゆうせんしゆけん1975]]
+[[Category:ユーゴスラビア開催の国際スポーツ競技大会]]
+[[Category:1975年のユーゴスラビア]]
+[[Category:ベオグラードのスポーツ競技大会]]
+[[Category:1975年6月]]</text>
+      <sha1>azr14dze480m4stptgj2mssz1mo2kf6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1971年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1568062</id>
+    <revision>
+      <id>67313593</id>
+      <parentid>65338304</parentid>
+      <timestamp>2018-02-10T14:59:43Z</timestamp>
+      <contributor>
+        <ip>126.170.20.255</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1627" xml:space="preserve">'''1971年バスケットボール男子欧州選手権'''（'''1971 European Basketball Championship'''）は、[[西ドイツ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1971'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{URSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{YUG1945mb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{ITAmb}}
+|-
+|style="text-align: center;"|4||{{POLmb}}
+|-
+|style="text-align: center;"|5||{{TCHmb}}
+|-
+|style="text-align: center;"|6||{{BUL1967mb}}
+|-
+|style="text-align: center;"|7||{{ESP1940mb}}
+|-
+|style="text-align: center;"|8||{{ROM1965mb}}
+|-
+|style="text-align: center;"|9||{{FRGmb}}
+|-
+|style="text-align: center;"|10||{{FRAmb}}
+|-
+|style="text-align: center;"|11||{{ISRmb}}
+|-
+|style="text-align: center;"|12||{{TURmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1971たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1971}}
+[[Category:バスケットボール欧州選手権|1971たんし]]
+[[Category:ドイツ開催の国際スポーツ競技大会]]
+[[Category:西ドイツのスポーツ]]
+[[Category:1971年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:ドイツのバスケットボール|たんしおうしゆうせんしゆけん1971]]
+[[Category:1971年の西ドイツ]]
+[[Category:1971年9月]]</text>
+      <sha1>8xedzpj1pztu4xx8yqkrwfu8opu39x5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1955年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1568731</id>
+    <revision>
+      <id>65338287</id>
+      <parentid>60783778</parentid>
+      <timestamp>2017-09-01T22:24:33Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1896" xml:space="preserve">'''1955年バスケットボール欧州選手権'''（'''1955 European Basketball Championship'''）は、[[ハンガリー]]・[[ブダペスト]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1955'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{HUN1949mb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{TCHmb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{URSmb}}
+|-
+|style="text-align: center;"|4||{{BUL1946mb}}
+|-
+|style="text-align: center;"|5||{{POLmb}}
+|-
+|style="text-align: center;"|6||{{ITAmb}}
+|-
+|style="text-align: center;"|7||{{ROM1952mb}}
+|-
+|style="text-align: center;"|8||{{YUG1945mb}}
+|-
+|style="text-align: center;"|9||{{FRAmb}}
+|-
+|style="text-align: center;"|10||{{FINmb}}
+|-
+|style="text-align: center;"|11||{{TURmb}}
+|-
+|style="text-align: center;"|12||{{ENGmb}}
+|-
+|style="text-align: center;"|13||{{AUTmb}}
+|-
+|style="text-align: center;"|14||{{SUImb}}
+|-
+|style="text-align: center;"|15||{{LUXmb}}
+|-
+|style="text-align: center;"|16||{{SWEmb}}
+|-
+|style="text-align: center;"|17||{{FRGmb}}
+|-
+|style="text-align: center;"|18||{{DENmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1955}}
+[[Category:バスケットボール欧州選手権|1955]]
+[[Category:1955年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:ハンガリーのバスケットボール|たんしおうしゆうせんしゆけん1955]]
+[[Category:ハンガリー開催の国際スポーツ競技大会]]
+[[Category:ブダペストのスポーツ競技大会]]
+[[Category:1955年のハンガリー]]
+[[Category:1955年6月]]</text>
+      <sha1>bhxxc604c2d8g52hcp9eyxbsis1g7zp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1969年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1569480</id>
+    <revision>
+      <id>65338300</id>
+      <parentid>59681373</parentid>
+      <timestamp>2017-09-01T22:26:20Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1622" xml:space="preserve">'''1969年バスケットボール男子欧州選手権'''（'''1969 European Basketball Championship'''）は、[[イタリア]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1969'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{URSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{YUG1945mb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{TCHmb}}
+|-
+|style="text-align: center;"|4||{{POLmb}}
+|-
+|style="text-align: center;"|5||{{ESP1940mb}}
+|-
+|style="text-align: center;"|6||{{ITAmb}}
+|-
+|style="text-align: center;"|7||{{BUL1967mb}}
+|-
+|style="text-align: center;"|8||{{HUNmb}}
+|-
+|style="text-align: center;"|9||{{ROM1965mb}}
+|-
+|style="text-align: center;"|10||{{GRE1928mb}}
+|-
+|style="text-align: center;"|11||{{ISRmb}}
+|-
+|style="text-align: center;"|12||{{SWEmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1969たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1969}}
+[[Category:バスケットボール欧州選手権|1969たんし]]
+[[Category:イタリア開催の国際スポーツ競技大会]]
+[[Category:1969年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:イタリアのバスケットボール|たんしおうしゆうせんしゆけん1969]]
+[[Category:1969年のイタリア]]
+[[Category:1969年9月]]
+[[Category:1969年10月]]</text>
+      <sha1>pjur48njm830fksfffhgleukr9ap4ut</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1967年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1571078</id>
+    <revision>
+      <id>65338298</id>
+      <parentid>59783304</parentid>
+      <timestamp>2017-09-01T22:26:06Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1830" xml:space="preserve">'''1967年バスケットボール男子欧州選手権'''（'''1967 European Basketball Championship'''）は、[[フィンランド]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1967'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{URSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{TCHmb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{POLmb}}
+|-
+|style="text-align: center;"|4||{{BUL1946mb}}
+|-
+|style="text-align: center;"|5||{{ROM1965mb}}
+|-
+|style="text-align: center;"|6||{{FINmb}}
+|-
+|style="text-align: center;"|7||{{ITAmb}}
+|-
+|style="text-align: center;"|8||{{ISRmb}}
+|-
+|style="text-align: center;"|9||{{YUG1945mb}}
+|-
+|style="text-align: center;"|10||{{ESP1940mb}}
+|-
+|style="text-align: center;"|11||{{FRAmb}}
+|-
+|style="text-align: center;"|12||{{GRE1928mb}}
+|-
+|style="text-align: center;"|13||{{HUNmb}}
+|-
+|style="text-align: center;"|14||{{GDRmb}}
+|-
+|style="text-align: center;"|15||{{BELmb}}
+|-
+|style="text-align: center;"|16||{{NEDmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1967たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1967}}
+[[Category:バスケットボール欧州選手権|1967たんし]]
+[[Category:フィンランド開催の国際スポーツ競技大会]]
+[[Category:1967年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:フィンランドのバスケットボール|たんしおうしゆうせんしゆけん1967]]
+[[Category:1967年のフィンランド]]
+[[Category:1967年9月]]
+[[Category:1967年10月]]</text>
+      <sha1>erlmb8cbvkvy6ucbkjwv9iq4k87mazr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1965年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1572133</id>
+    <revision>
+      <id>65338295</id>
+      <parentid>61198714</parentid>
+      <timestamp>2017-09-01T22:25:52Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2008" xml:space="preserve">'''1965年バスケットボール男子欧州選手権'''（'''1965 European Basketball Championship'''）は、[[ソビエト連邦]]の[[モスクワ]]と[[トビリシ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1965'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{URSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{YUG1945mb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{POLmb}}
+|-
+|style="text-align: center;"|4||{{ITAmb}}
+|-
+|style="text-align: center;"|5||{{BUL1946mb}}
+|-
+|style="text-align: center;"|6||{{ISRmb}}
+|-
+|style="text-align: center;"|7||{{TCHmb}}
+|-
+|style="text-align: center;"|8||{{GRE1928mb}}
+|-
+|style="text-align: center;"|9||{{FRAmb}}
+|-
+|style="text-align: center;"|10||{{GDRmb}}
+|-
+|style="text-align: center;"|11||{{ESP1940mb}}
+|-
+|style="text-align: center;"|12||{{FINmb}}
+|-
+|style="text-align: center;"|13||{{ROM1952mb}}
+|-
+|style="text-align: center;"|14||{{FRGmb}}
+|-
+|style="text-align: center;"|15||{{HUNmb}}
+|-
+|style="text-align: center;"|16||{{SWEmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1965}}
+[[Category:バスケットボール欧州選手権|1965たんし]]
+[[Category:ソビエト連邦開催の国際スポーツ競技大会]]
+[[Category:1965年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:ロシアのバスケットボール|たんしおうしゆうせんしゆけん1965]]
+[[Category:ジョージアのバスケットボール|たんしおうしゆうせんしゆけん1965]]
+[[Category:モスクワのスポーツ競技大会]]
+[[Category:トビリシのスポーツ]]
+[[Category:1965年のソビエト連邦]]
+[[Category:1965年5月]]
+[[Category:1965年6月]]</text>
+      <sha1>oyv3i8d5wipip967v88vryed0i6krai</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1963年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1572179</id>
+    <revision>
+      <id>68381128</id>
+      <parentid>65338294</parentid>
+      <timestamp>2018-04-30T09:58:18Z</timestamp>
+      <contributor>
+        <username>ゲルニカ</username>
+        <id>1329396</id>
+      </contributor>
+      <comment>/* 最終結果 */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1871" xml:space="preserve">'''1963年バスケットボール男子欧州選手権'''（'''1963 European Basketball Championship'''）は、[[ポーランド]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1963'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{URSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{POLmb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{YUG1945mb}}
+|-
+|style="text-align: center;"|4||{{HUNmb}}
+|-
+|style="text-align: center;"|5||{{BUL1946mb}}
+|-
+|style="text-align: center;"|6||{{GDRmb}}
+|-
+|style="text-align: center;"|7||{{ESP1940mb}}
+|-
+|style="text-align: center;"|8||{{BELmb}}
+|-
+|style="text-align: center;"|9||{{ISRmb}}
+|-
+|style="text-align: center;"|10||{{TCHmb}}
+|-
+|style="text-align: center;"|11||{{ROM1952mb}}
+|-
+|style="text-align: center;"|12||{{ITAmb}}
+|-
+|style="text-align: center;"|13||{{FRAmb}}
+|-
+|style="text-align: center;"|14||{{FINmb}}
+|-
+|style="text-align: center;"|15||{{TURmb}}
+|-
+|style="text-align: center;"|16||{{NEDmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1963たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1963}}
+[[Category:バスケットボール欧州選手権|1963たんし]]
+[[Category:1963年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:ポーランドのバスケットボール|たんしおうしゆうせんしゆけん1963]]
+[[Category:ポーランド開催の国際スポーツ競技大会]]
+[[Category:1963年のポーランド]]
+[[Category:ヴロツワフのスポーツ]]
+[[Category:ヴロツワフの歴史]]
+[[Category:1963年10月]]</text>
+      <sha1>5s2l904ilqbrnaccj9lfxjvw32y2085</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1961年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1572891</id>
+    <revision>
+      <id>65338291</id>
+      <parentid>60399972</parentid>
+      <timestamp>2017-09-01T22:25:19Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2079" xml:space="preserve">'''1961年バスケットボール男子欧州選手権'''（'''1961 European Basketball Championship'''）は、[[ユーゴスラビア]]（現・[[セルビア]]）[[ベオグラード]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1961'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{URSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{YUG1945mb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{BUL1946mb}}
+|-
+|style="text-align: center;"|4||{{FRAmb}}
+|-
+|style="text-align: center;"|5||{{TCHmb}}
+|-
+|style="text-align: center;"|6||{{HUNmb}}
+|-
+|style="text-align: center;"|7||{{ROM1952mb}}
+|-
+|style="text-align: center;"|8||{{BELmb}}
+|-
+|style="text-align: center;"|9||{{POLmb}}
+|-
+|style="text-align: center;"|10||{{TURmb}}
+|-
+|style="text-align: center;"|11||{{ISRmb}}
+|-
+|style="text-align: center;"|12||{{GDRmb}}
+|-
+|style="text-align: center;"|13||{{ESP1940mb}}
+|-
+|style="text-align: center;"|14||{{FINmb}}
+|-
+|style="text-align: center;"|15||{{NEDmb}}
+|-
+|style="text-align: center;"|16||{{FRGmb}}
+|-
+|style="text-align: center;"|17||{{GRE1928mb}}
+|-
+|style="text-align: center;"|18||{{SWEmb}}
+|-
+|style="text-align: center;"|19||{{ENGmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1961たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1961}}
+[[Category:バスケットボール欧州選手権|1961たんし]]
+[[Category:1961年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:セルビアのバスケットボール|たんしおうしゆうせんしゆけん1961]]
+[[Category:ユーゴスラビア開催の国際スポーツ競技大会]]
+[[Category:1961年のユーゴスラビア]]
+[[Category:ベオグラードのスポーツ競技大会]]
+[[Category:1961年4月]]
+[[Category:1961年5月]]</text>
+      <sha1>kyos9s90igq16axlhn1njuc20am8ijb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1959年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1573896</id>
+    <revision>
+      <id>68237163</id>
+      <parentid>65338290</parentid>
+      <timestamp>2018-04-17T15:51:27Z</timestamp>
+      <contributor>
+        <username>エヴォラ</username>
+        <id>1326824</id>
+      </contributor>
+      <comment>/* 最終結果 */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1968" xml:space="preserve">{{出典の明記|date=2015年4月16日 (木) 05:59 (UTC)}}
+'''1959年バスケットボール男子欧州選手権'''（'''1959 European Basketball Championship'''）は、[[トルコ]]の[[イスタンブール]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1959'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{URSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{TCHmb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{FRAmb}}
+|-
+|style="text-align: center;"|4||{{HUNmb}}
+|-
+|style="text-align: center;"|5||{{BUL1946mb}}
+|-
+|style="text-align: center;"|6||{{POLmb}}
+|-
+|style="text-align: center;"|7||{{BELmb}}
+|-
+|style="text-align: center;"|8||{{ROM1952mb}}
+|-
+|style="text-align: center;"|9||{{YUG1945mb}}
+|-
+|style="text-align: center;"|10||{{ITAmb}}
+|-
+|style="text-align: center;"|11||{{ISRmb}}
+|-
+|style="text-align: center;"|12||{{TURmb}}
+|-
+|style="text-align: center;"|13||{{FINmb}}
+|-
+|style="text-align: center;"|14||{{GDR1949mb}}
+|-
+|style="text-align: center;"|15||{{ESP1940mb}}
+|-
+|style="text-align: center;"|16||{{AUTmb}}
+|-
+|style="text-align: center;"|17||{{IRI1933mb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1959たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1959}}
+[[Category:バスケットボール欧州選手権|1959たんし]]
+[[Category:1959年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:トルコ開催の国際スポーツ競技大会]]
+[[Category:トルコのバスケットボール|たんしおうしゆうせんしゆけん1959]]
+[[Category:1959年のトルコ]]
+[[Category:イスタンブールのスポーツ競技大会]]
+[[Category:1959年5月]]</text>
+      <sha1>s9n8qfxk5ke5et0pnx4n8y6wzptwxrn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1957年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1573907</id>
+    <revision>
+      <id>65338289</id>
+      <parentid>60636771</parentid>
+      <timestamp>2017-09-01T22:24:46Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1784" xml:space="preserve">'''1957年バスケットボール男子欧州選手権'''（'''1957 European Basketball Championship'''）は、[[ブルガリア]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1957'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{URSmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{BUL1946mb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{TCHmb}}
+|-
+|style="text-align: center;"|4||{{HUNmb}}
+|-
+|style="text-align: center;"|5||{{ROM1952mb}}
+|-
+|style="text-align: center;"|6||{{YUG1945mb}}
+|-
+|style="text-align: center;"|7||{{POLmb}}
+|-
+|style="text-align: center;"|8||{{FRAmb}}
+|-
+|style="text-align: center;"|9||{{TURmb}}
+|-
+|style="text-align: center;"|10||{{ITAmb}}
+|-
+|style="text-align: center;"|11||{{FINmb}}
+|-
+|style="text-align: center;"|12||{{BELmb}}
+|-
+|style="text-align: center;"|13||{{FRGmb}}
+|-
+|style="text-align: center;"|14||{{AUTmb}}
+|-
+|style="text-align: center;"|15||{{SCOmb}}
+|-
+|style="text-align: center;"|16||{{ALBmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub|1957たんしおうしゆうせんしゆけん}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1957}}
+[[Category:バスケットボール欧州選手権|1957たんし]]
+[[Category:ブルガリア開催の国際スポーツ競技大会]]
+[[Category:ブルガリアのバスケットボール|1957たんしおうしゆうせんしゆけん]]
+[[Category:1957年のバスケットボール|おうしたんしゆうせんしゆけん]]
+[[Category:1957年のブルガリア]]
+[[Category:1957年6月]]</text>
+      <sha1>mt8ivnmskzsj35lxwguwza11dayg461</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2011年バスケットボール男子欧州選手権予選</title>
+    <ns>0</ns>
+    <id>2179411</id>
+    <revision>
+      <id>55747015</id>
+      <parentid>51321038</parentid>
+      <timestamp>2015-06-04T03:52:02Z</timestamp>
+      <contributor>
+        <ip>42.147.49.150</ip>
+      </contributor>
+      <comment>/* 外部リンク */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4394" xml:space="preserve">'''2011年バスケットボール男子欧州選手権予選'''（'''EuroBasket 2011 qualification'''）は、[[2010年]][[8月2日]]から[[2011年]][[8月24日]]にかけてヨーロッパ各地で開催されている[[バスケットボール欧州選手権]]男子大会の予選。15カ国が参加し、14カ国が本選である[[2011年バスケットボール男子欧州選手権]]への出場権を獲得する。
+
+== 1次予選 ==
+2010年8月2日から29日までの日程で行われた。
+
+15ヶ国を3グループに分けホーム・アンド・アウェー方式で戦った。
+=== グループA ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失 
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{MNEmb}}
+|'''14'''||6||2||645||561||+84
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{ISRmb}}
+|'''13'''||5||3||671||603||+68
+|- bgcolor=#eeffcc
+|style="text-align:left"| {{ITAmb}}
+|'''13'''||5||3||630||615||+15
+|- bgcolor=#eeffcc
+|style="text-align:left"| {{LATmb}}
+|'''11'''||3||5||636||722||−86
+|- bgcolor=#ffe4b5
+|style="text-align:left"| {{FINmb}}
+|'''9'''||1||7||599||680||−81
+|}
+=== グループB ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{GBRmb}}
+|'''14'''||6||2||651||633||+18
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{MKDmb}}
+|'''13'''||5||3||614||541||+73
+|- bgcolor=#eeffcc
+|style="text-align:left"| {{UKRmb}}
+|'''11'''||3||5||582||607||−25
+|- bgcolor=#eeffcc
+|style="text-align:left"| {{BIHmb}}
+|'''11'''||3||5||602||620||−18
+|- bgcolor=#ffe4b5
+|style="text-align:left"| {{HUNmb}}
+|'''11'''||3||5||567||615||−48
+|}
+
+=== グループC ===
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|負
+!width=20|得
+!width=20|失
+!width=40|得失
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{BELmb}}
+|'''14'''||6||2||604||580||+24
+|- bgcolor=#eeffcc
+|style="text-align:left"| {{GEOmb}}
+|'''13'''||5||3||599||568||+31
+|- bgcolor=#eeffcc
+|style="text-align:left"| {{BULmb}}
+|'''12'''||4||4||638||600||+38
+|- bgcolor=#eeffcc
+|style="text-align:left"| {{POLmb}}
+|'''12'''||4||4||607||579||+28
+|- bgcolor=#ffe4b5
+|style="text-align:left"| {{PORmb}}
+|'''9'''||1||7||518||639||−121
+|}
+
+=== 結果 ===
+1次予選の結果、各グループ1位となった以下の3ヶ国が本選出場。
+*{{MNEmb}}
+*{{GBRmb}}
+*{{BELmb}}
+続いて、各グループ2位で勝敗を比較。
+{| class=wikitable style="text-align:center"
+!width=200|チーム
+!width=40|勝点
+!width=20|勝
+!width=20|敗
+!width=20|得
+!width=20|失
+!width=40|得失
+!width=40|点率
+!width=40|グループ
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{MKDmb}}
+|13||5||3||614||541||+73||1.13||B
+|- bgcolor=#ccffcc
+|style="text-align:left"| {{ISRmb}}
+|13||5||3||671||603||+68||1.11||A
+|- bgcolor=#ffe4b5
+|style="text-align:left"| {{GEOmb}}
+|13||5||3||599||568||+31||1.05||C
+|}
+
+この結果、以下の2ヶ国が本選出場。
+*{{MKDmb}}
+*{{ISRmb}}
+
+当初、残る10ヶ国は最終予選に回る予定であったが、2010年11月に本選出場枠拡大が決定したため、各グループ最下位を除き全チームが本選出場となった。最終予選には3ヶ国が回る。
+
+これにより、以下の7ヶ国が本選出場。
+*{{ITAmb}}
+*{{LATmb}}
+*{{UKRmb}}
+*{{BIHmb}}
+*{{GEOmb}}
+*{{BULmb}}
+*{{POLmb}}
+
+== 最終予選 ==
+3ヶ国が2011年8月9日から21日まで総当たり戦で2枠を争う。
+
+== 外部リンク ==
+*[http://www.fibaeurope.com/cid_KNce8jInH7Qj1EsyH5rjn2.pageID_xatsunSDJasBBqY-bBV4H0.compID_qMRZdYCZI6EoANOrUf9le2.roundID_7524.html FIBAヨーロッパ]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん2011よせん}}
+[[Category:バスケットボール欧州選手権|予選2011]]
+[[Category:2010年のバスケットボール|たんしおうしゆうせんしゆけんよせん]]
+[[Category:2011年のバスケットボール|たんしおうしゆうせんしゆけんよせん]]
+[[Category:2010年のヨーロッパ]]
+[[Category:2011年のヨーロッパ]]
+[[Category:2010年8月]]
+[[Category:2011年8月]]</text>
+      <sha1>nmwv7xjdx74np1ab5h45xqtqx6vvb58</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2011年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>2180439</id>
+    <revision>
+      <id>65338424</id>
+      <parentid>55133535</parentid>
+      <timestamp>2017-09-01T22:48:51Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5382" xml:space="preserve">'''2011年FIBAヨーロッパ男子バスケットボール選手権'''（'''2011 European Basketball Championship'''）は、2011年9月3日から9月18日まで[[リトアニア]]で開催された第37回[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット2011'''」。[[ロンドンオリンピック (2012年)|ロンドンオリンピック]]欧州予選も兼ね、上位2チームはオリンピック出場が認められる。
+2011ユーロバスケットには、史上最多の24カ国が参加し、90試合が行われた。決勝は[[バスケットボールスペイン代表|スペイン]]が[[バスケットボールフランス代表|フランス]]を98－85で下し、2連覇を果たした。
+
+== 予選 ==
+{{see|2011年バスケットボール男子欧州選手権予選}}
+
+== 出場国 ==
+当初は16チームが参加予定であったが、2010年11月に24チームへの拡大が決定。以下の8チームが予選免除で出場権を得ている。
+
+'''開催国'''
+* {{LTUmb}}
+'''[[2010年バスケットボール世界選手権|2010年世界選手権]]出場国'''
+* {{CROmb}}
+* {{FRAmb}}
+* {{GERmb}}
+* {{GREmb}}
+* {{RUSmb}}
+* {{SLOmb}}
+* {{ESPmb}}
+* {{SRBmb}}
+* {{TURmb}}
+残る14チームを予選により決定。既に以下のチームが1次予選を通過し本大会出場権を獲得している。
+* {{BELmb}}
+* {{GBRmb}}
+* {{ISRmb}}
+* {{MKDmb}}
+* {{MNEmb}}
+* {{ITAmb}}
+* {{LATmb}}
+* {{UKRmb}}
+* {{BIHmb}}
+* {{GEOmb}}
+* {{BULmb}}
+* {{POLmb}}
+
+残る2枠は最終予選で決める。
+
+== 最終順位 ==
+NBAがロックアウトとなったこともあり、[[ダーク・ノヴィツキー|ノヴィツキー]]([[バスケットボールドイツ代表|独]])を始め、[[アンドレイ・キリレンコ|キリレンコ]]([[バスケットボールロシア代表|露]])、[[トニー・パーカー]]、[[ニコラス・バトゥム|バトゥム]](供に[[バスケットボールフランス代表|仏]])、[[パウ・ガソル]]、[[マルク・ガソル]](供に[[バスケットボールスペイン代表|西]])、[[アンドレア・バルニャーニ|バルニャーニ]]([[バスケットボールイタリア代表|伊]])ら、NBAで活躍するスター選手が順当に出場することができた。
+
+決勝では、スペインが、[[フアン・カルロス・ナバーロ|ナバーロ]]を中心に、イン・アウトから圧倒的な得点力で終始試合をリードし、[[ルディ・フェルナンデス (バスケットボール)|ルディ・フェルナンデス]]を途中ファールにて欠いたが、そのまま危なげなく逃げ切った。ナバーロは大会MVPに輝いた。マケドニアは、マッカレブの活躍もさることながら、バランスの良い戦力で、ベスト4に入る善戦を見せた。
+
+{| class="infobox bordered"
+|-
+|  style="width:10px; background:#cfc;"| || ロンドンオリンピック出場権獲得
+|-
+|  style="width:10px; background:skyblue;"| || ロンドンオリンピックホスト国
+|-
+|  style="width:10px; background:#ffc;"| || ロンドンオリンピック予選トーナメント出場権獲得
+|}
+{| class="wikitable" style="text-align: center"
+|-
+! width=50|順位
+! width=175|チーム
+! width=50|勝敗
+|- style="background-color: #cfc;"
+| {{Gold1}}
+| align=left|{{ESPmb}}
+|10-1
+|- style="background-color: #cfc;"
+| {{Silver2}}
+| align=left|{{FRAmb}}
+|9–2
+|- style="background-color: #ffc;"
+| {{Bronze3}}
+| align=left|{{RUSmb}}
+|10–1
+|- style="background-color: #ffc;"
+| 4
+| align=left|{{MKDmb}}
+|7–4
+|- style="background-color: #ffc;"
+| 5
+| align=left|{{LTUmb}}
+|8–3
+|- style="background-color: #ffc;"
+| 6
+| align=left|{{GREmb}}
+|7–4
+|-
+| 7
+|align=left|{{SLOmb}}
+|6–5
+|-
+| 8
+|align=left|{{SRBmb}}
+|5–6
+|-
+|rowspan=2| 9
+|align=left|{{GERmb}}
+|4–4
+|-
+|align=left|{{FINmb}}
+|3–5
+|-
+|rowspan=2| 11
+|align=left|{{TURmb}}
+|3–5
+|-
+|align=left|{{GEOmb}}
+|2–6
+|- 
+|rowspan=4| 13
+|align=left style="background:skyblue;"|{{GBRmb}}
+|2–3
+|-
+|align=left|{{CROmb}}
+|2–3
+|-
+|align=left|{{BULmb}}
+|2–3
+|-
+|align=left|{{ISRmb}}
+|2–3
+|-
+|rowspan=4| 17
+|align=left|{{UKRmb}}
+|2–3
+|-
+|align=left|{{POLmb}}
+|2–3
+|-
+|align=left nowrap|{{BIHmb}}
+|2–3
+|-
+|align=left|{{ITAmb}}
+|1–4
+|-
+|rowspan=4| 21
+|align=left|{{MNEmb}}
+|1–4
+|-
+|align=left|{{LATmb}}
+|0–5
+|-
+|align=left|{{BELmb}}
+|0–5
+|-
+|align=left|{{PORmb}}
+|0–5
+|}
+
+== 関連項目 ==
+*[[2011年バスケットボール男子欧州選手権予選]]
+*[[2011年バスケットボール女子欧州選手権]]
+
+== 外部リンク ==
+* [http://www.eurobasket2009.org/en/cid_toT,ovGDH2EaLKL67XnPo2.teamID_2135.compID_qMRZdYCZI6EoANOrUf9le2.season_2009.roundID_6328.coid_mQl7MqdsJBM,43W7T1q2S0.articleMode_on.html FIBAヨーロッパ] {{en icon}}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん2011}}
+[[Category:バスケットボール欧州選手権|2011たんし]]
+[[Category:2011年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:リトアニアのバスケットボール|たんしおうしゆうせんしゆけん2011]]
+[[Category:リトアニア開催の国際スポーツ競技大会]]
+[[Category:2011年のリトアニア]]
+[[Category:2011年9月]]</text>
+      <sha1>hp6sj5j6tqew68u1028u6xcwvuizpig</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2011年バスケットボール女子欧州選手権</title>
+    <ns>0</ns>
+    <id>2180465</id>
+    <revision>
+      <id>84963629</id>
+      <parentid>55134007</parentid>
+      <timestamp>2021-08-09T22:56:24Z</timestamp>
+      <contributor>
+        <ip>219.102.223.134</ip>
+      </contributor>
+      <comment>/* 関連項目 */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3473" xml:space="preserve">{{出典の明記|date=2015年4月16日 (木) 05:58 (UTC)}}
+'''2011年FIBAヨーロッパ女子バスケットボール選手権'''（'''2011 European Basketball Championship for Women'''）は、[[2011年]]に[[ポーランド]]で開催された[[バスケットボール欧州選手権]]女子大会。[[ロンドンオリンピック (2012年)|ロンドンオリンピック]]予選も兼ねる。
+
+優勝したロシアが五輪出場権を獲得。2位－5位のトルコ、チェコ、フランス、クロアチアは[[ロンドンオリンピック (2012年) バスケットボール世界最終予選|世界最終予選]]出場権を獲得。
+
+== 出場国 ==
+16チームが参加。以下の7チームが予選免除で出場権を得ている。
+
+'''開催国'''
+* {{POLwb}}
+'''[[2010年女子バスケットボール世界選手権|2010年世界選手権]]出場国'''
+* {{FRAwb}}
+* {{RUSwb}}
+* {{ESPwb}}
+* {{BLRwb}}
+* {{GREwb}}
+* {{CZEwb}}
+残る9チームを予選により決定。
+{{main|2011年バスケットボール女子欧州選手権予選}}
+* {{GBRwb}}
+* {{LTUwb}}
+* {{MNEwb}}
+* {{TURwb}}
+* {{CROwb}}
+* {{ISRwb}}
+* {{SVKwb}}
+* {{LATwb}}
+
+== 最終結果 ==
+{| style="border-style:solid;border-width:1px;border-color:#808080;background-color:#FFFFFF" cellspacing="2" cellpadding="2"; width="100%""
+|- 
+! Place
+! Team
+|-  align="center" valign="top" bgcolor="#F7F9A8"
+! 1
+| align="left" | {{Bkw|RUS}} 
+|- align="center" valign="top" bgcolor="#DCE5E5"
+! 2
+| align="left" | {{Bkw|TUR}} 
+|- align="center" valign="top" bgcolor="#FFDAB9"
+! 3
+| align="left" | {{Bkw|FRA}}
+|- align="center" valign="top" bgcolor="#DEDAC7"
+! 4
+| align="left" | {{Bkw|CZE}}
+|- align="center" valign="top" bgcolor="#DEDAC7"
+! 5
+| align="left" | {{Bkw|CRO}}
+|-  align="center" valign="top" bgcolor="#DEDAB0"
+! 6
+| align="left" | {{Bkw|MNE}}
+|-  align="center" valign="top" bgcolor="#DEDAB0"
+! 7
+| align="left" | {{Bkw|LTU}}
+|-  align="center" valign="top" bgcolor="#DEDAB0"
+! 8
+| align="left" | {{Bkw|LAT}}
+|- align="center" valign="top" bgcolor="#DEDAB0" 
+! rowspan=4| 9–12
+| align="left" | {{Bkw|BLR}}
+|- align="center" valign="top" bgcolor="#DEDAB0"
+| align="left" | {{Bkw|ESP}}
+|- align="center" valign="top" bgcolor="#DEDAB0"
+| align="left" | {{Bkw|GBR}}
+|- align="center" valign="top" bgcolor="#DEDAB0"
+| align="left" | {{Bkw|POL}}
+|- align="center" valign="top" bgcolor="#DEBAB0"
+! rowspan=4| 13–16
+| align="left" | {{Bkw|GRE}}
+|- align="center" valign="top" bgcolor="#DEBAB0" 
+| align="left" | {{SVKwb}}
+|- align="center" valign="top" bgcolor="#DEBAB0" 
+| align="left" | {{Bkw|GER}}
+|- align="center" valign="top" bgcolor="#DEBAB0" 
+| align="left" | {{Bkw|ISR}}
+|- align="center" valign="top" bgcolor="#DEBAB0" 
+|}
+
+== 関連項目 ==
+*[[2011年バスケットボール女子欧州選手権予選]]
+*[[2011年バスケットボール男子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+{{デフォルトソート:はすけつとほおるしよしおうしゆうせんしゆけん2011}}
+[[Category:バスケットボール欧州選手権|2011しよし]]
+[[Category:2011年のバスケットボール|しよしおうしゆうせんしゆけん]]
+[[Category:ポーランドのバスケットボール|しよしおうしゆうせんしゆけん2011]]
+[[Category:ポーランド開催の国際スポーツ競技大会]]
+[[Category:2011年のポーランド]]
+[[Category:2011年6月]]
+[[Category:2011年7月]]</text>
+      <sha1>aem1s1lq7al4dy4q8iiyx0s6owurl0w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2005年バスケットボール女子欧州選手権</title>
+    <ns>0</ns>
+    <id>2182138</id>
+    <revision>
+      <id>68246545</id>
+      <parentid>56580261</parentid>
+      <timestamp>2018-04-18T14:20:16Z</timestamp>
+      <contributor>
+        <username>エヴォラ</username>
+        <id>1326824</id>
+      </contributor>
+      <comment>/* 外部リンク */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2048" xml:space="preserve">'''2005年FIBAヨーロッパ女子バスケットボール選手権'''（'''2005 European Basketball Championship for Women'''）は、[[トルコ]]で開催された[[バスケットボール欧州選手権]]女子大会。
+
+全12か国が出場し、チェコが初優勝を果たした。チェコの他、ロシア、スペイン、リトアニア、フランスを合わせた5か国が[[2006年女子バスケットボール世界選手権|2006年世界選手権]]出場権を獲得した。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{CZEwb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{RUSwb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{ESPwb}}
+|-
+|style="text-align: center;"|4||{{LTUwb}}
+|-
+|style="text-align: center;"|5||{{FRAwb}}
+|-
+|style="text-align: center;"|6||{{LATwb}}
+|-
+|style="text-align: center;"|7||{{POLwb}}
+|-
+|style="text-align: center;"|8||{{TURwb}}
+|- 
+|style="text-align: center;"|9||{{SCGwb}}
+|- 
+|style="text-align: center;"|10||{{GREwb}}
+|- 
+|style="text-align: center;"|11||{{GERwb}}
+|- 
+|style="text-align: center;"|12||{{ROMwb}}
+|}
+
+== 関連項目 ==
+*[[2005年バスケットボール男子欧州選手権]]
+
+== 外部リンク ==
+*[http://www.fibaeurope.com/default.asp FIBAヨーロッパ]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるしよしおうしゆうせんしゆけん2005}}
+[[Category:バスケットボール欧州選手権|2005しよし]]
+[[Category:2005年のバスケットボール|しよしおうしゆうせんしゆけん]]
+[[Category:トルコのバスケットボール|しよしおうしゆうせんしゆけん2005]]
+[[Category:トルコ開催の国際スポーツ競技大会]]
+[[Category:2005年のトルコ]]
+[[Category:アンカラのスポーツ競技大会]]
+[[Category:ブルサ]]
+[[Category:イズミルのスポーツ]]
+[[Category:2005年9月]]</text>
+      <sha1>o2jz68pyjfx4wbs1gbl7lif4kbessl7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2003年バスケットボール女子欧州選手権</title>
+    <ns>0</ns>
+    <id>2182142</id>
+    <revision>
+      <id>70048911</id>
+      <parentid>56775743</parentid>
+      <timestamp>2018-09-25T02:27:19Z</timestamp>
+      <contributor>
+        <username>曾禰越後守</username>
+        <id>183605</id>
+      </contributor>
+      <comment>lk調整</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2133" xml:space="preserve">'''2003年FIBAヨーロッパ女子バスケットボール選手権'''（'''2003 European Basketball Championship for Women'''）は、[[ギリシャ]]で開催された[[バスケットボール欧州選手権]]女子大会。
+
+全12か国が出場し、ロシアが6大会ぶり22回目の優勝（ソ連時代含む。ロシアとしては初）を飾った。ロシアにチェコ、スペインを加えた3か国は[[2004年アテネオリンピックのバスケットボール競技|アテネオリンピック]]へのヨーロッパ代表としての出場権を獲得した。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{RUSwb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{CZEwb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{ESPwb}}
+|-
+|style="text-align: center;"|4||{{POLwb}}
+|-
+|style="text-align: center;"|5||{{FRAwb}}
+|-
+|style="text-align: center;"|6||{{BELwb}}
+|-
+|style="text-align: center;"|7||{{SVKwb}}
+|-
+|style="text-align: center;"|8||{{SCGwb}}
+|- 
+|style="text-align: center;"|9-||{{GREwb}}
+|- 
+|style="text-align: center;"|10||{{HUNwb}}
+|- 
+|style="text-align: center;"|11||{{UKRwb}}
+|- 
+|style="text-align: center;"|12||{{ISRwb}}
+|}
+== 関連項目 ==
+*[[2007年バスケットボール男子欧州選手権]]
+
+== 外部リンク ==
+*[http://www.fibaeurope.com/cid_KNce8jInH7Qj1EsyH5rjn2.pageID_0G0y7iYZIxojSQXiMwOIU1.compID_pnlxO1HYJhUh,MTfrmUO03.season_2003.roundID_3631.html FIBAヨーロッパ]
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるしよしおうしゆうせんしゆけん2003}}
+[[Category:バスケットボール欧州選手権|2003しよし]]
+[[Category:2003年のバスケットボール|しよしおうしゆうせんしゆけん]]
+[[Category:ギリシャのバスケットボール|しよしおうしゆうせんしゆけん2003]]
+[[Category:ギリシャ開催の国際スポーツ競技大会]]
+[[Category:2003年のギリシャ]]
+[[Category:2003年9月]]</text>
+      <sha1>1t4wzcxc1hkplz1h17zv6f5abb9z614</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:バスケットボール欧州選手権</title>
+    <ns>10</ns>
+    <id>885957</id>
+    <revision>
+      <id>91456751</id>
+      <parentid>65339315</parentid>
+      <timestamp>2022-09-14T09:15:48Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <comment>2021年以降の大会を追加</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7836" xml:space="preserve">{{Navbox
+| name    = バスケットボール欧州選手権
+| title   = [[バスケットボール欧州選手権]]（ユーロバスケット）
+| listclass = hlist hlist-pipe
+| liststyle = text-align:center;
+| groupstyle = background:#C1D8FF;
+| group1 = 男子
+| list1 =
+*[[1935年バスケットボール欧州選手権|1935 スイス]]
+*[[1937年バスケットボール欧州選手権|1937 ラトヴィア]]
+*[[1939年バスケットボール男子欧州選手権|1939 リトアニア]]
+*&lt;s&gt;[[1941年バスケットボール男子欧州選手権|1941 リトアニア]]&lt;/s&gt;（中止）
+*[[1946年バスケットボール男子欧州選手権|1946 スイス]]
+*[[1947年バスケットボール男子欧州選手権|1947 チェコスロヴァキア]]
+*[[1949年バスケットボール男子欧州選手権|1949 エジプト]]
+*[[1951年バスケットボール男子欧州選手権|1951 フランス]]
+*[[1953年バスケットボール男子欧州選手権|1953 ソ連]]
+*[[1955年バスケットボール男子欧州選手権|1955 ハンガリー]]
+*[[1957年バスケットボール男子欧州選手権|1957 ブルガリア]]
+*[[1959年バスケットボール男子欧州選手権|1959 トルコ]]
+*[[1961年バスケットボール男子欧州選手権|1961 ユーゴスラヴィア]]
+*[[1963年バスケットボール男子欧州選手権|1963 ポーランド]]
+*[[1965年バスケットボール男子欧州選手権|1965 ソ連]]
+*[[1967年バスケットボール男子欧州選手権|1967 フィンランド]]
+*[[1969年バスケットボール男子欧州選手権|1969 イタリア]]
+*[[1971年バスケットボール男子欧州選手権|1971 西ドイツ]]
+*[[1973年バスケットボール男子欧州選手権|1973 スペイン]]
+*[[1975年バスケットボール男子欧州選手権|1975 ユーゴスラヴィア]]
+*[[1977年バスケットボール男子欧州選手権|1977 ベルギー]]
+*[[1979年バスケットボール男子欧州選手権|1979 イタリア]]
+*[[1981年バスケットボール男子欧州選手権|1981 チェコスロヴァキア]]
+*[[1983年バスケットボール男子欧州選手権|1983 フランス]]
+*[[1985年バスケットボール男子欧州選手権|1985 西ドイツ]]
+*[[1987年バスケットボール男子欧州選手権|1987 ギリシャ]]
+*[[1989年バスケットボール男子欧州選手権|1989 ユーゴスラヴィア]]
+*[[1991年バスケットボール男子欧州選手権|1991 イタリア]]
+*[[1993年バスケットボール男子欧州選手権|1993 ドイツ]]
+*[[1995年バスケットボール男子欧州選手権|1995 ギリシャ]]
+*[[1997年バスケットボール男子欧州選手権|1997 スペイン]]
+*[[1999年バスケットボール男子欧州選手権|1999 フランス]]
+*[[2001年バスケットボール男子欧州選手権|2001 トルコ]]
+*[[2003年バスケットボール男子欧州選手権|2003 スウェーデン]]
+*[[2005年バスケットボール男子欧州選手権|2005 セルビア・モンテネグロ]] ([[2005年バスケットボール男子欧州選手権予選|予選]])
+*[[2007年バスケットボール男子欧州選手権|2007 スペイン]] ([[2007年バスケットボール男子欧州選手権予選|予選]])
+*[[2009年バスケットボール男子欧州選手権|2009 ポーランド]] ([[2009年バスケットボール男子欧州選手権予選|予選]])
+*[[2011年バスケットボール男子欧州選手権|2011 リトアニア]] ([[2011年バスケットボール男子欧州選手権予選|予選]])
+*[[2013年バスケットボール男子欧州選手権|2013 スロベニア]] ([[2013年バスケットボール男子欧州選手権予選|予選]])
+*[[2015年バスケットボール男子欧州選手権|2015 クロアチア/フランス/ドイツ/ラトヴィア]] ([[2015年バスケットボール男子欧州選手権予選|予選]])
+*[[2017年バスケットボール男子欧州選手権|2017 フィンランド/イスラエル/ルーマニア/トルコ]] ([[2017年バスケットボール男子欧州選手権予選|予選]])
+*[[2022年バスケットボール男子欧州選手権|2022 チェコ/ジョージア/ドイツ/イタリア]] ([[2022年バスケットボール男子欧州選手権予選|予選]])
+*[[2025年バスケットボール男子欧州選手権|2025 キプロス/フィンランド/ラトヴィア]] ([[2025年バスケットボール男子欧州選手権予選|予選]])
+| group2style = background:#EFC1C4;
+| group2 = 女子
+| list2 =
+*[[1938年バスケットボール女子欧州選手権|1938 イタリア]]
+*[[1950年バスケットボール女子欧州選手権|1950 ハンガリー]]
+*[[1952年バスケットボール女子欧州選手権|1952 ソ連]]
+*[[1954年バスケットボール女子欧州選手権|1954 ユーゴスラヴィア]]
+*[[1956年バスケットボール女子欧州選手権|1956 チェコスロヴァキア]]
+*[[1958年バスケットボール女子欧州選手権|1958 ポーランド]]
+*[[1960年バスケットボール女子欧州選手権|1960 ブルガリア]]
+*[[1962年バスケットボール女子欧州選手権|1962 フランス]]
+*[[1964年バスケットボール女子欧州選手権|1964 ハンガリー]]
+*[[1966年バスケットボール女子欧州選手権|1966 ルーマニア]]
+*[[1968年バスケットボール女子欧州選手権|1968 イタリア]]
+*[[1970年バスケットボール女子欧州選手権|1970 オランダ]]
+*[[1972年バスケットボール女子欧州選手権|1972 ブルガリア]]
+*[[1974年バスケットボール女子欧州選手権|1974 イタリア]]
+*[[1976年バスケットボール女子欧州選手権|1976 フランス]]
+*[[1978年バスケットボール女子欧州選手権|1978 ポーランド]]
+*[[1980年バスケットボール女子欧州選手権|1980 ユーゴスラヴィア]]
+*[[1981年バスケットボール女子欧州選手権|1981 イタリア]]
+*[[1983年バスケットボール女子欧州選手権|1983 ハンガリー]]
+*[[1985年バスケットボール女子欧州選手権|1985 イタリア]]
+*[[1987年バスケットボール女子欧州選手権|1987 スペイン]]
+*[[1989年バスケットボール女子欧州選手権|1989 ブルガリア]]
+*[[1991年バスケットボール女子欧州選手権|1991 イスラエル]]
+*[[1993年バスケットボール女子欧州選手権|1993 イタリア]]
+*[[1995年バスケットボール女子欧州選手権|1995 チェコ]]
+*[[1997年バスケットボール女子欧州選手権|1997 ハンガリー]]
+*[[1999年バスケットボール女子欧州選手権|1999 ポーランド]]
+*[[2001年バスケットボール女子欧州選手権|2001 フランス]]
+*[[2003年バスケットボール女子欧州選手権|2003 ギリシャ]]
+*[[2005年バスケットボール女子欧州選手権|2005 トルコ]]
+*[[2007年バスケットボール女子欧州選手権|2007 イタリア]]
+*[[2009年バスケットボール女子欧州選手権|2009 ラトヴィア]]
+*[[2011年バスケットボール女子欧州選手権|2011 ポーランド]]
+*[[2013年バスケットボール女子欧州選手権|2013 フランス]]
+*[[2015年バスケットボール女子欧州選手権|2015 ハンガリー/ルーマニア]] 
+*[[2017年バスケットボール女子欧州選手権|2017 チェコ]]
+*[[2019年バスケットボール女子欧州選手権|2019 セルビア/ラトヴィア]] 
+*[[2021年バスケットボール女子欧州選手権|2021 フランス/スペイン]] 
+*[[2023年バスケットボール女子欧州選手権|2023 スロヴェニア/イスラエル]] 
+ }}&lt;noinclude&gt;
+[[Category:ヨーロッパのバスケットボール関連テンプレート|おうしゆうせんしゆけん]]
+[[Category:バスケットボール欧州選手権|*てんふれと]]
+&lt;/noinclude&gt;</text>
+      <sha1>5kcordto6qmbyfvyak3fzf23dh8zf6u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:バスケットボール欧州選手権のチームテンプレート</title>
+    <ns>14</ns>
+    <id>2205301</id>
+    <revision>
+      <id>34327422</id>
+      <timestamp>2010-10-05T02:59:23Z</timestamp>
+      <contributor>
+        <username>味村</username>
+        <id>128437</id>
+      </contributor>
+      <comment>[[WP:AES|←]]新しいページ: ' [[Category:バスケットボールナショナルチームのテンプレート|おうしゆうせんしゆけん]] [[Category:ヨーロッパのバスケット...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="304" xml:space="preserve">
+[[Category:バスケットボールナショナルチームのテンプレート|おうしゆうせんしゆけん]]
+[[Category:ヨーロッパのバスケットボールチームテンプレート|おうしゆうせんしゆけん]]
+[[Category:バスケットボール欧州選手権|*てんふれと]]</text>
+      <sha1>0w0aektme8v2b1v4qlg3c7gtjbfzcz7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1949年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1563751</id>
+    <revision>
+      <id>66187593</id>
+      <parentid>65338280</parentid>
+      <timestamp>2017-11-05T10:59:21Z</timestamp>
+      <contributor>
+        <username>ハルビン人</username>
+        <id>1231524</id>
+      </contributor>
+      <comment>/* 最終結果 */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1630" xml:space="preserve">'''1949年バスケットボール欧州選手権'''（'''1949 European Basketball Championship'''）は、[[エジプト]]・[[カイロ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1949'''」。
+
+当時アフリカ連盟（現[[FIBAアフリカ]]）発足前で欧州連盟（現[[FIBAヨーロッパ]]）に在籍していたエジプトで開催され、最初で最後の欧州選手権である。7チームが参加し、開催国エジプトが優勝。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{EGY1922mb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{FRAmb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{GRE1928mb}}
+|-
+|style="text-align: center;"|4||{{TURmb}}
+|-
+|style="text-align: center;"|5||{{NEDmb}}
+|-
+|style="text-align: center;"|6||{{SYR1932mb}}
+|-
+|style="text-align: center;"|7||{{LIBmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1949}}
+[[Category:バスケットボール欧州選手権|1949]]
+[[Category:1949年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:エジプトのバスケットボール|たんしおうしゆうせんしゆけん1949]]
+[[Category:エジプト開催の国際スポーツ競技大会]]
+[[Category:1949年のエジプト]]
+[[Category:カイロのスポーツ競技大会]]
+[[Category:1949年5月]]</text>
+      <sha1>ngz9bqyu1pxgtijfm8fj14vk0tsb6te</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1935年バスケットボール欧州選手権</title>
+    <ns>0</ns>
+    <id>1556801</id>
+    <revision>
+      <id>87889884</id>
+      <parentid>69419014</parentid>
+      <timestamp>2022-02-05T16:45:38Z</timestamp>
+      <contributor>
+        <username>Malo95</username>
+        <id>954713</id>
+      </contributor>
+      <comment>Logo</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1810" xml:space="preserve">{{出典の明記|date=2017年4月26日 (水) 05:49 (UTC)}}
+[[ファイル:EuroBasket 1935 Logo.png|サムネイル|Logo]]
+'''1935年バスケットボール男子欧州選手権'''（'''1935 European Basketball Championship'''）は、[[スイス]]・[[ジュネーヴ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1935'''」。
+
+10カ国が本大会に出場。翌年の[[1936年ベルリンオリンピック]]での[[1936年ベルリンオリンピックのバスケットボール競技|バスケットボール]]採用に先行して行われた。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{LATmb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{ESP1931mb}}
+|- 
+|style="text-align: center; background-color: #c96;"|3||{{TCHmb}}
+|-
+|style="text-align: center;"|4||{{SUImb}}
+|-
+|style="text-align: center;"|5||{{FRAmb}}
+|-
+|style="text-align: center;"|6||{{BELmb}}
+|-
+|style="text-align: center;"|7||{{ITA1861mb}}
+|-
+|style="text-align: center;"|8||{{BULmb}}
+|- 
+|style="text-align: center;"|9||{{HUN1918mb}}
+|- 
+|style="text-align: center;"|10||{{ROMmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるおうしゆうせんしゆけん1935}}
+[[Category:バスケットボール欧州選手権|1935]]
+[[Category:スイス開催の国際スポーツ競技大会]]
+[[Category:1935年のスポーツ]]
+[[Category:スイスのバスケットボール|おうしゆうせんしゆけん1935]]
+[[Category:1935年のスイス]]
+[[Category:ジュネーヴのスポーツ]]
+[[Category:ジュネーヴの歴史]]
+[[Category:1935年5月]]</text>
+      <sha1>p2jrm6bzwwp88tvsjbvu05y3lhn3rpj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1973年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>1566751</id>
+    <revision>
+      <id>65338306</id>
+      <parentid>59738671</parentid>
+      <timestamp>2017-09-01T22:26:47Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1708" xml:space="preserve">{{出典の明記|date=2016年2月2日 (火) 05:04 (UTC)}}
+'''1973年バスケットボール男子欧州選手権'''（''1973 European Basketball Championship'' ）は、[[スペイン]]・[[バルセロナ]]で開催された[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1973'''」。
+
+== 最終結果 ==
+{|class="wikitable" style="text-align: left;"
+!順位!!国
+|-
+|style="text-align: center; background-color: gold;"|1||{{YUG1945mb}}
+|-
+|style="text-align: center; background-color: silver;"|2||{{ESP1940mb}}
+|-
+|style="text-align: center; background-color: #c96;"|3||{{URSmb}}
+|-
+|style="text-align: center;"|4||{{TCHmb}}
+|-
+|style="text-align: center;"|5||{{ITAmb}}
+|-
+|style="text-align: center;"|6||{{BUL1971mb}}
+|-
+|style="text-align: center;"|7||{{ISRmb}}
+|-
+|style="text-align: center;"|8||{{TURmb}}
+|-
+|style="text-align: center;"|9||{{ROM1965mb}}
+|-
+|style="text-align: center;"|10||{{FRAmb}}
+|-
+|style="text-align: center;"|11||{{GREmb}}
+|-
+|style="text-align: center;"|12||{{POLmb}}
+|}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1973}}
+[[Category:バスケットボール欧州選手権|1973たんし]]
+[[Category:1973年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:スペインのバスケットボール|たんしおうしゆうせんしゆけん1973]]
+[[Category:バルセロナのスポーツ競技大会]]
+[[Category:スペイン開催の国際スポーツ競技大会]]
+[[Category:1973年のスペイン]]
+[[Category:1973年9月]]
+[[Category:1973年10月]]</text>
+      <sha1>ian5i3o9tayfztykhsu06o1r2h2xc1r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2013年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>3239204</id>
+    <revision>
+      <id>70221822</id>
+      <parentid>65401747</parentid>
+      <timestamp>2018-10-09T13:39:35Z</timestamp>
+      <contributor>
+        <username>曾禰越後守</username>
+        <id>183605</id>
+      </contributor>
+      <comment>lk調整</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10367" xml:space="preserve">{{Infobox FIBA tourney
+| gender       = 
+| continent    = Europe
+| year         = 2013
+| host         = SLO
+| dates        = [[9月4日]] – [[9月22日|22日]]
+| teams        = 24
+| federations  = 51
+| venues       = 5
+| cities       = 4
+| champions    = FRA
+| title_number = 1
+| mvp          = {{Flagicon|FRA}} [[トニー・パーカー]]
+| ppg_p        = {{Flagicon|FRA}} [[トニー・パーカー|パーカー]] (19.0)
+| ppg_t        = {{Bk|ESP}} (78.3)
+| rpg_p        = {{Flagicon|BEL}} [[アクセル・エルベレ|エルベレ]] (7.9)
+| rpg_t        = {{Bk|CRO}} (40.6)
+| apg_p        = {{Flagicon|LTU}} [[マンタス・カルニエティス|カルニエティス]] (5.0)
+| apg_t        = {{Bk|ESP}} (17.1)
+| website      = [http://archive.fiba.com/pages/eng/fa/event/p/sid/8722/_/2013_EuroBasket/schedule.html FIBA EuroBasket 2013]
+| prevseason   = [[2011年バスケットボール男子欧州選手権|2011]]
+| nextseason   = [[2015年バスケットボール男子欧州選手権|2015]]
+}}
+'''2013年バスケットボール男子欧州選手権'''は、2011年9月4日から9月22日まで[[スロベニア]]で開催された[[FIBA]]第38回[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット2013'''」（EuroBasket 2013）。24カ国が参加し、決勝では[[バスケットボールフランス代表|フランス]]が[[バスケットボールリトアニア代表|リトアニア]]を80－66で下し、初制覇を果たした。
+
+== 出場国 ==
+[[ファイル:Eurobasket 2013 participants - en.svg|thumb|right|300px|出場国]]
+{| class="wikitable" style="font-size:80%;"
+|-
+! 大会名 !! 日時 !! 国数 !! 出場国
+|-
+| 開催国 || style="text-align:center;" | [[2010年]][[12月5日]] || style="text-align:center;"| 1 || {{bk|SVN}}
+|-
+| [[2012年ロンドンオリンピックのバスケットボール競技|ロンドンオリンピック]]参加国 || style="text-align:center;" | [[2012年]][[7月28日]] - [[8月12日]] || style="text-align:center;"| 5 || {{bk|FRA}} &lt;br&gt; {{bk|GBR}} &lt;br&gt; {{bk|LTU}} &lt;br&gt; {{bk|RUS}} &lt;br&gt; {{bk|ESP}}
+|-
+| [[2012年ロンドンオリンピックのバスケットボール競技・世界最終予選|ロンドンオリンピック最終予選]]参加国 || style="text-align:center;" | [[2012年]][[7月2日]] - [[7月8日|8日]] || style="text-align:center;"| 2 || {{bk|GRE}} &lt;br&gt; {{bk|MKD}}
+|-
+| [[2013年バスケットボール男子欧州選手権予選|ユーロバスケット2013予選]] || style="text-align:center;" | [[2012年]][[8月14日]] - [[9月11日]] || style="text-align:center;" | 16 || {{Bk|BEL}} &lt;br&gt; {{Bk|BIH}} &lt;br&gt; {{Bk|CRO}} &lt;br&gt; {{Bk|CZE}} &lt;br&gt; {{Bk|FIN}} &lt;br&gt; {{Bk|GEO}} &lt;br&gt; {{Bk|GER}} &lt;br&gt; {{bk|ISR}} &lt;br&gt; {{bk|ITA}} &lt;br&gt; {{bk|LAT}} &lt;br&gt; {{bk|MNE}} &lt;br&gt; {{bk|POL}} &lt;br&gt; {{bk|SRB}} &lt;br&gt; {{bk|SWE}} &lt;br&gt; {{bk|TUR}} &lt;br&gt; {{bk|UKR}}
+|}
+
+== 結果 ==
+=== 1次ラウンド ===
+{{節stub}}
+==== グループA ====
+==== グループB ====
+==== グループC ====
+==== グループD ====
+
+=== 2次ラウンド ===
+{{節stub}}
+==== グループE ====
+==== グループF ====
+
+===決勝トーナメント===
+&lt;onlyinclude&gt;{{Round8-with third
+&lt;!--QF--&gt;
+|9月18日 – Stožiceアリーナ|{{Bk|SRB}}|60|'''{{Bk|ESP}}'''|'''90'''
+|9月18日 – Stožiceアリーナ|{{Bk|SVN}}|62|'''{{Bk|FRA}}'''|'''72'''
+|9月19日 – Stožiceアリーナ|'''{{Bk|CRO}}'''|'''84'''|{{Bk|UKR}}|72
+|9月19日 – Stožiceアリーナ|'''{{Bk|LTU}}'''|'''81'''|{{Bk|ITA}}|77
+&lt;!--SF--&gt;
+|9月20日 – Stožiceアリーナ|{{Bk|ESP}}|72|'''{{Bk|FRA}}''' ([[オーバータイム|OT]])|'''75'''
+|9月20日 – Stožiceアリーナ|{{Bk|CRO}}|62|'''{{Bk|LTU}}'''|'''77'''
+&lt;!--F--&gt;
+|9月22日 – Stožiceアリーナ|'''{{Bk|FRA}}'''|'''80'''|{{Bk|LTU}}|66
+|9月22日 – Stožiceアリーナ|'''{{Bk|ESP}}'''|'''92'''|{{Bk|CRO}}|66
+}}
+
+;5位決定トーナメント
+{{Round4-with third|RD2=5位決定戦|RD3=7位決定戦
+&lt;!--SF--&gt;
+|9月19日 – Stožiceアリーナ|{{Bk|SRB}}|74|'''{{Bk|SVN}}'''|'''92'''
+|9月20日 – Stožiceアリーナ|'''{{Bk|UKR}}'''|'''66'''|{{Bk|ITA}}|58
+&lt;!--F--&gt;
+|9月21日 – Stožiceアリーナ|'''{{Bk|SVN}}'''|'''69'''|{{Bk|UKR}}|63
+|9月21日 – Stožiceアリーナ|'''{{Bk|SRB}}'''|'''76'''|{{Bk|ITA}}|64
+}}&lt;/onlyinclude&gt;
+
+====準々決勝====
+{{basketballbox|bg=#eee|date=2013年9月18日|time=17:30|place=Arena Stožice（[[リュブリャナ]]）
+|teamA={{Bk-rt|SRB}} |scoreA=60
+|teamB='''{{Bk|ESP}}''' |scoreB='''90'''
+|Q1=5–'''21'''|Q2=18–'''27'''|Q3=16–'''25'''|Q4='''21'''–17
+|attendance=7,610
+|report=[http://www.eurobasket2013.org/en/cid_8Xfg3jZMG1QuJnp6pnUWd3.gameID_8733-79-A-1.compID_qMRZdYCZI6EoANOrUf9le2.season_2013.roundID_8733.teamID_.html Boxscore]
+}}
+{{basketballbox|date= 2013年9月18日|time=21:00|place=Arena Stožice（[[リュブリャナ]]）
+|teamA={{Bk-rt|SVN}} |scoreA=62
+|teamB='''{{Bk|FRA}}''' |scoreB='''72'''
+|Q1='''12'''–10|Q2=12–'''16'''|Q3=21–'''24'''|Q4=17–'''22'''
+|attendance=10,000
+|report=[http://www.eurobasket2013.org/en/cid_8Xfg3jZMG1QuJnp6pnUWd3.gameID_8733-82-A-1.compID_qMRZdYCZI6EoANOrUf9le2.season_2013.roundID_8733.teamID_.html Boxscore]
+}}
+{{basketballbox|bg=#eee|date= 2013年9月19日|time=17:45|place=Arena Stožice（[[リュブリャナ]]）
+|teamA='''{{Bk-rt|CRO}}''' |scoreA='''84'''
+|teamB={{Bk|UKR}} |scoreB=72
+|Q1=22–22|Q2='''29'''–13|Q3=19–'''26'''|Q4='''14'''–11
+|attendance=7,700
+|report=[http://www.eurobasket2013.org/en/cid_8Xfg3jZMG1QuJnp6pnUWd3.gameID_8733-81-A-1.compID_qMRZdYCZI6EoANOrUf9le2.season_2013.roundID_8733.teamID_.html Boxscore]
+}}
+{{basketballbox|date= 2013年9月19日|time=21:00|place=Arena Stožice（[[リュブリャナ]]）
+|teamA='''{{Bk-rt|LTU}}''' |scoreA='''81'''
+|teamB={{Bk|ITA}} |scoreB=77
+|Q1='''22'''–15|Q2=18–'''24'''|Q3=17–'''19'''|Q4='''24'''–19
+|attendance=8,210
+|report=[http://www.eurobasket2013.org/en/cid_8Xfg3jZMG1QuJnp6pnUWd3.gameID_8733-80-A-1.compID_qMRZdYCZI6EoANOrUf9le2.season_2013.roundID_8733.teamID_.html Boxscore]
+}}
+
+==== 5-8位決定トーナメント ====
+{{basketballbox|bg=#eee|date= 2013年9月19日|time=14:30|place=Arena Stožice（[[リュブリャナ]]）
+|teamA={{Bk-rt|SRB}} |scoreA=74
+|teamB='''{{Bk|SVN}}''' |scoreB='''92'''
+|Q1=16–'''30'''|Q2=19–'''23'''|Q3='''20'''–18|Q4=19–'''21'''
+|attendance=5,730
+|report=[http://www.eurobasket2013.org/en/cid_8Xfg3jZMG1QuJnp6pnUWd3.gameID_8734-83-A-1.compID_qMRZdYCZI6EoANOrUf9le2.season_2013.roundID_8733.teamID_.html Boxscore]
+}}
+{{basketballbox|date= 2013年9月20日|time=14:30|place=Arena Stožice（[[リュブリャナ]]）
+|teamA={{Bk-rt|ITA}} |scoreA=58
+|teamB='''{{Bk|UKR}}''' |scoreB='''66'''
+|Q1='''17'''–13|Q2=17–'''22'''|Q3=14–'''16'''|Q4=10–'''15'''
+|attendance=3,070
+|report=[http://www.eurobasket2013.org/en/cid_8Xfg3jZMG1QuJnp6pnUWd3.gameID_8734-84-A-1.compID_qMRZdYCZI6EoANOrUf9le2.season_2013.roundID_8733.teamID_.html Boxscore]
+}}
+
+====準決勝====
+{{basketballbox|bg=#eee|date= 2013年9月20日|time=17:45|place=Arena Stožice（[[リュブリャナ]]）
+|teamA='''{{Bk-rt|LTU}}''' |scoreA='''77'''
+|teamB={{Bk|CRO}} |scoreB=62
+|Q1='''24'''–19|Q2=16–'''18'''|Q3='''21'''–8|Q4=16–'''17'''
+|attendance=9,180
+|report=[http://www.eurobasket2013.org/en/cid_8Xfg3jZMG1QuJnp6pnUWd3.gameID_8735-86-A-1.compID_qMRZdYCZI6EoANOrUf9le2.season_2013.roundID_8733.teamID_.html Boxscore]
+}}
+{{basketballbox|date= 2013年9月20日|time=21:00|place=Arena Stožice（[[リュブリャナ]]）
+|teamA={{Bk-rt|ESP}} |scoreA=72
+|teamB='''{{Bk|FRA}}''' |scoreB='''75'''
+|Q1='''18'''–14|Q2='''16'''–6|Q3=15–'''23'''|Q4=16–'''22'''|OT=7–'''10'''
+|attendance=9,060
+|report=[http://www.eurobasket2013.org/en/cid_8Xfg3jZMG1QuJnp6pnUWd3.gameID_8735-85-A-1.compID_qMRZdYCZI6EoANOrUf9le2.season_2013.roundID_8733.teamID_.html Boxscore]
+}}
+
+====7位決定戦====
+{{basketballbox|bg=#eee|date= 2013年9月21日|time=17:30|place=Arena Stožice（[[リュブリャナ]]）
+|teamA='''{{Bk-rt|SRB}}''' |scoreA='''76'''
+|teamB={{Bk|ITA}} |scoreB=64
+|Q1='''27'''–11|Q2=14–'''16'''|Q3=14–'''17'''|Q4='''21'''–20
+|attendance=4,030
+|report=[http://www.eurobasket2013.org/en/cid_8Xfg3jZMG1QuJnp6pnUWd3.gameID_8736-87-A-1.compID_qMRZdYCZI6EoANOrUf9le2.season_2013.roundID_8733.teamID_.html Boxscore]
+}}
+
+====5位決定戦====
+{{basketballbox|bg=#eee|date= 2013年9月21日|time=21:00|place=Arena Stožice（[[リュブリャナ]]）
+|teamA='''{{Bk-rt|SVN}}''' |scoreA='''69'''
+|teamB={{Bk|UKR}} |scoreB=63
+|Q1=16–'''23'''|Q2='''24'''–13|Q3='''14'''–8|Q4=15–'''19'''
+|attendance=10,000
+|report=[http://www.eurobasket2013.org/en/cid_8Xfg3jZMG1QuJnp6pnUWd3.gameID_8737-88-A-1.compID_qMRZdYCZI6EoANOrUf9le2.season_2013.roundID_8733.teamID_.html Boxscore]
+}}
+
+====3位決定戦====
+{{basketballbox|bg=#eee|date= 2013年9月22日|time=17:30|place=Arena Stožice（[[リュブリャナ]]）
+|teamA='''{{Bk-rt|ESP}}''' |scoreA='''92'''
+|teamB={{Bk|CRO}} |scoreB=66
+|Q1='''23'''–18|Q2='''24'''–18|Q3='''16'''–12|Q4='''29'''–18
+|attendance=6,050
+|report=[http://www.eurobasket2013.org/en/cid_8Xfg3jZMG1QuJnp6pnUWd3.gameID_8738-89-A-1.compID_qMRZdYCZI6EoANOrUf9le2.season_2013.roundID_8733.teamID_.html Boxscore]
+}}
+
+====決勝====
+{{basketballbox|bg=#ffffd0|date=2013年9月22日|time=21:00|place=Arena Stožice（[[リュブリャナ]]）
+|teamA='''{{Bk-rt|FRA}}''' |scoreA='''80'''
+|teamB={{Bk|LTU}} |scoreB=66
+|Q1=19–'''22'''|Q2='''31'''–12|Q3='''18'''–16|Q4=12–'''16'''
+|attendance=10,000
+|report=[http://www.eurobasket2013.org/en/cid_8Xfg3jZMG1QuJnp6pnUWd3.gameID_8739-90-A-1.compID_qMRZdYCZI6EoANOrUf9le2.season_2013.roundID_8733.teamID_.html Boxscore]
+}}
+
+{{winners|bk|ユーロバスケット2013 チャンピオン|FRA|初優勝}}
+
+== 関連項目 ==
+*[[2013年バスケットボール女子欧州選手権]]
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん2013}}
+[[Category:バスケットボール欧州選手権|2013たんし]]
+[[Category:2013年のバスケットボール|たんしおうしゆうせんしゆけん]]
+[[Category:スロベニアのバスケットボール|たんしおうしゆうせんしゆけん2013]]
+[[Category:スロベニア開催の国際スポーツ競技大会]]
+[[Category:2013年のスロベニア]]
+[[Category:2013年9月]]</text>
+      <sha1>ggkugmb85sc3k2bkprzo56jrd18hmx3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1941年バスケットボール男子欧州選手権</title>
+    <ns>0</ns>
+    <id>3645943</id>
+    <revision>
+      <id>65692023</id>
+      <parentid>65691908</parentid>
+      <timestamp>2017-09-26T07:32:52Z</timestamp>
+      <contributor>
+        <username>H-JAM</username>
+        <id>40253</id>
+      </contributor>
+      <comment>旗修正</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2147" xml:space="preserve">{{Infobox FIBA tourney
+| gender       = 
+| continent    = Europe
+| year         = 1941
+| host         = LTU1918
+| dates        = 
+| teams        = 
+| federations  = 
+| venues       = 1
+| cities       = 1
+| champions    = 
+| title_number = 1
+| mvp          = 
+| ppg_p        = 
+| ppg_t        = 
+| rpg_p        = 
+| rpg_t        = 
+| apg_p        = 
+| apg_t        = 
+| website      = 
+| prevseason   = [[1939年バスケットボール男子欧州選手権|1939]]
+| nextseason   = [[1946年バスケットボール男子欧州選手権|1946]]
+}}
+'''1941年バスケットボール欧州選手権'''（1941 European Basketball Championship）は、[[リトアニア]]・[[カウナス]]で開催される予定であった[[バスケットボール欧州選手権]]男子大会。通称「'''ユーロバスケット1941'''」。
+
+[[ソビエト連邦]]が1940年に[[バルト諸国占領|リトアニアを含むバルト諸国を占領]]したため、中止された&lt;ref&gt;[http://www.truelithuania.com/basketball-in-lithuania-33 Basketball in Lithuania: History, National Team, Clubs | True Lithuania] {{en icon}}&lt;/ref&gt;&lt;ref&gt;[http://www.fibaeurope.com/cid_7b0E4jiIIfk6gZwtQpkB30.coid_FDUc2FWRJ025tSADmRFV51.articleMode_on.html Federation Focus: Lithuania] {{en icon}}&lt;/ref&gt;。リトアニアには、本大会が中止となった補償として[[2011年バスケットボール男子欧州選手権|2011年大会]]の開催権が与えられた&lt;ref&gt;[http://www.snaujienos.lt/reklama/eurobasket-2011/17164-qeurobasket-2011q-turnyras-buvo-pelningas-?format=pdf "Eurobasket 2011" turnyras buvo pelningas] {{lt icon}}&lt;/ref&gt;。
+
+== 脚注 ==
+{{脚注ヘルプ}}
+{{Reflist}}
+
+{{国際バスケット}}
+{{バスケットボール欧州選手権}}
+{{Basketball-stub}}
+
+{{デフォルトソート:はすけつとほおるたんしおうしゆうせんしゆけん1941}}
+[[Category:バスケットボール欧州選手権|1941]]
+[[Category:1941年のスポーツ]]
+[[Category:リトアニアのバスケットボール|たんしおうしゆうせんしゆけん1941]]
+[[Category:カウナス]]
+[[Category:開催中止となったスポーツ競技大会]]</text>
+      <sha1>eg0jgz9xg1d9b5ucu6ftcnp7d1d5fpq</sha1>
+    </revision>
+  </page>
+</mediawiki>

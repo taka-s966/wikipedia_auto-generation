@@ -1,0 +1,963 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="ja">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>jawiki</dbname>
+    <base>https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8</base>
+    <generator>MediaWiki 1.40.0-wmf.6</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">メディア</namespace>
+      <namespace key="-1" case="first-letter">特別</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">ノート</namespace>
+      <namespace key="2" case="first-letter">利用者</namespace>
+      <namespace key="3" case="first-letter">利用者‐会話</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia‐ノート</namespace>
+      <namespace key="6" case="first-letter">ファイル</namespace>
+      <namespace key="7" case="first-letter">ファイル‐ノート</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki‐ノート</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template‐ノート</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help‐ノート</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category‐ノート</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal‐ノート</namespace>
+      <namespace key="102" case="first-letter">プロジェクト</namespace>
+      <namespace key="103" case="first-letter">プロジェクト‐ノート</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">モジュール</namespace>
+      <namespace key="829" case="first-letter">モジュール‐ノート</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>増支部</title>
+    <ns>0</ns>
+    <id>2999583</id>
+    <revision>
+      <id>82976515</id>
+      <parentid>76149435</parentid>
+      <timestamp>2021-04-13T19:51:12Z</timestamp>
+      <contributor>
+        <username>Ryo 625</username>
+        <id>286649</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5541" xml:space="preserve">{{Pathnav|パーリ仏典|経蔵 (パーリ)|frame=1}}
+'''増支部'''（ぞうしぶ、{{lang-pi-short|Aṅguttara Nikāya}}, AN, '''アングッタラ・ニカーヤ'''）とは、[[仏教]]の[[パーリ語経典]]の[[経蔵 (パーリ)|経蔵]]を構成する「五部」（{{lang-pi-short|Pañca Nikāya}}, パンチャ・ニカーヤ）の内の、第4番目の「部」（nikāya, ニカーヤ）のこと。
+
+各経典が扱っている論題内容の数（これを「法数」と言う。）に着目して、その数ごとにまとめた短編経典集であり、その数である支（aṅga）が集（nipata）を重ねるごとに1つ1つ増えていくので、パーリ語で「aṅga(支)-uttara(上/増)」で「Aṅguttara」、漢訳では「増支」と訳される。
+
+漢訳仏典における『[[阿含経]]』の内の『'''[[増一阿含経]]'''』(ぞういつあごんぎょう)に相当するが、パーリ語経典増支部が数千に及ぶ経典が要点だけ書かれる形式なのに対して、漢訳『増一阿含経』は物語を含む長めの経典を含んだ約520経で構成されており、現在ではほとんどその対応関係が失われてしまっている&lt;ref name=chuo&gt;[http://www.sakya-muni.jp/00/00-01/post-62.html 原始仏教聖典資料による釈尊伝の研究] - [[中央学術研究所]]&lt;/ref&gt;。
+
+ちなみに、『[[増一阿含経]]』の原題は「{{lang|sa|Ekottarika-āgama}}{{Sfn|大窪|1984|page=706}}」（エーコーッタリカ・[[阿含経|アーガマ]]）で、こちらは1つ1つ増えていくことを表現した「eka（一）-uttara(増)」という語から来ているので、「増一阿含」と漢訳される。どちらも意味するところは同じである。
+
+==構成==
+増支部の構成は以下の通り&lt;ref&gt;[http://daizoshuppan.jinbunpub.com/daizo/usr/info/WEB%E5%8D%97%E4%BC%9D%E5%A4%A7%E8%94%B5%E7%B5%8C%E7%9B%AE%E9%8C%B2.pdf WEB南伝大蔵経目録]{{リンク切れ|date=2017年9月 |bot=InternetArchiveBot }} pp.9-11&lt;/ref&gt;。
+
+*1. '''[[一集 (増支部)|一集]]'''（Ekaka-nipāta, '''エーカカ・ニパータ'''） --- 20の「品」（vagga）、計611経（項目）から成る。
+*2. '''[[二集 (増支部)|二集]]'''（Duka-nipāta, '''ドゥカ・ニパータ'''） --- 15の「品」（vagga）と4つの「略品」（peyyāla）、計246経（項目）から成る。
+*3. '''[[三集 (増支部)|三集]]'''（Tika-nipāta, '''ティカ・ニパータ'''） --- 16の「品」（vagga）と2つの「略品」（peyyāla）、計184経（項目）から成る。
+*4. '''[[四集 (増支部)|四集]]'''（Catukka-nipāta, '''チャトゥッカ・ニパータ'''） --- 27の「品」（vagga）と1つの「略品」（peyyāla）、計783経（項目）から成る。
+*5. '''[[五集 (増支部)|五集]]'''（Pañcaka-nipāta, '''パンチャカ・ニパータ'''） --- 26の「品」（vagga）と3つの「略品」（peyyāla）、計1151経（項目）から成る。
+*6. '''[[六集 (増支部)|六集]]'''（Chakka-nipāta, '''チャッカ・ニパータ'''） --- 12の「品」（vagga）と1つの「略品」（peyyāla）、計649経（項目）から成る。
+*7. '''[[七集 (増支部)|七集]]'''（Sattaka-nipāta, '''サッタカ・ニパータ'''） --- 10の「品」（vagga）と1つの「略品」（peyyāla）、計1132経（項目）から成る。
+*8. '''[[八集 (増支部)|八集]]'''（Aṭṭhakādi-nipāta, '''アッタカーディ・ニパータ'''） --- 10の「品」（vagga）と1つの「略品」（peyyāla）、計626経（項目）から成る。
+*9. '''[[九集 (増支部)|九集]]'''（Navaka-nipāta, '''ナヴァカ・ニパータ'''） --- 9の「品」（vagga）と1つの「略品」（peyyāla）、計432経（項目）から成る。
+*10. '''[[十集 (増支部)|十集]]'''（Dasaka-nipāta, '''ダサカ・ニパータ'''） --- 22の「品」（vagga）と1つの「略品」（peyyāla）、計746経（項目）から成る。
+*11. '''[[十一集 (増支部)|十一集]]'''（Ekādasaka-nipāta, '''エーカーダサカ・ニパータ'''） --- 3つの「品」（vagga）と1つの「略品」（peyyāla）、計671経（項目）から成る。
+
+==日本語訳==
+*『南伝大蔵経・経蔵・増支部経典1-7』（17-22巻） [[大蔵出版]]
+*『原始仏典III 増支部経典』（全8巻（刊行中））[[中村元 (哲学者)|中村元]]監修 [[春秋社]]
+
+== 脚注 ==
+{{脚注ヘルプ}}
+=== 注釈 ===
+{{notelist2}}
+
+=== 出典 ===
+{{reflist}}
+
+==参考文献==
+* {{Cite journal |last=大窪 |first=祐宣 |title= 梵文増一阿含考 (その2)  |url=https://doi.org/10.4259/ibk.32.706 |journal=印度學佛教學研究 |volume=32 |issue=2 |date=1984 |publisher=日本印度学仏教学会 |pages=706-707 |ref={{SfnRef|大窪|1984}} }}
+
+==関連項目==
+*[[パーリ語経典]]
+
+==外部リンク==
+*[http://www.tipitaka.org/romn/ The Pali Tipitaka] - Tipitaka.org --- 第6結集本のパーリ語原文を、様々な文字で読める&lt;br/&gt;(Tipiṭaka (Roman) &gt; Tipiṭaka (Mūla) &gt; Suttapiṭaka &gt; Aṅguttaranikāya)
+*[http://www.accesstoinsight.org/tipitaka/an/　Anguttara Nikaya] - [[:en:Access to Insight|Access to Insight]] --- 英訳
+*[https://suttacentral.net/ Suttacentral] Suttacentral 様々な言語訳が読める総合的な三蔵に関するサイト
+
+{{Buddhism-stub}}
+{{tipitaka}}
+{{Buddhism2}}
+
+{{デフォルトソート:そうしふ}}
+[[Category:経蔵 (パーリ)]]
+[[Category:増支部|*]]</text>
+      <sha1>amsfyc6uq2skc5ymnhvncwaxrk0ihzu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>一集 (増支部)</title>
+    <ns>0</ns>
+    <id>3197624</id>
+    <revision>
+      <id>76149353</id>
+      <parentid>71396173</parentid>
+      <timestamp>2020-02-11T10:09:59Z</timestamp>
+      <contributor>
+        <username>Santi Green</username>
+        <id>1052634</id>
+      </contributor>
+      <minor/>
+      <comment>/* 外部リンク */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1837" xml:space="preserve">{{Pathnav|パーリ仏典|経蔵 (パーリ)|増支部|frame=1}}
+「'''一集'''」&lt;ref&gt;『南伝大蔵経』&lt;/ref&gt;（いっしゅう、{{lang-pi-short|Ekaka-nipāta}}, '''エーカカ・ニパータ'''）とは、[[パーリ仏典]][[経蔵 (パーリ)|経蔵]][[増支部]]の第1集。
+
+==構成==
+20品611経（項目）から成る。
+
+#[[色等品]]（Rūpādi-vagga） --- 1-10
+#[[断蓋品]]（Nīvaraṇappahāna-vagga） --- 11-20
+#[[無堪忍品]]（Akammaniya-vagga） --- 21-30
+#[[無調品]]（Adanta-vagga） --- 31-40
+#[[向隠覆品]]（Paṇihita-accha-vagga） --- 41-50
+#[[弾指品]]（Accharā-saṅghāta-vagga） --- 51-60
+#[[発精進等品]]（Vīriyārambhādi-vagga） --- 61-70
+#[[善友等品]]（Kalyāṇa-mittādi-vagga） --- 71-80
+#[[放逸等品]]（Pamādādi-vagga） --- 81-97
+#[[第二放逸等品]]（Dutiya-pamādādi-vagga） --- 98-139
+#[[非法等品]]（Adhamma-vagga） --- 140-149
+#[[無犯等品]]（Anāpatti-vagga） --- 150-169
+#[[一人品]]（Ekapuggala-vagga） --- 170-187
+#[[是第一品]]（Etadagga-vagga） --- 188-267
+#[[無処品]]（Aṭṭhāna-pāḷi） --- 268-295
+#[[一法品]]（Ekadhamma-pāḷi） --- 296-365
+#[[浄法品]]（Pasāda-kara-dhamma-vagga） --- 366-381
+#[[後弾指品]]（Apara-accharā-saṅghāta-vagga） --- 382-562
+#[[身念品]]（Kāyagatā-sati-vagga） --- 563-599
+#[[不死品]]（Amata-vagga） --- 600-611
+
+==日本語訳==
+*『南伝大蔵経・経蔵・増支部経典1』（第17巻） [[大蔵出版]]
+
+==脚注・出典==
+{{Reflist}}
+
+==関連項目==
+
+==外部リンク==
+* [https://www.bdcu.org.au/bddronline/bddr12no3/anguttara.html 英訳]
+* [https://www.suttacentral.net/an1 Suttacentral 英訳を含む外国語訳]
+{{Buddhism-stub}}
+{{tipitaka}}
+{{デフォルトソート:いつしゆうそうしふ}}
+[[Category:増支部]]</text>
+      <sha1>kx041h12bejph465tpbju5htv67t6mt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>二集 (増支部)</title>
+    <ns>0</ns>
+    <id>3198083</id>
+    <revision>
+      <id>57121407</id>
+      <parentid>55067432</parentid>
+      <timestamp>2015-10-10T00:10:14Z</timestamp>
+      <contributor>
+        <username>Leonidjp</username>
+        <id>936337</id>
+      </contributor>
+      <comment>スタブテンプレート挿入</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1625" xml:space="preserve">{{Pathnav|パーリ仏典|経蔵 (パーリ)|増支部|frame=1}}
+「'''二集'''」&lt;ref&gt;『南伝大蔵経』&lt;/ref&gt;（にしゅう、{{lang-pi-short|Duka-nipāta}}, '''ドゥカ・ニパータ'''）とは、[[パーリ仏典]][[経蔵 (パーリ)|経蔵]][[増支部]]の第2集。
+
+==構成==
+19品246経（項目）から成る。
+*初の五十
+**1.[[科刑罰品]]（Kamma-karaṇa-vaggo） --- 1-10
+**2.[[諍論品]]（Adhi-karaṇa-vaggo） --- 11-21
+**3.[[愚人品]]（Bāla-vaggo） --- 22-32
+**4.[[等心品]]（Samacitta-vaggo） --- 33-42
+**5.[[衆会品]]（Parisa-vaggo） --- 43-52
+*第二の五十
+**6.[[人品]]（Puggala-vaggo） --- 53-64
+**7.[[楽品]]（Sukha-vaggo） --- 65-77
+**8.[[有品]]（Sanimitta-vaggo） --- 78-87
+**9.[[法品]]（Dhamma-vaggo） --- 88-98
+**10.[[愚者品]]（Bāla-vaggo） --- 99-118
+*第三の五十
+**11.[[希望品]]（Āsā-duppajaha-vaggo） --- 119-130
+**12.[[希求品]]（Āyācana-vaggo） --- 131-141
+**13.[[施品]]（Dāna-vaggo） --- 142-151
+**14.[[覆護品]]（Santhāra-vaggo） --- 152-163
+**15.[[入定品]]（Samāpatti-vaggo） --- 164-180
+*五十所不摂の品
+**16.[[忿品]]（Kodha-peyyālaṃ） --- 181-190
+**17.[[不善品]]（Akusala-peyyālaṃ） --- 191-200
+**18.[[律品]]（Vinaya-peyyālaṃ） --- 201-230
+**19.[[貪品]]（Rāga-peyyālaṃ） --- 231-246
+
+==日本語訳==
+*『南伝大蔵経・経蔵・増支部経典1』（第17巻） [[大蔵出版]]
+
+==脚注・出典==
+{{Reflist}}
+
+==関連項目==
+
+==外部リンク==
+
+{{Buddhism-stub}}
+{{tipitaka}}
+{{デフォルトソート:にしゆうそうしふ}}
+[[Category:増支部]]</text>
+      <sha1>7y0416v00pyj7m6hewfqvg9usprsr32</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>三集 (増支部)</title>
+    <ns>0</ns>
+    <id>3198093</id>
+    <revision>
+      <id>71397710</id>
+      <parentid>57121409</parentid>
+      <timestamp>2019-01-23T07:27:19Z</timestamp>
+      <contributor>
+        <ip>210.5.174.98</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1599" xml:space="preserve">{{Pathnav|パーリ仏典|経蔵 (パーリ)|増支部|frame=1}}
+「'''三集'''」&lt;ref&gt;『南伝大蔵経』&lt;/ref&gt;（さんしゅう、{{lang-pi-short|Tika-nipāta}}, '''ティカ・ニパータ'''）とは、[[パーリ仏典]][[経蔵 (パーリ)|経蔵]][[増支部]]の第3集。
+
+==構成==
+18品184経（項目）から成る。
+*初の五十
+**1.[[愚人品]]（Bāla-vaggo） --- 1-10
+**2.[[車匠品]]（Rathakāra-vaggo） --- 11-20
+**3.[[人品]]（Puggala-vaggo） --- 21-30
+**4.[[天使品]]（Devadūta-vaggo） --- 31-40
+**5.[[小品]]（Cūḷa-vaggo） --- 41-51
+*第二の五十
+**6.[[婆羅門品]]（Brāhmaṇa-vaggo） --- 52-61
+**7.[[大品]]（Mahā-vaggo） --- 62-71
+**8.[[阿難品]]（Ānanda-vaggo） --- 72-87
+**9.[[沙門品]]（Sāmañña-vaggo） --- 82-92
+**10.[[一掬塩品]]（Loṇa-kapalla-vaggo） --- 93-103
+*第三の五十
+**11.[[等覚品]]（Sambodha-vaggo） --- 104-113
+**12.[[悪趣品]]（Āpāyika-vaggo） --- 114-123
+**13.[[拘尸那掲羅品]]（Kusināra-vaggo） --- 124-133
+**14.[[戦士品]]（Yodhājīva-vaggo） --- 134-146
+**15.[[吉祥品]]（Maṅgala-vaggo） --- 147-156
+*五十所不摂の品
+**16.[[裸形品]]（Acelaka-vaggo） --- 157-163
+**17.[[業道品]]（Kammapatha-peyyālaṃ） --- 164-183
+**18.[[貪品]]（Rāga-peyyālaṃ） --- 184
+
+==日本語訳==
+*『南伝大蔵経・経蔵・増支部経典1』（第17巻） [[大蔵出版]]
+
+==脚注・出典==
+{{Reflist}}
+
+==関連項目==
+
+==外部リンク==
+
+{{Buddhism-stub}}
+{{tipitaka}}
+{{デフォルトソート:さんしゆうそうしふ}}
+[[Category:増支部]]</text>
+      <sha1>lp461s5kphslvbz2hw9smh2ysvpmw2p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>四集 (増支部)</title>
+    <ns>0</ns>
+    <id>3198102</id>
+    <revision>
+      <id>71342660</id>
+      <parentid>57121411</parentid>
+      <timestamp>2019-01-18T09:54:47Z</timestamp>
+      <contributor>
+        <ip>210.5.174.98</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2125" xml:space="preserve">{{Pathnav|パーリ仏典|経蔵 (パーリ)|増支部|frame=1}}
+「'''四集'''」&lt;ref&gt;『南伝大蔵経』&lt;/ref&gt;（ししゅう、{{lang-pi-short|Catukka-nipāta}}, '''チャトゥッカ・ニパータ'''）とは、[[パーリ仏典]][[経蔵 (パーリ)|経蔵]][[増支部]]の第4集。
+
+==構成==
+28品783経（項目）から成る。
+*初の五十
+**1.[[班達伽瑪品]]（Bhaṇḍagāma-vaggo） --- 1-10
+**2.[[行品]]（Cara-vaggo） --- 11-20
+**3.[[優楼比螺品]]（Uruvela-vaggo） --- 21-30
+**4.[[輪品]]（Cakka-vaggo） --- 31-40
+**5.[[赤馬品]]（Rohitassa-vaggo） --- 41-50
+*第二の五十
+**6.[[福生品]]（Puññābhisanda-vaggo） --- 51-60
+**7.[[適切業品]]（Patta-kamma-vaggo） --- 61-70
+**8.[[無戯論品]]（Apaṇṇaka-vaggo） --- 71-80
+**9.[[不動品]]（Macala-vaggo） --- 81-90
+**10.[[阿修羅品]]（Asura-vaggo） --- 91-100
+*第三の五十
+**11.[[雲品]]（Valāhaka-vaggo） --- 101-110
+**12.[[只尸品]]（Kesi-vaggo） --- 111-120
+**13.[[怖畏品]]（Bhaya-vaggo） --- 121-130
+**14.[[補特伽螺品]]（Puggala-vaggo） --- 131-140
+**15.[[光品]]（Ābhā-vaggo） --- 141-150
+*第四の五十
+**16.[[根品]]（Indriya-vaggo） --- 151-160
+**17.[[行品]]（Paṭipadā-vaggo） --- 161-170
+**18.[[故思品]]（Sañcetaniya-vaggo） --- 171-180
+**19.[[婆羅門品]]（Brāhmaṇa-vaggo） --- 181-190
+**20.[[大品]]（Mahā-vaggo） --- 191-200
+*第五の五十
+**21.[[善士品]]（Sappurisa-vaggo） --- 201-210
+**22.[[荘飾品]]（Parisā-vaggo） --- 211-220
+**23.[[妙行品]]（Duccarita-vaggo） --- 221-231
+**24.[[業品]]（Kamma-vaggo） --- 232-242
+**25.[[犯畏品]]（Āpattibhaya-vaggo） --- 243-253
+**26.[[通慧品]]（Abhiññā-vaggo） --- 254-263
+**27.[[業道品]]（Kammapatha-vaggo） --- 264-273
+**28.[[貪品]]（Rāga-peyyālaṃ） --- 274-783
+
+==日本語訳==
+*『南伝大蔵経・経蔵・増支部経典2』（第18巻） [[大蔵出版]]
+
+==脚注・出典==
+{{Reflist}}
+
+==関連項目==
+
+==外部リンク==
+
+{{Buddhism-stub}}
+{{tipitaka}}
+{{デフォルトソート:ししゆうそうしふ}}
+[[Category:増支部]]</text>
+      <sha1>mo1egq2vlm6q0oe97g4is4y6r95y6og</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>六集 (増支部)</title>
+    <ns>0</ns>
+    <id>3198118</id>
+    <revision>
+      <id>57121415</id>
+      <parentid>55068633</parentid>
+      <timestamp>2015-10-10T00:11:05Z</timestamp>
+      <contributor>
+        <username>Leonidjp</username>
+        <id>936337</id>
+      </contributor>
+      <comment>スタブテンプレート挿入</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1309" xml:space="preserve">{{Pathnav|パーリ仏典|経蔵 (パーリ)|増支部|frame=1}}
+「'''六集'''」&lt;ref&gt;『南伝大蔵経』&lt;/ref&gt;（ろくしゅう、{{lang-pi-short|Chakka-nipāta}}, '''チャッカ・ニパータ'''）とは、[[パーリ仏典]][[経蔵 (パーリ)|経蔵]][[増支部]]の第6集。
+
+==構成==
+13品649経（項目）から成る。
+*初の五十
+**1.[[応請品]]（Āhuneyya-vaggo） --- 1-10
+**2.[[可念品]]（Sāraṇīya-vaggo） --- 11-20
+**3.[[無上品]]（Anuttariya-vaggo） --- 21-30
+**4.[[天品]]（Devatā-vaggo） --- 31-42
+**5.[[曇弥品]]（Dhammika-vaggo） --- 43-54
+*第二の五十
+**6.[[大品]]（Mahā-vaggo） --- 55-64
+**7.[[天神品]]（Devatā-vaggo） --- 65-74
+**8.[[阿羅漢果品]]（Arahatta-vaggo） --- 75-84
+**9.[[清涼品]]（Sīti-vaggo） --- 85-95
+**10.[[勝利品]]（Ānisaṃsa-vaggo） --- 96-106
+*五十所不摂品
+**11.[[三法品]]（Tika-vaggo） --- 107-116
+**12.[[沙門品]]（Sāmañña-vaggo） --- 117-139
+**13.[[貪品]]（Rāga-peyyālaṃ） --- 140-649
+
+==日本語訳==
+*『南伝大蔵経・経蔵・増支部経典4』（第20巻） [[大蔵出版]]
+
+==脚注・出典==
+{{Reflist}}
+
+==関連項目==
+
+==外部リンク==
+
+{{Buddhism-stub}}
+{{tipitaka}}
+{{デフォルトソート:ろくしゆうそうしふ}}
+[[Category:増支部]]</text>
+      <sha1>29jxxgbayt9e5yw4se1rtykaxwrmmxg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>七集 (増支部)</title>
+    <ns>0</ns>
+    <id>3198119</id>
+    <revision>
+      <id>71397718</id>
+      <parentid>71397492</parentid>
+      <timestamp>2019-01-23T07:27:27Z</timestamp>
+      <contributor>
+        <ip>210.5.174.98</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1188" xml:space="preserve">{{Pathnav|パーリ仏典|経蔵 (パーリ)|増支部|frame=1}}
+「'''七集'''」&lt;ref&gt;『南伝大蔵経』&lt;/ref&gt;（しちしゅう、{{lang-pi-short|Sattaka-nipāta}}, '''サッタカ・ニパータ'''）とは、[[パーリ仏典]][[経蔵 (パーリ)|経蔵]][[増支部]]の第7集。
+
+==構成==
+11品1132経（項目）から成る。
+
+*初の五十
+**1.[[財品]]（Dhana-vaggo） --- 1-10
+**2.[[随眠品]]（Anusaya-vaggo） --- 11-20
+**3.[[跋耆品]]（Vajjisattaka-vaggo） --- 21-31
+**4.[[天品]]（Devatā-vaggo） --- 32-43
+**5.[[大供犧品]]（Mahā-yañña-vaggo） --- 44-53
+*五十所不摂品
+**6.[[無記品]]（Abyākata-vaggo） --- 54-64
+**7.[[大品]]（Mahā-vaggo） --- 65-74
+**8.[[律品]]（Vinaya-vaggo） --- 75-84
+**9.[[沙門品]]（Sāmañña-vaggo） --- 85-94
+**10.[[応請品]]（Āhuneyya-vaggo） --- 95-622
+**11.[[貪品]]（Rāga-peyyālaṃ） --- 623-1132
+
+==日本語訳==
+*『南伝大蔵経・経蔵・増支部経典4』（第20巻） [[大蔵出版]]
+
+==脚注・出典==
+{{Reflist}}
+
+==関連項目==
+
+==外部リンク==
+
+{{Buddhism-stub}}
+{{tipitaka}}
+{{デフォルトソート:しちしゆうそうしふ}}
+[[Category:増支部]]</text>
+      <sha1>etegw49nsoqfz7mg5lrmbgicznjpukh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>八集 (増支部)</title>
+    <ns>0</ns>
+    <id>3198121</id>
+    <revision>
+      <id>57121421</id>
+      <parentid>55068697</parentid>
+      <timestamp>2015-10-10T00:11:46Z</timestamp>
+      <contributor>
+        <username>Leonidjp</username>
+        <id>936337</id>
+      </contributor>
+      <comment>スタブテンプレート挿入</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1183" xml:space="preserve">{{Pathnav|パーリ仏典|経蔵 (パーリ)|増支部|frame=1}}
+「'''八集'''」&lt;ref&gt;『南伝大蔵経』&lt;/ref&gt;（はっしゅう、{{lang-pi-short|Aṭṭhakādi-nipāta}}, '''アッタカーディ・ニパータ'''）とは、[[パーリ仏典]][[経蔵 (パーリ)|経蔵]][[増支部]]の第8集。
+
+==構成==
+11品626経（項目）から成る。
+
+*五十経
+**1.[[慈品]]（Mettā-vaggo） --- 1-10
+**2.[[大品]]（Mahā-vaggo） --- 11-20
+**3.[[居士品]]（Gahapati-vaggo） --- 21-30
+**4.[[布施品]]（Dāna-vaggo） --- 31-40
+**5.[[布薩品]]（Uposatha-vaggo） --- 41-50
+*五十経余品
+**6.[[瞿曇弥品]]（Gotamī-vaggo） --- 51-60
+**7.[[地震品]]（Bhūmicāla-vaggo） --- 61-70
+**8.[[双品]]（Yamaka-vaggo） --- 71-80
+**9.[[念品]]（Sati-vaggo） --- 81-90
+**10.[[沙門品]]（Sāmañña-vaggo） --- 91-116
+**11.[[貪品]]（Rāga-peyyālaṃ） --- 117-626
+
+==日本語訳==
+*『南伝大蔵経・経蔵・増支部経典5』（第21巻） [[大蔵出版]]
+
+==脚注・出典==
+{{Reflist}}
+
+==関連項目==
+
+==外部リンク==
+
+{{Buddhism-stub}}
+{{tipitaka}}
+{{デフォルトソート:はつしゆうそうしふ}}
+[[Category:増支部]]</text>
+      <sha1>35yhqykcoaa2flylzxy9ur0davqq2u4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>九集 (増支部)</title>
+    <ns>0</ns>
+    <id>3198124</id>
+    <revision>
+      <id>57121423</id>
+      <parentid>55068765</parentid>
+      <timestamp>2015-10-10T00:11:54Z</timestamp>
+      <contributor>
+        <username>Leonidjp</username>
+        <id>936337</id>
+      </contributor>
+      <comment>スタブテンプレート挿入</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1158" xml:space="preserve">{{Pathnav|パーリ仏典|経蔵 (パーリ)|増支部|frame=1}}
+「'''九集'''」&lt;ref&gt;『南伝大蔵経』&lt;/ref&gt;（くしゅう、{{lang-pi-short|Navaka-nipāta}}, '''ナヴァカ・ニパータ'''）とは、[[パーリ仏典]][[経蔵 (パーリ)|経蔵]][[増支部]]の第9集。
+
+==構成==
+10品432経（項目）から成る。
+
+*初の五十経
+**1.[[等覚品]]（Sambodhi-vaggo） --- 1-10
+**2.[[師子吼品]]（Sīhanāda-vaggo） --- 11-20
+**3.[[有情居品]]（Sattāvāsa-vaggo） --- 21-31
+**4.[[大品]]（Mahā-vaggo） --- 32-41
+**5.[[沙門品]]（Sāmañña-vaggo） --- 42-51
+*五十経余品
+**6.[[安穏品]]（Khema-vaggo） --- 52-62
+**7.[[念処品]]（Satipaṭṭhāna-vaggo） --- 63-72
+**8.[[正勤品]]（Sammappadhāna-vaggo） --- 73-82
+**9.[[神足品]]（Iddhipāda-vaggo） --- 83-92
+**10.[[貪品]]（Rāga-peyyālaṃ） --- 93-432
+
+==日本語訳==
+*『南伝大蔵経・経蔵・増支部経典6』（第22巻上） [[大蔵出版]]
+
+==脚注・出典==
+{{Reflist}}
+
+==関連項目==
+
+==外部リンク==
+
+{{Buddhism-stub}}
+{{tipitaka}}
+{{デフォルトソート:くしゆうそうしふ}}
+[[Category:増支部]]</text>
+      <sha1>kcnxid6p8o2k3pjbgteiu8zb1gx7z3h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>十集 (増支部)</title>
+    <ns>0</ns>
+    <id>3198125</id>
+    <revision>
+      <id>71397720</id>
+      <parentid>71397493</parentid>
+      <timestamp>2019-01-23T07:27:33Z</timestamp>
+      <contributor>
+        <ip>210.5.174.98</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1878" xml:space="preserve">{{Pathnav|パーリ仏典|経蔵 (パーリ)|増支部|frame=1}}
+「'''十集'''」&lt;ref&gt;『南伝大蔵経』&lt;/ref&gt;（じっしゅう、{{lang-pi-short|Dasaka-nipāta}}, '''ダサカ・ニパータ'''）とは、[[パーリ仏典]][[経蔵 (パーリ)|経蔵]][[増支部]]の第10集。
+
+==構成==
+23品746経（項目）から成る。
+
+*初の五十経
+**1.[[功徳品]]（Ānisaṃsa-vaggo） --- 1-10
+**2.[[救護品]]（Nātha-vaggo） --- 11-20
+**3.[[大品]]（Mahā-vaggo） --- 21-30
+**4.[[優波離品]]（Upāli-vaggo） --- 31-40
+**5.[[罵詈品]]（Akkosa-vaggo） --- 41-50
+*第二の五十経
+**6.[[己心品]]（Sacitta-vaggo） --- 51-60
+**7.[[双品]]（Yamaka-vaggo） --- 61-70
+**8.[[願品]]（Ākaṅkha-vaggo） --- 71-80
+**9.[[長老品]]（Thera-vaggo） --- 81-90
+**10.[[優婆塞品]]（Upāsaka-vaggo） --- 91-100
+*第三の五十経
+**11.[[沙門想品]]（Sāmañña-saññā-vaggo） --- 101-112
+**12.[[捨法品]]（Paccorohaṇi-vaggo） --- 113-122
+**13.[[清浄品]]（Parisuddha-vaggo） --- 123-133
+**14.[[善良品]]（Sādhu-vaggo） --- 134-144
+**15.[[聖品]]（Ariya-vaggo） --- 145-154
+*第四の五十経
+**16.[[人品]]（Puggala-vaggo） --- 155-166
+**17.[[生聞品]]（Jāṇussoṇi-vaggo） --- 167-177
+**18.[[善良品]]（Sādhu-vaggo） --- 178-188
+**19.[[聖道品]]（Ariyamagga-vaggo） --- 189-198
+**20.[[後人品]]（Apara-puggala-vaggo） --- 199-210
+*余経
+**21.[[業所生身品]]（Karajakāya-vaggo） --- 211-220
+**22.[[沙門品]]（Sāmañña-vaggo） --- 221-236
+**23.[[貪品]]（Rāga-peyyālaṃ） --- 237-746
+
+==日本語訳==
+*『南伝大蔵経・経蔵・増支部経典6-7』（第22巻上下） [[大蔵出版]]
+
+==脚注・出典==
+{{Reflist}}
+
+==関連項目==
+
+==外部リンク==
+
+{{Buddhism-stub}}
+{{tipitaka}}
+{{デフォルトソート:しつしゆうそうしふ}}
+[[Category:増支部]]</text>
+      <sha1>b4n73qvzr9dtt4pitab6xo1l7wojct8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>十一集 (増支部)</title>
+    <ns>0</ns>
+    <id>3198127</id>
+    <revision>
+      <id>57121426</id>
+      <parentid>55068862</parentid>
+      <timestamp>2015-10-10T00:12:12Z</timestamp>
+      <contributor>
+        <username>Leonidjp</username>
+        <id>936337</id>
+      </contributor>
+      <comment>スタブテンプレート挿入</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="853" xml:space="preserve">{{Pathnav|パーリ仏典|経蔵 (パーリ)|増支部|frame=1}}
+「'''十一集'''」&lt;ref&gt;『南伝大蔵経』&lt;/ref&gt;（じゅういっしゅう、{{lang-pi-short|Ekādasaka-nipāta}}, '''エーカーダサカ・ニパータ'''）とは、[[パーリ仏典]][[経蔵 (パーリ)|経蔵]][[増支部]]の第11集。
+
+==構成==
+4品671経（項目）から成る。
+
+*1.[[依止品]]（Nissaya-vaggo） --- 1-10
+*2.[[憶念品]]（Anussati-vaggo） --- 11-20
+*3.[[沙門品]]（Sāmañña-vaggo） --- 22-501
+*4.[[貪品]]（Rāga-peyyālaṃ） --- 502-671
+
+==日本語訳==
+*『南伝大蔵経・経蔵・増支部経典7』（第22巻下） [[大蔵出版]]
+
+==脚注・出典==
+{{Reflist}}
+
+==関連項目==
+
+==外部リンク==
+
+{{Buddhism-stub}}
+{{tipitaka}}
+{{デフォルトソート:しゆういつしゆうそうしふ}}
+[[Category:増支部]]</text>
+      <sha1>g5gpoowjriqqdwpssujcrdy4ytekaw4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>五集 (増支部)</title>
+    <ns>0</ns>
+    <id>3198117</id>
+    <revision>
+      <id>71397716</id>
+      <parentid>71397617</parentid>
+      <timestamp>2019-01-23T07:27:23Z</timestamp>
+      <contributor>
+        <ip>210.5.174.98</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2243" xml:space="preserve">{{Pathnav|パーリ仏典|経蔵 (パーリ)|増支部|frame=1}}
+「'''五集'''」&lt;ref&gt;『南伝大蔵経』&lt;/ref&gt;（ごしゅう、{{lang-pi-short|Pañcaka-nipāta}}, '''パンチャカ・ニパータ'''）とは、[[パーリ仏典]][[経蔵 (パーリ)|経蔵]][[増支部]]の第5集。
+
+==構成==
+29品1151経（項目）から成る。
+*初の五十
+**1.[[学力品]]（Sekhabala-vaggo） --- 1-10
+**2.[[力品]]（Bala-vaggo） --- 11-20
+**3.[[五支品]]（Pañcaṅgika-vaggo） --- 21-30
+**4.[[沙門品]]（Sāmañña-vaggo） --- 31-40
+**5.[[文荼王品]]（Muṇḍa-rāja-vaggo） --- 41-50
+*第二の五十
+**6.[[蓋品]]（Nīvaraṇa-vaggo） --- 51-60
+**7.[[想品]]（Saññā-vaggo） --- 61-70
+**8.[[戦士品]]（Yodhājīva-vaggo） --- 71-80
+**9.[[長老品]]（Thera-vaggo） --- 81-90
+**10.[[伽倶陀品]]（Kakudha-vaggo） --- 91-100
+*第三の五十
+**11.[[安穏住品]]（Phāsuvihāra-vaggo） --- 101-110
+**12.[[阿那伽頻頭品]]（Andhakavinda-vaggo） --- 111-120
+**13.[[病品]]（Gilāna-vaggo） --- 121-130
+**14.[[王品]]（Rāja-vaggo） --- 131-140
+**15.[[底甘陀品]]（Tikaṇḍakī-vaggo） --- 141-150
+*第四の五十
+**16.[[妙法品]]（Saddhamma-vaggo） --- 151-160
+**17.[[嫌根品]]（Āghāta-vaggo） --- 161-170
+**18.[[優婆塞品]]（Upāsaka-vaggo） --- 171-180
+**19.[[阿蘭若品]]（Arañña-vaggo） --- 181-190
+**20.[[婆羅門品]]（Brāhmaṇa-vaggo） --- 191-200
+*第五の五十
+**21.[[金毗羅品]]（Kimila-vaggo） --- 201-210
+**22.[[罵詈品]]（Akkosaka-vaggo） --- 211-220
+**23.[[長遊行品]]（Dīgha-cārika-vaggo） --- 221-230
+**24.[[旧住品]]（Āvāsika-vaggo） --- 231-240
+**25.[[悪行品]]（Duccarita-vaggo） --- 241-250
+*第六の五十
+**26.[[近円品]]（Upasampadā-vaggo） --- 251-271
+**27.[[俗品]]（Sammuti-peyyālaṃ） --- 272-285
+**28.[[学処品]]（Sikkhāpada-peyyālaṃ） --- 286-302
+**29.[[貪品]]（Rāga-peyyālaṃ） --- 303-1151
+
+==日本語訳==
+*『南伝大蔵経・経蔵・増支部経典3』（第19巻） [[大蔵出版]]
+
+==脚注・出典==
+{{Reflist}}
+
+==関連項目==
+
+==外部リンク==
+
+{{Buddhism-stub}}
+{{tipitaka}}
+{{デフォルトソート:こしゆうそうしふ}}
+[[Category:増支部]]</text>
+      <sha1>6rrcduej51w3onrmg2ka49btl4d2d9o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>赤馬品</title>
+    <ns>0</ns>
+    <id>4255251</id>
+    <revision>
+      <id>86532820</id>
+      <parentid>84199175</parentid>
+      <timestamp>2021-11-14T11:22:50Z</timestamp>
+      <contributor>
+        <username>Yuasan</username>
+        <id>522259</id>
+      </contributor>
+      <comment>/* 顛倒経 */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4210" xml:space="preserve">'''赤馬品'''（Rohitassa-vaggo）、'''ローヒタッサ品'''とは、[[パーリ仏典]][[増支部]][[四集 (増支部)|四集]]に収録されている第5経。
+
+顛倒経（49節）が含まれ、そこでは四顛倒が説かれている。
+
+== 顛倒経 ==
+'''顛倒経'''（Vipallāsasuttaṃ、てんどうきょう）において、釈迦は４つの顛倒（cattāro Vipallāsa）を示し、これらは'''四顛倒'''（してんどう）と呼ばれる。[[顛倒]]とは「あべこべ」の意。[[常楽我浄]]ともされる。
+
+{{Quote|
+cattāro'me bhikkhave saññāvipallāsā cittavipallāsā diṭṭhivipallāsā.Katame cattāro?&lt;br&gt;
+Anicce bhikkhave niccanti saññāvipallāso cittavipallāso diṭṭhivipallāso.&lt;br&gt;
+Dukkhe bhikkhave sukhanti saññāvipallāso cittavipallāso diṭṭhivipallāso.&lt;br&gt;
+Anattani bhikkhave attāti saññāvipallāso cittavipallāso diṭṭhivipallāso.&lt;br&gt;
+Asubhe bhikkhave subhanti saññāvipallāso cittavipallāso diṭṭhivipallāso.&lt;br&gt;
+Ime kho bhikkhave cattāro saññāvipallāsā cittavipallāsā diṭṭhivipallāsā.
+
+[[比丘]]たちよ、この４つは顛倒した[[想]]（saññā）、顛倒した[[心 (仏教)|心]]（citta）、顛倒した[[見 (仏教)|見]]（diṭṭhi, 見顚倒）である。&lt;br&gt;
+その４つは何か。&lt;br&gt;
+[[無常]]を常と捉えるのは、想顚倒、心顚倒、見顚倒である。&lt;br&gt;
+[[苦 (仏教)|苦]]を[[楽 (仏教)|楽]]とと捉えるのは、想顚倒、心顚倒、見顚倒である。&lt;br&gt;
+[[無我]]を我と捉えるのは、想顚倒、心顚倒、見顚倒である。&lt;br&gt;
+不浄を浄と捉えるのは、想顚倒、心顚倒、見顚倒である。&lt;br&gt;
+比丘たちよ、この４つが、想顚倒、心顚倒、見顚倒である。
+
+Cattāro'me bhikkhave na saññāvipallāsā na cittavipallāsā na diṭṭhivipallāsā. Katame cattāro?&lt;br&gt;
+Anicce bhikkhave aniccanti na saññāvipallāso na cittavipallāso na diṭṭhivipallāso.&lt;br&gt;
+Dukkhe bhikkhave dukkhanti na saññāvipallāso na cittavipallāso na diṭṭhivipallāso.&lt;br&gt;
+Anattani bhikkhave anattāti na saññāvipallāso na cittavipallāso na diṭṭhivipallāso.&lt;br&gt;
+Asubhe bhikkhave asubhanti na saññāvipallāso na cittavipallāso na diṭṭhivipallāso.&lt;br&gt;
+Ime kho bhikkhave cattāro na saññāvipallāsā na cittavipallāsā na diṭṭhivipallāsāti.
+
+（一方で）比丘たちよ、この４つは顛倒した想（saññā）、顛倒した心（citta）、顛倒した見（diṭṭhi, 見顚倒）ではないのだ。&lt;br&gt;
+その４つは何か。&lt;br&gt;
+無常を無常と捉えるのは、想顚倒、心顚倒、見顚倒ではない。&lt;br&gt;
+苦を苦とと捉えるのは、想顚倒、心顚倒、見顚倒ではない。&lt;br&gt;
+無我を無我と捉えるのは、想顚倒、心顚倒、見顚倒ではない。&lt;br&gt;
+不浄を不浄と捉えるのは、想顚倒、心顚倒、見顚倒ではない。&lt;br&gt;
+比丘たちよ、この４つについては、想顚倒、心顚倒、見顚倒ではないのだ。
+ 
+Anicce niccasaññino dukkhe ca sukhasaññino, Anattani ca attāti asubhe subhasaññino.&lt;br&gt;
+Micchādiṭṭhigatā sattā khittacittā visaññino, Te yogayuttā mārassa ayogakkhemino janā.
+
+無常なものに常をいだき、苦であるものに楽をいだき、無我なものに我をいだき、不浄なものに浄をいだく。&lt;br&gt;
+[[衆生]]らは、[[邪見]]によって心乱され狂わせられる、[[マーラ]]にとらわられた安楽なき人々である。&lt;br&gt;
+ 
+Sattā gacchanti saṃsāraṃ jātimaraṇagāmino,&lt;br&gt;
+Yadā ca buddhā lokasmiṃ uppajjanti pabhaṅkarā. Temaṃ dhammaṃ pakāsenti dukkhūpasamagāminaṃ,
+
+（そのような）衆生らは[[輪廻]]に至り、[[生 (仏教)|生]]（ジャーティ）と死に飲み込まれる。&lt;br&gt;
+しかし世間に光をもたらす[[仏陀]]が起こったとき、彼は苦の[[寂止]]へ導く法（ダルマ）を明らかにする。
+
+| {{SLTP|増支部四集 5.赤馬品, 顚倒経}} }}
+
+
+{{Seealso|三相 (仏教)}}
+
+== 脚注 ==
+{{reflist}}
+
+==外部リンク==
+
+{{Buddhism-stub}}
+{{tipitaka}}
+
+{{デフォルトソート:あかうま}}
+[[Category:増支部]]</text>
+      <sha1>5y8lea8fo33ve7dwf93o5woq8i2dtzq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>適切業品</title>
+    <ns>0</ns>
+    <id>4382552</id>
+    <revision>
+      <id>83763489</id>
+      <parentid>83740610</parentid>
+      <timestamp>2021-05-29T16:16:50Z</timestamp>
+      <contributor>
+        <username>Yuasan</username>
+        <id>522259</id>
+      </contributor>
+      <comment>[[楽 (仏教)]から</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8351" xml:space="preserve">'''適切業品'''（パッタカンマ品, Pattakammavaggo）とは、[[パーリ仏典]]増支部[[四集 (増支部)|四集]]の第7品。'''パッタカンマ経'''（適業経, Pattakammasuttaṃ）、'''アナナ経'''（無負債経,Ānaṇyasuttaṃ）などが含まれる。
+
+[[釈迦]]が[[アナータピンディカ]][[居士]]に、[[在家]]信者はどのような生活を送ればよいかについて説く。世間における[[楽 (仏教)|楽]]を提示し、それを獲得する4つの方法と、その障害になる[[五蓋]]を挙げている。それを獲得できたならば、その後にすべきことも指南している。
+
+またインド哲学における[[カーマ (ヒンドゥー教)|カーマ]]に触れ、無罪の楽が最高であるとしている。
+
+{{Seealso|楽 (仏教)#パーリ経典}}
+{{TOC limit|3}}
+
+==パッタカンマ経==
+=== 世間で得難い四つの行い ===
+世間において誰もが期待するのだが、しかし得難い4つの行いについて述べている{{Sfn|スマナサーラ|2018|pp=36-37}}。
+
+{{Quote|
+Cattārome, gahapati, dhammā iṭṭhā kantā manāpā dullabhā lokasmiṃ. 	
+
+居士よ、これら四つの法（ダルマ）は、世間において欲せられ、愛され、意にかなうが得難いものである。
+}}
+
+* 正当な方法（如法）で得た財産を所有できる[[楽 (仏教)|楽]]（Sukha）{{Sfn|スマナサーラ|2018|pp=36-37}}
+* 前者を満たしてうえで、親族や恩師とともに名誉を得る楽{{Sfn|スマナサーラ|2018|pp=36-37}}
+* 前者を満たしたうえで、健康で長生きできる楽{{Sfn|スマナサーラ|2018|pp=36-37}}
+* 前者を満たしたうえで、死後に[[天界]]に生まれる楽{{Sfn|スマナサーラ|2018|pp=36-37}}
+
+=== 期待をかなえる四つの方法 ===
+これら得難い四つの行いについて、いかに獲得するかを釈迦は説く{{Sfn|スマナサーラ|2018|pp=38-39}}。
+
+{{Quote|
+Imesaṃ kho gahapati catunnaṃ dhammānaṃ iṭṭhānaṃ kantānaṃ manāpānaṃ dullabhānaṃ lokasmiṃ cattāro dhammā paṭilābhāya saṃvattanti. Katame cattāro?
+
+Saddhāsampadā sīlasampadā cāgasampadā paññāsampadā.
+
+居士よ、四つの法が存在し、これは世間において欲せられ、愛され、意にかなうが得難い四つの法について、その獲得に導くものである。
+その四法とは何か？　信の具足、戒の具足、施の具足、慧の具足である。
+}}
+
+*信の具足 (saddhāsampadā) - 如来の覚りを信じること。{{Sfn|スマナサーラ|2018|pp=38-39}}
+*[[戒]]の具足 (sīlasampadā) - [[五戒]]を守ること。{{Sfn|スマナサーラ|2018|pp=38-39}}
+*施の具足 (cāgasampadā) - [[布施]]に応じること。{{Sfn|スマナサーラ|2018|pp=38-39}}
+*慧の具足 (paññāsampadā) - [[五蓋]]に打ち負かされないようにすること。{{Sfn|スマナサーラ|2018|pp=38-39}}
+
+==== 慧の具足 ====
+慧の具足については、釈迦は「心の障害」として[[貪欲]]、[[瞋恚]]、[[惛沈]]、[[掉挙]]、[[疑]]の5つを挙げ（[[五蓋]]）、これらの汚れが心に入らないよう努めることであると説いている{{Sfn|スマナサーラ|2018|p=45}}。
+
+{{Quote|
+Katamā ca gahapati paññāsampadā: &lt;br&gt;
+abhijjhāvisamalobhābhibhūtena gahapati cetasā viharanto akiccaṃ karoti kiccaṃ aparādheti, akiccaṃ karonto kiccaṃ aparādhento yasā ca sukhā ca dhaṃsati. &lt;br&gt;
+Vyāpādābhibhūtena gahapati cetasā viharanto akiccaṃ karoti kiccaṃ aparādheti akiccaṃ karonto kiccaṃ aparādhento yasā ca sukhā ca dhaṃsati.&lt;br&gt;
+Thīnamiddhābhibhūtena gahapati cetasā viharanto akiccaṃ karoti, kiccaṃ aparādheti. Akiccaṃ karonto kiccaṃ aparādhento yasā ca sukhā ca dhaṃsati.&lt;br&gt;
+Uddhaccakukkuccābhibhūtena gahapati cetasā viharanto akiccaṃ karoti, kiccaṃ aparādheti. Akiccaṃ karonto kiccaṃ aparādhento yasā ca sukhā ca dhaṃsati. &lt;br&gt;
+Vicikicchābhibhūtena gahapati cetasā viharanto akiccaṃ karoti, kiccaṃ aparādheti. Akiccaṃ karonto kiccaṃ aparādhento yasā ca sukhā ca dhaṃsati.&lt;br&gt;
+
+居士よ、慧の具足とは何か？&lt;br&gt;
+居士よ、貪欲（Abhijjhā）に打ち負かされた心をもって生活する者は、行ってはならなことを行い、行うべきことを行わないので、彼の名誉と幸福は破滅する。&lt;br&gt;
+瞋恚（Byāpādābhibhūt）に打ち負かされた心をもって生活する者は、行ってはならなことを行い、行うべきことを行わないので、彼の名誉と幸福は破滅する。&lt;br&gt;
+惛眠（Thinamiddhābhibhūtena）に打ち負かされた心をもって生活する者は、行ってはならなことを行い、行うべきことを行わないので、彼の名誉と幸福は破滅する。&lt;br&gt;
+掉悔（Uddhaccakukkuccābhibhūtena）に打ち負かされた心をもって生活する者は、行ってはならなことを行い、行うべきことを行わないので、彼の名誉と幸福は破滅する&lt;br&gt;
+疑（Vicikicchābhibhūtena）に打ち負かされた心をもって生活する者は、行ってはならなことを行い、行うべきことを行わないので、彼の名誉と幸福は破滅する。
+
+Ayaṃ vuccati gahapati ariyasāvako mahāpañño puthupañño āpāthadaso paññāsampanno. Ayaṃ vuccati gahapati paññāsampadā.
+
+（これら5つの障害を心から遮断できた者は）居士よ、その聖弟子を大慧者、多慧者、智慧の具足者とよぶ。&lt;br&gt;
+居士よ、これが、慧の具足である。
+}}
+
+=== 恵まれた人の四つの行い ===
+これらの努力を経て、正当な方法で財産を得た在家者について、その後の生活について指南している{{Sfn|スマナサーラ|2018|pp=50-56}}。
+
+* 受用の楽 - 正当な方法で財産を得た在家者について、その使い道を述べる{{Sfn|スマナサーラ|2018|pp=50-56}}
+**自分自身の面倒を見て楽しむ
+** 両親に楽をさせて養う
+** 妻子、使用人に楽をさせて養う
+** 親友たち、仲間に楽をさせる
+* 財産の確保の楽{{Sfn|スマナサーラ|2018|pp=50-56}}
+** 財産がなくならないように、適切な対策を取るべきとしている
+* 5つの義務を果たせる楽 - 社会の中における自分の義務を果たせる喜び{{Sfn|スマナサーラ|2018|pp=50-56}}
+** 親族に対する義務
+** 来客、旅人に対する義務。旅の修行者をもてなすなど。
+** 先祖供養の義務
+** 王（施政者）に対する義務
+** 神々に対する供養の義務。土地の神々に対する供養など
+* [[布施]]ができる楽 {{Sfn|スマナサーラ|2018|pp=50-56}}
+
+== アナナ経 ==
+
+{{Quote|
+Cattārimāni gahapati sukhāni adhigamanīyāni gihinā kāmabhoginā kālena kālaṃ samayena samayaṃ upādāya. Katamāni cattāri?&lt;br&gt;
+Atthisukhaṃ bhogasukhaṃ anaṇasukhaṃ 2 anavajjasukhaṃ.&lt;br&gt;
+(中略)&lt;br&gt;
+Anavajjasukhassetaṃ kalaṃ nāgghati soḷasintī.
+
+居士（アナータピンディカ）よ、在家者が機会あれば獲得したいと欲する（[[カーマ (ヒンドゥー教)|カーマ]]）、四つの楽（Suhka）がある。&lt;br&gt;
+その四つは何か。所有する楽、受用の楽、無負債の楽、無罪の楽である。&lt;br&gt;
+(中略)&lt;br&gt;
+（前者３つの楽は）、無罪の楽の16分の1の価値もない。
+}}
+
+* 正義の手段によって富を獲得する楽 (''atthi-sukha'')
+* 富を家族、友人、功徳的行為に自由に使う楽 (''bhoga-sukha'')
+* 債務から解放され、借りがない自由の楽 (''ana{{IAST|ṇ}}a-sukha'')
+* 憎しみから解放され、思考、言葉、行為で誤りを犯すことなく、完璧で純粋な人生を送る楽 (''anavajja-sukha'')
+
+== 脚注 ==
+{{reflist}}
+
+== 参考文献 ==
+* {{SLTP|増支部四集 7.パッタカンマ経}} 
+* {{Cite|和書|title=テーラワーダ仏教「自ら確かめる」ブッダの教え (スマナサーラ長老クラシックス) |author=[[アルボムッレ・スマナサーラ]] |date=2018 |isbn=978-4804613574 |ref={{SfnRef|スマナサーラ|2018}} }}
+
+==関連項目==
+{{Buddhism-stub}}
+{{tipitaka}}
+
+{{デフォルトソート:てきせつこう}}
+[[Category:増支部]]</text>
+      <sha1>qi5zceksq2gwt6yt1b19mxwh709z5o3</sha1>
+    </revision>
+  </page>
+</mediawiki>
